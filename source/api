@@ -1,0 +1,10 @@
+.. toctree::
+    :maxdepth: 1
+
+    generated/networkx
+
+.. autosummary::
+   :toctree:generated/
+   :template:module_custom.rst
+
+    networkx

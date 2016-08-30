@@ -1,0 +1,34 @@
+#################
+API by submodules
+#################
+
+Easier to see by category here
+
+.. toctree::
+    :maxdepth: 1
+
+    generated/networkx.algorithms
+    generated/networkx.classes
+    generated/networkx.drawing
+    generated/networkx.external
+    generated/networkx.generators
+    generated/networkx.linalg
+    generated/networkx.readwrite
+    generated/networkx.testing
+    generated/networkx.tests
+    generated/networkx.utils
+
+.. autosummary::
+   :toctree:generated/
+   :template:module_custom.rst
+
+    networkx.algorithms
+    networkx.classes
+    networkx.drawing
+    networkx.external
+    networkx.generators
+    networkx.linalg
+    networkx.readwrite
+    networkx.testing
+    networkx.tests
+    networkx.utils
