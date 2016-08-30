@@ -19,3 +19,4 @@ Directly from http://networkx.readthedocs.io/en/stable/tutorial/tutorial.html
     graph_generators.rst
     analyze.rst
     drawing.rst
+    glossary.rst

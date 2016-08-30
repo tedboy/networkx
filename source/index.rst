@@ -13,6 +13,19 @@ Networkx API built using ``sphinx_rtd_theme``, with the page structured to my ow
    :numbered:
    :caption: Table of Contents
 
-   reference/index.rst
+   reference/intro.rst
    tutorial/index.rst
+   reference/graph_types.rst
+   reference/functions.rst
+   reference/generators.rst
+   reference/linalg
+   reference/algorithms_a_to_c.rst
+   reference/algorithms_d_to_l.rst
+   reference/algorithms_m_to_z.rst
+   reference/convert
+   reference/relabel
+   reference/drawing
+   reference/utils
+   reference/readwrite
+   reference/exceptions
 
