@@ -1,0 +1,6 @@
+networkx.algorithms.assortativity.k_nearest_neighbors
+=====================================================
+
+.. currentmodule:: networkx.algorithms.assortativity
+
+.. autofunction:: k_nearest_neighbors

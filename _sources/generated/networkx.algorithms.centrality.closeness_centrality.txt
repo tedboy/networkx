@@ -1,0 +1,6 @@
+networkx.algorithms.centrality.closeness_centrality
+===================================================
+
+.. currentmodule:: networkx.algorithms.centrality
+
+.. autofunction:: closeness_centrality

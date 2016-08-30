@@ -1,0 +1,6 @@
+networkx.algorithms.dominance.dominance_frontiers
+=================================================
+
+.. currentmodule:: networkx.algorithms.dominance
+
+.. autofunction:: dominance_frontiers

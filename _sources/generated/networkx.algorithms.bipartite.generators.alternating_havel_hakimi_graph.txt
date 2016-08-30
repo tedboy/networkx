@@ -1,0 +1,6 @@
+networkx.algorithms.bipartite.generators.alternating_havel_hakimi_graph
+=======================================================================
+
+.. currentmodule:: networkx.algorithms.bipartite.generators
+
+.. autofunction:: alternating_havel_hakimi_graph

@@ -1,0 +1,6 @@
+networkx.algorithms.isomorphism.GraphMatcher.__init__
+=====================================================
+
+.. currentmodule:: networkx.algorithms.isomorphism
+
+.. automethod:: GraphMatcher.__init__

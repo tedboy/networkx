@@ -1,0 +1,6 @@
+networkx.generators.directed.gn_graph
+=====================================
+
+.. currentmodule:: networkx.generators.directed
+
+.. autofunction:: gn_graph

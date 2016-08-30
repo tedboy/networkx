@@ -1,0 +1,6 @@
+networkx.algorithms.components.is_strongly_connected
+====================================================
+
+.. currentmodule:: networkx.algorithms.components
+
+.. autofunction:: is_strongly_connected

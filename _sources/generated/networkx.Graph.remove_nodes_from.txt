@@ -1,0 +1,6 @@
+networkx.Graph.remove_nodes_from
+================================
+
+.. currentmodule:: networkx
+
+.. automethod:: Graph.remove_nodes_from

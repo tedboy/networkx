@@ -1,0 +1,6 @@
+networkx.algorithms.shortest_paths.weighted.dijkstra_predecessor_and_distance
+=============================================================================
+
+.. currentmodule:: networkx.algorithms.shortest_paths.weighted
+
+.. autofunction:: dijkstra_predecessor_and_distance

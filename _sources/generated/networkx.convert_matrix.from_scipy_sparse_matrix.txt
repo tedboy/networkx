@@ -1,0 +1,6 @@
+networkx.convert_matrix.from_scipy_sparse_matrix
+================================================
+
+.. currentmodule:: networkx.convert_matrix
+
+.. autofunction:: from_scipy_sparse_matrix

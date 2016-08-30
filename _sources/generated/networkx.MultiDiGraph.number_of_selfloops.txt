@@ -1,0 +1,6 @@
+networkx.MultiDiGraph.number_of_selfloops
+=========================================
+
+.. currentmodule:: networkx
+
+.. automethod:: MultiDiGraph.number_of_selfloops

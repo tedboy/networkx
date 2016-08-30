@@ -1,0 +1,6 @@
+networkx.algorithms.coloring.strategy_connected_sequential_dfs
+==============================================================
+
+.. currentmodule:: networkx.algorithms.coloring
+
+.. autofunction:: strategy_connected_sequential_dfs

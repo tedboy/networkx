@@ -1,0 +1,6 @@
+networkx.algorithms.dag.topological_sort
+========================================
+
+.. currentmodule:: networkx.algorithms.dag
+
+.. autofunction:: topological_sort

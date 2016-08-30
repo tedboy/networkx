@@ -1,0 +1,6 @@
+networkx.algorithms.cuts.edge_expansion
+=======================================
+
+.. currentmodule:: networkx.algorithms.cuts
+
+.. autofunction:: edge_expansion

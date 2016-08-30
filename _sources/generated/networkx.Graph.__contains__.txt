@@ -1,0 +1,6 @@
+networkx.Graph.__contains__
+===========================
+
+.. currentmodule:: networkx
+
+.. automethod:: Graph.__contains__

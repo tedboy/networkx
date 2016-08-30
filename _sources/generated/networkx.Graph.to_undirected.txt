@@ -1,0 +1,6 @@
+networkx.Graph.to_undirected
+============================
+
+.. currentmodule:: networkx
+
+.. automethod:: Graph.to_undirected

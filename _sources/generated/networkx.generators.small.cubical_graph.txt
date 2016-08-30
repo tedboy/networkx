@@ -1,0 +1,6 @@
+networkx.generators.small.cubical_graph
+=======================================
+
+.. currentmodule:: networkx.generators.small
+
+.. autofunction:: cubical_graph

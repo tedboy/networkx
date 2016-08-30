@@ -1,0 +1,6 @@
+networkx.convert_matrix.from_pandas_dataframe
+=============================================
+
+.. currentmodule:: networkx.convert_matrix
+
+.. autofunction:: from_pandas_dataframe

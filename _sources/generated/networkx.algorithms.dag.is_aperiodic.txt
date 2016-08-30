@@ -1,0 +1,6 @@
+networkx.algorithms.dag.is_aperiodic
+====================================
+
+.. currentmodule:: networkx.algorithms.dag
+
+.. autofunction:: is_aperiodic

@@ -1,0 +1,6 @@
+networkx.utils.random_sequence.zipf_sequence
+============================================
+
+.. currentmodule:: networkx.utils.random_sequence
+
+.. autofunction:: zipf_sequence

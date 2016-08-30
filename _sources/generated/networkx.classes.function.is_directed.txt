@@ -1,0 +1,6 @@
+networkx.classes.function.is_directed
+=====================================
+
+.. currentmodule:: networkx.classes.function
+
+.. autofunction:: is_directed

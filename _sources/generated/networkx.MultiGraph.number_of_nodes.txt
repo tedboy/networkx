@@ -1,0 +1,6 @@
+networkx.MultiGraph.number_of_nodes
+===================================
+
+.. currentmodule:: networkx
+
+.. automethod:: MultiGraph.number_of_nodes

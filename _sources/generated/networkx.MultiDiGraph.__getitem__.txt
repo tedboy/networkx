@@ -1,0 +1,6 @@
+networkx.MultiDiGraph.__getitem__
+=================================
+
+.. currentmodule:: networkx
+
+.. automethod:: MultiDiGraph.__getitem__

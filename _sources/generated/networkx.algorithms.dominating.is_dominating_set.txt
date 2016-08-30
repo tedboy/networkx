@@ -1,0 +1,6 @@
+networkx.algorithms.dominating.is_dominating_set
+================================================
+
+.. currentmodule:: networkx.algorithms.dominating
+
+.. autofunction:: is_dominating_set

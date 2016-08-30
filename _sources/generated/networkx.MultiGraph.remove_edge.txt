@@ -1,0 +1,6 @@
+networkx.MultiGraph.remove_edge
+===============================
+
+.. currentmodule:: networkx
+
+.. automethod:: MultiGraph.remove_edge

@@ -1,0 +1,6 @@
+networkx.generators.directed.scale_free_graph
+=============================================
+
+.. currentmodule:: networkx.generators.directed
+
+.. autofunction:: scale_free_graph

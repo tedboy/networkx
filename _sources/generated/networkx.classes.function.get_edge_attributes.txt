@@ -1,0 +1,6 @@
+networkx.classes.function.get_edge_attributes
+=============================================
+
+.. currentmodule:: networkx.classes.function
+
+.. autofunction:: get_edge_attributes

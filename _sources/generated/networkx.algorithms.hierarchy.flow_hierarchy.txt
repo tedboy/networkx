@@ -1,0 +1,6 @@
+networkx.algorithms.hierarchy.flow_hierarchy
+============================================
+
+.. currentmodule:: networkx.algorithms.hierarchy
+
+.. autofunction:: flow_hierarchy

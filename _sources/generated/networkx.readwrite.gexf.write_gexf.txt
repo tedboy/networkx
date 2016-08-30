@@ -1,0 +1,6 @@
+networkx.readwrite.gexf.write_gexf
+==================================
+
+.. currentmodule:: networkx.readwrite.gexf
+
+.. autofunction:: write_gexf

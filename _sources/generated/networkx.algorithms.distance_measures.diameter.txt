@@ -1,0 +1,6 @@
+networkx.algorithms.distance_measures.diameter
+==============================================
+
+.. currentmodule:: networkx.algorithms.distance_measures
+
+.. autofunction:: diameter

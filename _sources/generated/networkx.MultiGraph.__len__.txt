@@ -1,0 +1,6 @@
+networkx.MultiGraph.__len__
+===========================
+
+.. currentmodule:: networkx
+
+.. automethod:: MultiGraph.__len__

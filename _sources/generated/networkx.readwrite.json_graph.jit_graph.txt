@@ -1,0 +1,6 @@
+networkx.readwrite.json_graph.jit_graph
+=======================================
+
+.. currentmodule:: networkx.readwrite.json_graph
+
+.. autofunction:: jit_graph

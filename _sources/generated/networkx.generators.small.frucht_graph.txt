@@ -1,0 +1,6 @@
+networkx.generators.small.frucht_graph
+======================================
+
+.. currentmodule:: networkx.generators.small
+
+.. autofunction:: frucht_graph

@@ -1,0 +1,6 @@
+networkx.drawing.nx_agraph.graphviz_layout
+==========================================
+
+.. currentmodule:: networkx.drawing.nx_agraph
+
+.. autofunction:: graphviz_layout

@@ -1,0 +1,6 @@
+networkx.Graph.__getitem__
+==========================
+
+.. currentmodule:: networkx
+
+.. automethod:: Graph.__getitem__

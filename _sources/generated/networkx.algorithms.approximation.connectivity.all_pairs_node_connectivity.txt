@@ -1,0 +1,6 @@
+networkx.algorithms.approximation.connectivity.all_pairs_node_connectivity
+==========================================================================
+
+.. currentmodule:: networkx.algorithms.approximation.connectivity
+
+.. autofunction:: all_pairs_node_connectivity

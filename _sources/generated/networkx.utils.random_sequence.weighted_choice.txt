@@ -1,0 +1,6 @@
+networkx.utils.random_sequence.weighted_choice
+==============================================
+
+.. currentmodule:: networkx.utils.random_sequence
+
+.. autofunction:: weighted_choice

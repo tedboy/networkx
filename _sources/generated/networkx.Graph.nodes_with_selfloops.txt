@@ -1,0 +1,6 @@
+networkx.Graph.nodes_with_selfloops
+===================================
+
+.. currentmodule:: networkx
+
+.. automethod:: Graph.nodes_with_selfloops

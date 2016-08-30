@@ -1,0 +1,6 @@
+networkx.algorithms.efficiency.local_efficiency
+===============================================
+
+.. currentmodule:: networkx.algorithms.efficiency
+
+.. autofunction:: local_efficiency

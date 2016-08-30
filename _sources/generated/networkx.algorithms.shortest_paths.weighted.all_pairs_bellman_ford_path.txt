@@ -1,0 +1,6 @@
+networkx.algorithms.shortest_paths.weighted.all_pairs_bellman_ford_path
+=======================================================================
+
+.. currentmodule:: networkx.algorithms.shortest_paths.weighted
+
+.. autofunction:: all_pairs_bellman_ford_path

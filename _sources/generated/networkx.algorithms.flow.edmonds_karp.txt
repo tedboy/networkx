@@ -1,0 +1,6 @@
+networkx.algorithms.flow.edmonds_karp
+=====================================
+
+.. currentmodule:: networkx.algorithms.flow
+
+.. autofunction:: edmonds_karp

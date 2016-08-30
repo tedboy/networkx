@@ -1,0 +1,6 @@
+networkx.algorithms.link_analysis.hits_alg.hub_matrix
+=====================================================
+
+.. currentmodule:: networkx.algorithms.link_analysis.hits_alg
+
+.. autofunction:: hub_matrix

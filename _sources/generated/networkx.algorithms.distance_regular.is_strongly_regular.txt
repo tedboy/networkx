@@ -1,0 +1,6 @@
+networkx.algorithms.distance_regular.is_strongly_regular
+========================================================
+
+.. currentmodule:: networkx.algorithms.distance_regular
+
+.. autofunction:: is_strongly_regular

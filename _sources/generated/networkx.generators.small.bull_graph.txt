@@ -1,0 +1,6 @@
+networkx.generators.small.bull_graph
+====================================
+
+.. currentmodule:: networkx.generators.small
+
+.. autofunction:: bull_graph

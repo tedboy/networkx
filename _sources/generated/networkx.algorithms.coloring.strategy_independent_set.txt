@@ -1,0 +1,6 @@
+networkx.algorithms.coloring.strategy_independent_set
+=====================================================
+
+.. currentmodule:: networkx.algorithms.coloring
+
+.. autofunction:: strategy_independent_set

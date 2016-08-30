@@ -1,0 +1,6 @@
+networkx.classes.function.create_empty_copy
+===========================================
+
+.. currentmodule:: networkx.classes.function
+
+.. autofunction:: create_empty_copy

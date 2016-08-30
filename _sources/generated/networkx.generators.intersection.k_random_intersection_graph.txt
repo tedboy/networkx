@@ -1,0 +1,6 @@
+networkx.generators.intersection.k_random_intersection_graph
+============================================================
+
+.. currentmodule:: networkx.generators.intersection
+
+.. autofunction:: k_random_intersection_graph

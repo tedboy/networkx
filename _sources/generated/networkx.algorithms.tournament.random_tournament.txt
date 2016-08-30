@@ -1,0 +1,6 @@
+networkx.algorithms.tournament.random_tournament
+================================================
+
+.. currentmodule:: networkx.algorithms.tournament
+
+.. autofunction:: random_tournament

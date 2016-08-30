@@ -1,0 +1,6 @@
+networkx.algorithms.vitality.closeness_vitality
+===============================================
+
+.. currentmodule:: networkx.algorithms.vitality
+
+.. autofunction:: closeness_vitality

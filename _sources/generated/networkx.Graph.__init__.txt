@@ -1,0 +1,6 @@
+networkx.Graph.__init__
+=======================
+
+.. currentmodule:: networkx
+
+.. automethod:: Graph.__init__

@@ -1,0 +1,6 @@
+networkx.generators.classic.path_graph
+======================================
+
+.. currentmodule:: networkx.generators.classic
+
+.. autofunction:: path_graph

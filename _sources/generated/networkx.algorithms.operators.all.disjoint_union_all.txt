@@ -1,0 +1,6 @@
+networkx.algorithms.operators.all.disjoint_union_all
+====================================================
+
+.. currentmodule:: networkx.algorithms.operators.all
+
+.. autofunction:: disjoint_union_all

@@ -1,0 +1,6 @@
+networkx.algorithms.components.biconnected_component_subgraphs
+==============================================================
+
+.. currentmodule:: networkx.algorithms.components
+
+.. autofunction:: biconnected_component_subgraphs

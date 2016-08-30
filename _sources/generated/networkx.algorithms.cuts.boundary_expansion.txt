@@ -1,0 +1,6 @@
+networkx.algorithms.cuts.boundary_expansion
+===========================================
+
+.. currentmodule:: networkx.algorithms.cuts
+
+.. autofunction:: boundary_expansion

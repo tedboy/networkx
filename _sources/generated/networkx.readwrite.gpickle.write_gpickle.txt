@@ -1,0 +1,6 @@
+networkx.readwrite.gpickle.write_gpickle
+========================================
+
+.. currentmodule:: networkx.readwrite.gpickle
+
+.. autofunction:: write_gpickle

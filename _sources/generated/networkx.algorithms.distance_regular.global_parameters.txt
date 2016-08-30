@@ -1,0 +1,6 @@
+networkx.algorithms.distance_regular.global_parameters
+======================================================
+
+.. currentmodule:: networkx.algorithms.distance_regular
+
+.. autofunction:: global_parameters

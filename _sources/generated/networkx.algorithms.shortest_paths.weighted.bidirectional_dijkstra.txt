@@ -1,0 +1,6 @@
+networkx.algorithms.shortest_paths.weighted.bidirectional_dijkstra
+==================================================================
+
+.. currentmodule:: networkx.algorithms.shortest_paths.weighted
+
+.. autofunction:: bidirectional_dijkstra

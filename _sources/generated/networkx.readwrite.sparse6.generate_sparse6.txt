@@ -1,0 +1,6 @@
+networkx.readwrite.sparse6.generate_sparse6
+===========================================
+
+.. currentmodule:: networkx.readwrite.sparse6
+
+.. autofunction:: generate_sparse6

@@ -1,0 +1,6 @@
+networkx.algorithms.centrality.communicability_betweenness_centrality
+=====================================================================
+
+.. currentmodule:: networkx.algorithms.centrality
+
+.. autofunction:: communicability_betweenness_centrality

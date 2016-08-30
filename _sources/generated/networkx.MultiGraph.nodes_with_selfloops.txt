@@ -1,0 +1,6 @@
+networkx.MultiGraph.nodes_with_selfloops
+========================================
+
+.. currentmodule:: networkx
+
+.. automethod:: MultiGraph.nodes_with_selfloops

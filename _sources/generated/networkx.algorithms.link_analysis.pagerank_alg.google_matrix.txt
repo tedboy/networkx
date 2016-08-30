@@ -1,0 +1,6 @@
+networkx.algorithms.link_analysis.pagerank_alg.google_matrix
+============================================================
+
+.. currentmodule:: networkx.algorithms.link_analysis.pagerank_alg
+
+.. autofunction:: google_matrix

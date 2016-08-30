@@ -1,0 +1,6 @@
+networkx.utils.misc.generate_unique_node
+========================================
+
+.. currentmodule:: networkx.utils.misc
+
+.. autofunction:: generate_unique_node

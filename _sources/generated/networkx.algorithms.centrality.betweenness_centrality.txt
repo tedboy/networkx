@@ -1,0 +1,6 @@
+networkx.algorithms.centrality.betweenness_centrality
+=====================================================
+
+.. currentmodule:: networkx.algorithms.centrality
+
+.. autofunction:: betweenness_centrality

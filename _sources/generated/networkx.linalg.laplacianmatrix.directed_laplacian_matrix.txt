@@ -1,0 +1,6 @@
+networkx.linalg.laplacianmatrix.directed_laplacian_matrix
+=========================================================
+
+.. currentmodule:: networkx.linalg.laplacianmatrix
+
+.. autofunction:: directed_laplacian_matrix

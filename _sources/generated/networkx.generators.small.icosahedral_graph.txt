@@ -1,0 +1,6 @@
+networkx.generators.small.icosahedral_graph
+===========================================
+
+.. currentmodule:: networkx.generators.small
+
+.. autofunction:: icosahedral_graph

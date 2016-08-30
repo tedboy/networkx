@@ -1,0 +1,6 @@
+networkx.algorithms.link_prediction.preferential_attachment
+===========================================================
+
+.. currentmodule:: networkx.algorithms.link_prediction
+
+.. autofunction:: preferential_attachment

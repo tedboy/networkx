@@ -1,0 +1,6 @@
+networkx.algorithms.graphical.is_pseudographical
+================================================
+
+.. currentmodule:: networkx.algorithms.graphical
+
+.. autofunction:: is_pseudographical

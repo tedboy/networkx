@@ -1,0 +1,6 @@
+networkx.generators.classic.grid_graph
+======================================
+
+.. currentmodule:: networkx.generators.classic
+
+.. autofunction:: grid_graph

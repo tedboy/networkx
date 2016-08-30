@@ -1,0 +1,6 @@
+networkx.algorithms.link_prediction.cn_soundarajan_hopcroft
+===========================================================
+
+.. currentmodule:: networkx.algorithms.link_prediction
+
+.. autofunction:: cn_soundarajan_hopcroft

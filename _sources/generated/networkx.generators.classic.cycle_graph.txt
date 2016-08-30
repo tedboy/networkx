@@ -1,0 +1,6 @@
+networkx.generators.classic.cycle_graph
+=======================================
+
+.. currentmodule:: networkx.generators.classic
+
+.. autofunction:: cycle_graph

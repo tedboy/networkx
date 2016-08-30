@@ -1,0 +1,6 @@
+networkx.algorithms.centrality.degree_centrality
+================================================
+
+.. currentmodule:: networkx.algorithms.centrality
+
+.. autofunction:: degree_centrality

@@ -1,0 +1,6 @@
+networkx.algorithms.flow.capacity_scaling
+=========================================
+
+.. currentmodule:: networkx.algorithms.flow
+
+.. autofunction:: capacity_scaling

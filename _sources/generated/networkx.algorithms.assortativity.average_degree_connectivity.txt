@@ -1,0 +1,6 @@
+networkx.algorithms.assortativity.average_degree_connectivity
+=============================================================
+
+.. currentmodule:: networkx.algorithms.assortativity
+
+.. autofunction:: average_degree_connectivity

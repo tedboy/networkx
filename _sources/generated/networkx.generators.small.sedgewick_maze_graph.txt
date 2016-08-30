@@ -1,0 +1,6 @@
+networkx.generators.small.sedgewick_maze_graph
+==============================================
+
+.. currentmodule:: networkx.generators.small
+
+.. autofunction:: sedgewick_maze_graph

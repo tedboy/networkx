@@ -1,0 +1,6 @@
+networkx.algorithms.isomorphism.DiGraphMatcher.__init__
+=======================================================
+
+.. currentmodule:: networkx.algorithms.isomorphism
+
+.. automethod:: DiGraphMatcher.__init__

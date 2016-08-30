@@ -1,0 +1,6 @@
+networkx.algorithms.centrality.eigenvector_centrality_numpy
+===========================================================
+
+.. currentmodule:: networkx.algorithms.centrality
+
+.. autofunction:: eigenvector_centrality_numpy

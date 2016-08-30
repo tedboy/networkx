@@ -1,0 +1,6 @@
+networkx.algorithms.approximation.ramsey.ramsey_R2
+==================================================
+
+.. currentmodule:: networkx.algorithms.approximation.ramsey
+
+.. autofunction:: ramsey_R2

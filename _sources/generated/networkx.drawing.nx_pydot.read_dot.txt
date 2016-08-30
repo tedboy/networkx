@@ -1,0 +1,6 @@
+networkx.drawing.nx_pydot.read_dot
+==================================
+
+.. currentmodule:: networkx.drawing.nx_pydot
+
+.. autofunction:: read_dot

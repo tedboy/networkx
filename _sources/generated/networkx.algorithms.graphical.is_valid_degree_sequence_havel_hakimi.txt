@@ -1,0 +1,6 @@
+networkx.algorithms.graphical.is_valid_degree_sequence_havel_hakimi
+===================================================================
+
+.. currentmodule:: networkx.algorithms.graphical
+
+.. autofunction:: is_valid_degree_sequence_havel_hakimi

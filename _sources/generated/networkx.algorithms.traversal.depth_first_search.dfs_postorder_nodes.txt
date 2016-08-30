@@ -1,0 +1,6 @@
+networkx.algorithms.traversal.depth_first_search.dfs_postorder_nodes
+====================================================================
+
+.. currentmodule:: networkx.algorithms.traversal.depth_first_search
+
+.. autofunction:: dfs_postorder_nodes

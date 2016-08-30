@@ -1,0 +1,6 @@
+networkx.algorithms.components.is_biconnected
+=============================================
+
+.. currentmodule:: networkx.algorithms.components
+
+.. autofunction:: is_biconnected

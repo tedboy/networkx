@@ -1,0 +1,6 @@
+networkx.algorithms.bipartite.generators.complete_bipartite_graph
+=================================================================
+
+.. currentmodule:: networkx.algorithms.bipartite.generators
+
+.. autofunction:: complete_bipartite_graph

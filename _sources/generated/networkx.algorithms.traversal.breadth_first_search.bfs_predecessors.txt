@@ -1,0 +1,6 @@
+networkx.algorithms.traversal.breadth_first_search.bfs_predecessors
+===================================================================
+
+.. currentmodule:: networkx.algorithms.traversal.breadth_first_search
+
+.. autofunction:: bfs_predecessors

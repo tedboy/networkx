@@ -1,0 +1,6 @@
+networkx.algorithms.isomorphism.GraphMatcher.candidate_pairs_iter
+=================================================================
+
+.. currentmodule:: networkx.algorithms.isomorphism
+
+.. automethod:: GraphMatcher.candidate_pairs_iter

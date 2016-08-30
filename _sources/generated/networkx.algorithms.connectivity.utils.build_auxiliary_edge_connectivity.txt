@@ -1,0 +1,6 @@
+networkx.algorithms.connectivity.utils.build_auxiliary_edge_connectivity
+========================================================================
+
+.. currentmodule:: networkx.algorithms.connectivity.utils
+
+.. autofunction:: build_auxiliary_edge_connectivity

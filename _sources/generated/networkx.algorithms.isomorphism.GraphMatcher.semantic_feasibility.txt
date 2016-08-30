@@ -1,0 +1,6 @@
+networkx.algorithms.isomorphism.GraphMatcher.semantic_feasibility
+=================================================================
+
+.. currentmodule:: networkx.algorithms.isomorphism
+
+.. automethod:: GraphMatcher.semantic_feasibility

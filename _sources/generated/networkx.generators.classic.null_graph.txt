@@ -1,0 +1,6 @@
+networkx.generators.classic.null_graph
+======================================
+
+.. currentmodule:: networkx.generators.classic
+
+.. autofunction:: null_graph

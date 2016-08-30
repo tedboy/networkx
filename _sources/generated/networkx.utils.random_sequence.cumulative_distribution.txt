@@ -1,0 +1,6 @@
+networkx.utils.random_sequence.cumulative_distribution
+======================================================
+
+.. currentmodule:: networkx.utils.random_sequence
+
+.. autofunction:: cumulative_distribution

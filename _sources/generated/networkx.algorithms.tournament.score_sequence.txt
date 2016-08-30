@@ -1,0 +1,6 @@
+networkx.algorithms.tournament.score_sequence
+=============================================
+
+.. currentmodule:: networkx.algorithms.tournament
+
+.. autofunction:: score_sequence

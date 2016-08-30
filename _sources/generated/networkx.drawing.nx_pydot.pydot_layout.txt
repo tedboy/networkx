@@ -1,0 +1,6 @@
+networkx.drawing.nx_pydot.pydot_layout
+======================================
+
+.. currentmodule:: networkx.drawing.nx_pydot
+
+.. autofunction:: pydot_layout

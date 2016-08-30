@@ -1,0 +1,6 @@
+networkx.drawing.layout.shell_layout
+====================================
+
+.. currentmodule:: networkx.drawing.layout
+
+.. autofunction:: shell_layout

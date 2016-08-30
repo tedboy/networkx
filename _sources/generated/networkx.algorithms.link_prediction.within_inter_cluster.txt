@@ -1,0 +1,6 @@
+networkx.algorithms.link_prediction.within_inter_cluster
+========================================================
+
+.. currentmodule:: networkx.algorithms.link_prediction
+
+.. autofunction:: within_inter_cluster

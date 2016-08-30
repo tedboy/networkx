@@ -1,0 +1,6 @@
+networkx.convert.from_edgelist
+==============================
+
+.. currentmodule:: networkx.convert
+
+.. autofunction:: from_edgelist

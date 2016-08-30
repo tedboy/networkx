@@ -1,0 +1,6 @@
+networkx.algorithms.components.strongly_connected_components_recursive
+======================================================================
+
+.. currentmodule:: networkx.algorithms.components
+
+.. autofunction:: strongly_connected_components_recursive

@@ -1,0 +1,6 @@
+networkx.DiGraph.remove_nodes_from
+==================================
+
+.. currentmodule:: networkx
+
+.. automethod:: DiGraph.remove_nodes_from

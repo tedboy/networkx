@@ -1,0 +1,6 @@
+networkx.algorithms.isolate.is_isolate
+======================================
+
+.. currentmodule:: networkx.algorithms.isolate
+
+.. autofunction:: is_isolate

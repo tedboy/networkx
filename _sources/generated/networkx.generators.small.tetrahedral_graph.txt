@@ -1,0 +1,6 @@
+networkx.generators.small.tetrahedral_graph
+===========================================
+
+.. currentmodule:: networkx.generators.small
+
+.. autofunction:: tetrahedral_graph

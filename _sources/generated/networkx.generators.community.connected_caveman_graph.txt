@@ -1,0 +1,6 @@
+networkx.generators.community.connected_caveman_graph
+=====================================================
+
+.. currentmodule:: networkx.generators.community
+
+.. autofunction:: connected_caveman_graph

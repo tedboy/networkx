@@ -1,0 +1,6 @@
+networkx.algorithms.core.k_core
+===============================
+
+.. currentmodule:: networkx.algorithms.core
+
+.. autofunction:: k_core

@@ -1,0 +1,6 @@
+networkx.algorithms.tree.recognition.is_tree
+============================================
+
+.. currentmodule:: networkx.algorithms.tree.recognition
+
+.. autofunction:: is_tree

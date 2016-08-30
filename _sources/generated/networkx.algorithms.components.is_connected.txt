@@ -1,0 +1,6 @@
+networkx.algorithms.components.is_connected
+===========================================
+
+.. currentmodule:: networkx.algorithms.components
+
+.. autofunction:: is_connected

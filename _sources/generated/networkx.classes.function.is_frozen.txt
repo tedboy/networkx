@@ -1,0 +1,6 @@
+networkx.classes.function.is_frozen
+===================================
+
+.. currentmodule:: networkx.classes.function
+
+.. autofunction:: is_frozen

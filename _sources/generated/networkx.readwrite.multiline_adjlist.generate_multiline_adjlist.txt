@@ -1,0 +1,6 @@
+networkx.readwrite.multiline_adjlist.generate_multiline_adjlist
+===============================================================
+
+.. currentmodule:: networkx.readwrite.multiline_adjlist
+
+.. autofunction:: generate_multiline_adjlist

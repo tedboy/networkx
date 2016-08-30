@@ -1,0 +1,6 @@
+networkx.generators.stochastic.stochastic_graph
+===============================================
+
+.. currentmodule:: networkx.generators.stochastic
+
+.. autofunction:: stochastic_graph

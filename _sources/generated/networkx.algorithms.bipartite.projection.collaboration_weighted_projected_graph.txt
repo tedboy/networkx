@@ -1,0 +1,6 @@
+networkx.algorithms.bipartite.projection.collaboration_weighted_projected_graph
+===============================================================================
+
+.. currentmodule:: networkx.algorithms.bipartite.projection
+
+.. autofunction:: collaboration_weighted_projected_graph

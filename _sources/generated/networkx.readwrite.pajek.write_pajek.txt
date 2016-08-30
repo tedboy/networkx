@@ -1,0 +1,6 @@
+networkx.readwrite.pajek.write_pajek
+====================================
+
+.. currentmodule:: networkx.readwrite.pajek
+
+.. autofunction:: write_pajek

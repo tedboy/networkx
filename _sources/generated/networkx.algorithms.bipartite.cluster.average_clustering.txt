@@ -1,0 +1,6 @@
+networkx.algorithms.bipartite.cluster.average_clustering
+========================================================
+
+.. currentmodule:: networkx.algorithms.bipartite.cluster
+
+.. autofunction:: average_clustering

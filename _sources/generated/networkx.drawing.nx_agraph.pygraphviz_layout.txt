@@ -1,0 +1,6 @@
+networkx.drawing.nx_agraph.pygraphviz_layout
+============================================
+
+.. currentmodule:: networkx.drawing.nx_agraph
+
+.. autofunction:: pygraphviz_layout

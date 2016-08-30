@@ -1,0 +1,6 @@
+networkx.algorithms.minors.quotient_graph
+=========================================
+
+.. currentmodule:: networkx.algorithms.minors
+
+.. autofunction:: quotient_graph

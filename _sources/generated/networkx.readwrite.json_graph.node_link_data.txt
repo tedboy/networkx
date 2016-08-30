@@ -1,0 +1,6 @@
+networkx.readwrite.json_graph.node_link_data
+============================================
+
+.. currentmodule:: networkx.readwrite.json_graph
+
+.. autofunction:: node_link_data

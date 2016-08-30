@@ -1,0 +1,6 @@
+networkx.algorithms.boundary.node_boundary
+==========================================
+
+.. currentmodule:: networkx.algorithms.boundary
+
+.. autofunction:: node_boundary

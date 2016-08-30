@@ -1,0 +1,6 @@
+networkx.algorithms.community.asyn_lpa.asyn_lpa_communities
+===========================================================
+
+.. currentmodule:: networkx.algorithms.community.asyn_lpa
+
+.. autofunction:: asyn_lpa_communities

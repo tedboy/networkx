@@ -1,0 +1,6 @@
+networkx.convert.to_networkx_graph
+==================================
+
+.. currentmodule:: networkx.convert
+
+.. autofunction:: to_networkx_graph

@@ -1,0 +1,6 @@
+networkx.DiGraph.nodes_with_selfloops
+=====================================
+
+.. currentmodule:: networkx
+
+.. automethod:: DiGraph.nodes_with_selfloops

@@ -1,0 +1,6 @@
+networkx.drawing.nx_agraph.from_agraph
+======================================
+
+.. currentmodule:: networkx.drawing.nx_agraph
+
+.. autofunction:: from_agraph

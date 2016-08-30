@@ -1,0 +1,6 @@
+networkx.drawing.nx_pylab.draw_networkx_edge_labels
+===================================================
+
+.. currentmodule:: networkx.drawing.nx_pylab
+
+.. autofunction:: draw_networkx_edge_labels

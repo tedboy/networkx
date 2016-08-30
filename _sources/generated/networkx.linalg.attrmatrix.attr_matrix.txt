@@ -1,0 +1,6 @@
+networkx.linalg.attrmatrix.attr_matrix
+======================================
+
+.. currentmodule:: networkx.linalg.attrmatrix
+
+.. autofunction:: attr_matrix

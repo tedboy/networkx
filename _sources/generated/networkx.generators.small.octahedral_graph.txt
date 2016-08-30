@@ -1,0 +1,6 @@
+networkx.generators.small.octahedral_graph
+==========================================
+
+.. currentmodule:: networkx.generators.small
+
+.. autofunction:: octahedral_graph

@@ -1,0 +1,6 @@
+networkx.algorithms.tournament.is_tournament
+============================================
+
+.. currentmodule:: networkx.algorithms.tournament
+
+.. autofunction:: is_tournament

@@ -1,0 +1,6 @@
+networkx.utils.misc.make_str
+============================
+
+.. currentmodule:: networkx.utils.misc
+
+.. autofunction:: make_str

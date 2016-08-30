@@ -1,0 +1,6 @@
+networkx.algorithms.bipartite.matching.to_vertex_cover
+======================================================
+
+.. currentmodule:: networkx.algorithms.bipartite.matching
+
+.. autofunction:: to_vertex_cover

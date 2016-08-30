@@ -1,0 +1,6 @@
+networkx.DiGraph.__contains__
+=============================
+
+.. currentmodule:: networkx
+
+.. automethod:: DiGraph.__contains__

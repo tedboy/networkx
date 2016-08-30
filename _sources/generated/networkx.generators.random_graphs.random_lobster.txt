@@ -1,0 +1,6 @@
+networkx.generators.random_graphs.random_lobster
+================================================
+
+.. currentmodule:: networkx.generators.random_graphs
+
+.. autofunction:: random_lobster

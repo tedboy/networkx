@@ -1,0 +1,6 @@
+networkx.MultiGraph.__init__
+============================
+
+.. currentmodule:: networkx
+
+.. automethod:: MultiGraph.__init__

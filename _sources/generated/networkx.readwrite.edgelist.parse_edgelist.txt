@@ -1,0 +1,6 @@
+networkx.readwrite.edgelist.parse_edgelist
+==========================================
+
+.. currentmodule:: networkx.readwrite.edgelist
+
+.. autofunction:: parse_edgelist

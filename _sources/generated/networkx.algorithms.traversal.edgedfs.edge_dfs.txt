@@ -1,0 +1,6 @@
+networkx.algorithms.traversal.edgedfs.edge_dfs
+==============================================
+
+.. currentmodule:: networkx.algorithms.traversal.edgedfs
+
+.. autofunction:: edge_dfs

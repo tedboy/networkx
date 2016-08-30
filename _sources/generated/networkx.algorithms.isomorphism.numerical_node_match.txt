@@ -1,0 +1,6 @@
+networkx.algorithms.isomorphism.numerical_node_match
+====================================================
+
+.. currentmodule:: networkx.algorithms.isomorphism
+
+.. autofunction:: numerical_node_match

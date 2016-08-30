@@ -1,0 +1,6 @@
+networkx.algorithms.minors.contracted_edge
+==========================================
+
+.. currentmodule:: networkx.algorithms.minors
+
+.. autofunction:: contracted_edge

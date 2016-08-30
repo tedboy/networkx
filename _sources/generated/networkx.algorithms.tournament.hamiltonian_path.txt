@@ -1,0 +1,6 @@
+networkx.algorithms.tournament.hamiltonian_path
+===============================================
+
+.. currentmodule:: networkx.algorithms.tournament
+
+.. autofunction:: hamiltonian_path

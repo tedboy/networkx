@@ -1,0 +1,6 @@
+networkx.algorithms.approximation.vertex_cover.min_weighted_vertex_cover
+========================================================================
+
+.. currentmodule:: networkx.algorithms.approximation.vertex_cover
+
+.. autofunction:: min_weighted_vertex_cover

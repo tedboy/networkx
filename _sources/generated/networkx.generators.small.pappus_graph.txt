@@ -1,0 +1,6 @@
+networkx.generators.small.pappus_graph
+======================================
+
+.. currentmodule:: networkx.generators.small
+
+.. autofunction:: pappus_graph

@@ -1,0 +1,6 @@
+networkx.generators.ego.ego_graph
+=================================
+
+.. currentmodule:: networkx.generators.ego
+
+.. autofunction:: ego_graph

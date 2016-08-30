@@ -1,0 +1,6 @@
+networkx.algorithms.isomorphism.DiGraphMatcher.syntactic_feasibility
+====================================================================
+
+.. currentmodule:: networkx.algorithms.isomorphism
+
+.. automethod:: DiGraphMatcher.syntactic_feasibility

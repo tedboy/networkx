@@ -1,0 +1,6 @@
+networkx.algorithms.centrality.global_reaching_centrality
+=========================================================
+
+.. currentmodule:: networkx.algorithms.centrality
+
+.. autofunction:: global_reaching_centrality

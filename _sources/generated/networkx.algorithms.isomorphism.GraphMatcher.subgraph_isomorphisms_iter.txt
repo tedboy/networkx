@@ -1,0 +1,6 @@
+networkx.algorithms.isomorphism.GraphMatcher.subgraph_isomorphisms_iter
+=======================================================================
+
+.. currentmodule:: networkx.algorithms.isomorphism
+
+.. automethod:: GraphMatcher.subgraph_isomorphisms_iter

@@ -1,0 +1,6 @@
+networkx.algorithms.hybrid.is_kl_connected
+==========================================
+
+.. currentmodule:: networkx.algorithms.hybrid
+
+.. autofunction:: is_kl_connected

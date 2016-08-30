@@ -1,0 +1,6 @@
+networkx.algorithms.approximation.dominating_set.min_edge_dominating_set
+========================================================================
+
+.. currentmodule:: networkx.algorithms.approximation.dominating_set
+
+.. autofunction:: min_edge_dominating_set

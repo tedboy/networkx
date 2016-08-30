@@ -1,0 +1,6 @@
+networkx.algorithms.isomorphism.categorical_node_match
+======================================================
+
+.. currentmodule:: networkx.algorithms.isomorphism
+
+.. autofunction:: categorical_node_match

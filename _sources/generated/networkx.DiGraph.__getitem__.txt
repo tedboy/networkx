@@ -1,0 +1,6 @@
+networkx.DiGraph.__getitem__
+============================
+
+.. currentmodule:: networkx
+
+.. automethod:: DiGraph.__getitem__

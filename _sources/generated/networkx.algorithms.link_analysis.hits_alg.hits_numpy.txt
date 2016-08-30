@@ -1,0 +1,6 @@
+networkx.algorithms.link_analysis.hits_alg.hits_numpy
+=====================================================
+
+.. currentmodule:: networkx.algorithms.link_analysis.hits_alg
+
+.. autofunction:: hits_numpy

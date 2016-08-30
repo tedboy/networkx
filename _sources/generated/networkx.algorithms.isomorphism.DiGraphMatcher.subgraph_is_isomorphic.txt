@@ -1,0 +1,6 @@
+networkx.algorithms.isomorphism.DiGraphMatcher.subgraph_is_isomorphic
+=====================================================================
+
+.. currentmodule:: networkx.algorithms.isomorphism
+
+.. automethod:: DiGraphMatcher.subgraph_is_isomorphic

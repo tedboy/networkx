@@ -1,0 +1,6 @@
+networkx.algorithms.assortativity.degree_pearson_correlation_coefficient
+========================================================================
+
+.. currentmodule:: networkx.algorithms.assortativity
+
+.. autofunction:: degree_pearson_correlation_coefficient

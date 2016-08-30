@@ -1,0 +1,6 @@
+networkx.algorithms.bipartite.matching.hopcroft_karp_matching
+=============================================================
+
+.. currentmodule:: networkx.algorithms.bipartite.matching
+
+.. autofunction:: hopcroft_karp_matching

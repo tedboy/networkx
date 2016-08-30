@@ -1,0 +1,6 @@
+networkx.algorithms.centrality.edge_load_centrality
+===================================================
+
+.. currentmodule:: networkx.algorithms.centrality
+
+.. autofunction:: edge_load_centrality

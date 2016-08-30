@@ -1,0 +1,6 @@
+networkx.Graph.nbunch_iter
+==========================
+
+.. currentmodule:: networkx
+
+.. automethod:: Graph.nbunch_iter

@@ -1,0 +1,6 @@
+networkx.algorithms.assortativity.attribute_mixing_dict
+=======================================================
+
+.. currentmodule:: networkx.algorithms.assortativity
+
+.. autofunction:: attribute_mixing_dict

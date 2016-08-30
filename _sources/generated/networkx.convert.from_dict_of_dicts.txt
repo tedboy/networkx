@@ -1,0 +1,6 @@
+networkx.convert.from_dict_of_dicts
+===================================
+
+.. currentmodule:: networkx.convert
+
+.. autofunction:: from_dict_of_dicts

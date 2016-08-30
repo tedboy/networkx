@@ -1,0 +1,6 @@
+networkx.readwrite.nx_yaml.read_yaml
+====================================
+
+.. currentmodule:: networkx.readwrite.nx_yaml
+
+.. autofunction:: read_yaml

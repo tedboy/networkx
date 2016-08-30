@@ -1,0 +1,6 @@
+networkx.algorithms.shortest_paths.weighted.single_source_dijkstra_path_length
+==============================================================================
+
+.. currentmodule:: networkx.algorithms.shortest_paths.weighted
+
+.. autofunction:: single_source_dijkstra_path_length

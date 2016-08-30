@@ -1,0 +1,6 @@
+networkx.algorithms.cycles.simple_cycles
+========================================
+
+.. currentmodule:: networkx.algorithms.cycles
+
+.. autofunction:: simple_cycles

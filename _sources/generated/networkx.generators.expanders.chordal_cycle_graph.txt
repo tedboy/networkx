@@ -1,0 +1,6 @@
+networkx.generators.expanders.chordal_cycle_graph
+=================================================
+
+.. currentmodule:: networkx.generators.expanders
+
+.. autofunction:: chordal_cycle_graph

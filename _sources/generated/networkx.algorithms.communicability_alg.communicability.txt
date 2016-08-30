@@ -1,0 +1,6 @@
+networkx.algorithms.communicability_alg.communicability
+=======================================================
+
+.. currentmodule:: networkx.algorithms.communicability_alg
+
+.. autofunction:: communicability

@@ -1,0 +1,6 @@
+networkx.algorithms.flow.preflow_push
+=====================================
+
+.. currentmodule:: networkx.algorithms.flow
+
+.. autofunction:: preflow_push

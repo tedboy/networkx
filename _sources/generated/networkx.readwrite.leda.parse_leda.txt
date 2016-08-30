@@ -1,0 +1,6 @@
+networkx.readwrite.leda.parse_leda
+==================================
+
+.. currentmodule:: networkx.readwrite.leda
+
+.. autofunction:: parse_leda

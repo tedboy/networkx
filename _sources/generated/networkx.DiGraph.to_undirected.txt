@@ -1,0 +1,6 @@
+networkx.DiGraph.to_undirected
+==============================
+
+.. currentmodule:: networkx
+
+.. automethod:: DiGraph.to_undirected

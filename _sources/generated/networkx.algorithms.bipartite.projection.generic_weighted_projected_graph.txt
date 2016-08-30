@@ -1,0 +1,6 @@
+networkx.algorithms.bipartite.projection.generic_weighted_projected_graph
+=========================================================================
+
+.. currentmodule:: networkx.algorithms.bipartite.projection
+
+.. autofunction:: generic_weighted_projected_graph

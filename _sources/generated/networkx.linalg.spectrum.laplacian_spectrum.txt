@@ -1,0 +1,6 @@
+networkx.linalg.spectrum.laplacian_spectrum
+===========================================
+
+.. currentmodule:: networkx.linalg.spectrum
+
+.. autofunction:: laplacian_spectrum

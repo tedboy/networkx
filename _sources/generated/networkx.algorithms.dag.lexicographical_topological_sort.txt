@@ -1,0 +1,6 @@
+networkx.algorithms.dag.lexicographical_topological_sort
+========================================================
+
+.. currentmodule:: networkx.algorithms.dag
+
+.. autofunction:: lexicographical_topological_sort

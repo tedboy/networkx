@@ -1,0 +1,6 @@
+networkx.generators.triads.triad_graph
+======================================
+
+.. currentmodule:: networkx.generators.triads
+
+.. autofunction:: triad_graph

@@ -1,0 +1,6 @@
+networkx.generators.joint_degree_seq.joint_degree_graph
+=======================================================
+
+.. currentmodule:: networkx.generators.joint_degree_seq
+
+.. autofunction:: joint_degree_graph

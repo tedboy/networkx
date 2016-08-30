@@ -1,0 +1,6 @@
+networkx.algorithms.isomorphism.numerical_multiedge_match
+=========================================================
+
+.. currentmodule:: networkx.algorithms.isomorphism
+
+.. autofunction:: numerical_multiedge_match

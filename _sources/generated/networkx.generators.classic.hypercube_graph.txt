@@ -1,0 +1,6 @@
+networkx.generators.classic.hypercube_graph
+===========================================
+
+.. currentmodule:: networkx.generators.classic
+
+.. autofunction:: hypercube_graph

@@ -1,0 +1,6 @@
+networkx.classes.function.common_neighbors
+==========================================
+
+.. currentmodule:: networkx.classes.function
+
+.. autofunction:: common_neighbors

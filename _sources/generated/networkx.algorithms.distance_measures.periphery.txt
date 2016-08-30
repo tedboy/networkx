@@ -1,0 +1,6 @@
+networkx.algorithms.distance_measures.periphery
+===============================================
+
+.. currentmodule:: networkx.algorithms.distance_measures
+
+.. autofunction:: periphery

@@ -1,0 +1,6 @@
+networkx.algorithms.assortativity.degree_assortativity_coefficient
+==================================================================
+
+.. currentmodule:: networkx.algorithms.assortativity
+
+.. autofunction:: degree_assortativity_coefficient

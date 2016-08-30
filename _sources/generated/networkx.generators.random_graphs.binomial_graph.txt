@@ -1,0 +1,6 @@
+networkx.generators.random_graphs.binomial_graph
+================================================
+
+.. currentmodule:: networkx.generators.random_graphs
+
+.. autofunction:: binomial_graph

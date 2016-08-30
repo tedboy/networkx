@@ -1,0 +1,6 @@
+networkx.linalg.graphmatrix.incidence_matrix
+============================================
+
+.. currentmodule:: networkx.linalg.graphmatrix
+
+.. autofunction:: incidence_matrix

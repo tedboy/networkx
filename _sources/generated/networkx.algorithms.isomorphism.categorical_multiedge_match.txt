@@ -1,0 +1,6 @@
+networkx.algorithms.isomorphism.categorical_multiedge_match
+===========================================================
+
+.. currentmodule:: networkx.algorithms.isomorphism
+
+.. autofunction:: categorical_multiedge_match

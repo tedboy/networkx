@@ -1,0 +1,6 @@
+networkx.generators.small.diamond_graph
+=======================================
+
+.. currentmodule:: networkx.generators.small
+
+.. autofunction:: diamond_graph

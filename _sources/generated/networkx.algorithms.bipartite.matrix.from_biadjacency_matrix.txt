@@ -1,0 +1,6 @@
+networkx.algorithms.bipartite.matrix.from_biadjacency_matrix
+============================================================
+
+.. currentmodule:: networkx.algorithms.bipartite.matrix
+
+.. autofunction:: from_biadjacency_matrix

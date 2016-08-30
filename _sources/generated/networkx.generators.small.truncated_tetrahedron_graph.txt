@@ -1,0 +1,6 @@
+networkx.generators.small.truncated_tetrahedron_graph
+=====================================================
+
+.. currentmodule:: networkx.generators.small
+
+.. autofunction:: truncated_tetrahedron_graph

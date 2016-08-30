@@ -1,0 +1,6 @@
+networkx.generators.degree_seq.configuration_model
+==================================================
+
+.. currentmodule:: networkx.generators.degree_seq
+
+.. autofunction:: configuration_model

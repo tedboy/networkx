@@ -1,0 +1,6 @@
+networkx.algorithms.flow.max_flow_min_cost
+==========================================
+
+.. currentmodule:: networkx.algorithms.flow
+
+.. autofunction:: max_flow_min_cost

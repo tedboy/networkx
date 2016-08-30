@@ -1,0 +1,6 @@
+networkx.MultiGraph.__contains__
+================================
+
+.. currentmodule:: networkx
+
+.. automethod:: MultiGraph.__contains__

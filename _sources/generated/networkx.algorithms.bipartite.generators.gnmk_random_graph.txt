@@ -1,0 +1,6 @@
+networkx.algorithms.bipartite.generators.gnmk_random_graph
+==========================================================
+
+.. currentmodule:: networkx.algorithms.bipartite.generators
+
+.. autofunction:: gnmk_random_graph

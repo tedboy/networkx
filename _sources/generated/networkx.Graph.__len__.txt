@@ -1,0 +1,6 @@
+networkx.Graph.__len__
+======================
+
+.. currentmodule:: networkx
+
+.. automethod:: Graph.__len__

@@ -1,0 +1,6 @@
+networkx.MultiDiGraph.__iter__
+==============================
+
+.. currentmodule:: networkx
+
+.. automethod:: MultiDiGraph.__iter__

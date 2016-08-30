@@ -1,0 +1,6 @@
+networkx.algorithms.isomorphism.numerical_edge_match
+====================================================
+
+.. currentmodule:: networkx.algorithms.isomorphism
+
+.. autofunction:: numerical_edge_match

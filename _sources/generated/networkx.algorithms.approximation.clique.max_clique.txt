@@ -1,0 +1,6 @@
+networkx.algorithms.approximation.clique.max_clique
+===================================================
+
+.. currentmodule:: networkx.algorithms.approximation.clique
+
+.. autofunction:: max_clique

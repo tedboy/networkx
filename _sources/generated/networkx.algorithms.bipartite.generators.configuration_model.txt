@@ -1,0 +1,6 @@
+networkx.algorithms.bipartite.generators.configuration_model
+============================================================
+
+.. currentmodule:: networkx.algorithms.bipartite.generators
+
+.. autofunction:: configuration_model

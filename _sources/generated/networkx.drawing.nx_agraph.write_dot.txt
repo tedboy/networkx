@@ -1,0 +1,6 @@
+networkx.drawing.nx_agraph.write_dot
+====================================
+
+.. currentmodule:: networkx.drawing.nx_agraph
+
+.. autofunction:: write_dot

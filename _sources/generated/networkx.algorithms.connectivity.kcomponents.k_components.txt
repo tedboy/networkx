@@ -1,0 +1,6 @@
+networkx.algorithms.connectivity.kcomponents.k_components
+=========================================================
+
+.. currentmodule:: networkx.algorithms.connectivity.kcomponents
+
+.. autofunction:: k_components

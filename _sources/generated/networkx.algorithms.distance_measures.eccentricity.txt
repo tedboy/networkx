@@ -1,0 +1,6 @@
+networkx.algorithms.distance_measures.eccentricity
+==================================================
+
+.. currentmodule:: networkx.algorithms.distance_measures
+
+.. autofunction:: eccentricity

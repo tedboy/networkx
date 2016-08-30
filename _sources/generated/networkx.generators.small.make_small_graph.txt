@@ -1,0 +1,6 @@
+networkx.generators.small.make_small_graph
+==========================================
+
+.. currentmodule:: networkx.generators.small
+
+.. autofunction:: make_small_graph

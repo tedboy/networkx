@@ -1,0 +1,6 @@
+networkx.algorithms.graphical.is_graphical
+==========================================
+
+.. currentmodule:: networkx.algorithms.graphical
+
+.. autofunction:: is_graphical

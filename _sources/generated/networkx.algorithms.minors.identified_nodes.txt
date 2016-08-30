@@ -1,0 +1,6 @@
+networkx.algorithms.minors.identified_nodes
+===========================================
+
+.. currentmodule:: networkx.algorithms.minors
+
+.. autofunction:: identified_nodes
