@@ -1,0 +1,6 @@
+networkx.is_directed_acyclic_graph
+==================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: is_directed_acyclic_graph

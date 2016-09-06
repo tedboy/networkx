@@ -1,0 +1,6 @@
+networkx.graph_clique_number
+============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: graph_clique_number

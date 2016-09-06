@@ -1,0 +1,6 @@
+networkx.fiedler_vector
+=======================
+
+.. currentmodule:: networkx
+
+.. autofunction:: fiedler_vector

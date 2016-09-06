@@ -1,0 +1,6 @@
+networkx.testing.assert_edges_equal
+===================================
+
+.. currentmodule:: networkx.testing
+
+.. autofunction:: assert_edges_equal

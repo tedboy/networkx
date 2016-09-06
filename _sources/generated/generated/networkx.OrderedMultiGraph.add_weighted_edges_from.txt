@@ -1,0 +1,6 @@
+networkx.OrderedMultiGraph.add_weighted_edges_from
+==================================================
+
+.. currentmodule:: networkx
+
+.. automethod:: OrderedMultiGraph.add_weighted_edges_from

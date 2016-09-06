@@ -1,0 +1,6 @@
+networkx.utils.dict_to_numpy_array
+==================================
+
+.. currentmodule:: networkx.utils
+
+.. autofunction:: dict_to_numpy_array

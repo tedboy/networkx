@@ -1,0 +1,6 @@
+networkx.classes.OrderedDiGraph.remove_nodes_from
+=================================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: OrderedDiGraph.remove_nodes_from

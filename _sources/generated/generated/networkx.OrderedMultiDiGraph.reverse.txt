@@ -1,0 +1,6 @@
+networkx.OrderedMultiDiGraph.reverse
+====================================
+
+.. currentmodule:: networkx
+
+.. automethod:: OrderedMultiDiGraph.reverse

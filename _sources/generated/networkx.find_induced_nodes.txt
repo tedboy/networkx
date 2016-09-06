@@ -1,0 +1,6 @@
+networkx.find_induced_nodes
+===========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: find_induced_nodes

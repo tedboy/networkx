@@ -1,0 +1,6 @@
+networkx.algorithms.normalized_cut_size
+=======================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: normalized_cut_size

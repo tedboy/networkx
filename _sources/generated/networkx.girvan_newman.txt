@@ -1,0 +1,6 @@
+networkx.girvan_newman
+======================
+
+.. currentmodule:: networkx
+
+.. autofunction:: girvan_newman

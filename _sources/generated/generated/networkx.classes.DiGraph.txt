@@ -1,0 +1,71 @@
+networkx.classes.DiGraph
+========================
+
+.. currentmodule:: networkx.classes
+.. autoclass:: DiGraph
+   :members: __init__
+   :undoc-members:
+
+
+Methods
+-------
+.. autosummary::
+   :toctree:
+
+
+   ~DiGraph.__init__
+   ~DiGraph.add_edge
+   ~DiGraph.add_edges_from
+   ~DiGraph.add_node
+   ~DiGraph.add_nodes_from
+   ~DiGraph.add_weighted_edges_from
+   ~DiGraph.adjacency
+   ~DiGraph.clear
+   ~DiGraph.copy
+   ~DiGraph.degree
+   ~DiGraph.edge_subgraph
+   ~DiGraph.edges
+   ~DiGraph.get_edge_data
+   ~DiGraph.has_edge
+   ~DiGraph.has_node
+   ~DiGraph.has_predecessor
+   ~DiGraph.has_successor
+   ~DiGraph.in_degree
+   ~DiGraph.in_edges
+   ~DiGraph.is_directed
+   ~DiGraph.is_multigraph
+   ~DiGraph.nbunch_iter
+   ~DiGraph.neighbors
+   ~DiGraph.nodes
+   ~DiGraph.nodes_with_selfloops
+   ~DiGraph.number_of_edges
+   ~DiGraph.number_of_nodes
+   ~DiGraph.number_of_selfloops
+   ~DiGraph.order
+   ~DiGraph.out_degree
+   ~DiGraph.out_edges
+   ~DiGraph.predecessors
+   ~DiGraph.remove_edge
+   ~DiGraph.remove_edges_from
+   ~DiGraph.remove_node
+   ~DiGraph.remove_nodes_from
+   ~DiGraph.reverse
+   ~DiGraph.selfloop_edges
+   ~DiGraph.size
+   ~DiGraph.subgraph
+   ~DiGraph.successors
+   ~DiGraph.to_directed
+   ~DiGraph.to_undirected
+
+
+
+
+
+Attributes
+----------
+.. autosummary::
+  :toctree:
+
+
+   ~DiGraph.name
+

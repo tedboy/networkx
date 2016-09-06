@@ -1,0 +1,6 @@
+networkx.draw_networkx
+======================
+
+.. currentmodule:: networkx
+
+.. autofunction:: draw_networkx

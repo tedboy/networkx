@@ -1,0 +1,6 @@
+networkx.readwrite.adjacency_data
+=================================
+
+.. currentmodule:: networkx.readwrite
+
+.. autofunction:: adjacency_data

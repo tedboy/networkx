@@ -1,0 +1,6 @@
+networkx.is_weakly_connected
+============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: is_weakly_connected

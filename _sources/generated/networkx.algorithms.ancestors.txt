@@ -1,0 +1,6 @@
+networkx.algorithms.ancestors
+=============================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: ancestors

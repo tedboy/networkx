@@ -1,0 +1,6 @@
+networkx.classes.OrderedDiGraph.has_successor
+=============================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: OrderedDiGraph.has_successor

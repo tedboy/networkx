@@ -1,0 +1,6 @@
+networkx.OrderedMultiDiGraph.is_directed
+========================================
+
+.. currentmodule:: networkx
+
+.. automethod:: OrderedMultiDiGraph.is_directed

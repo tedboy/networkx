@@ -1,0 +1,6 @@
+networkx.drawing.random_layout
+==============================
+
+.. currentmodule:: networkx.drawing
+
+.. autofunction:: random_layout

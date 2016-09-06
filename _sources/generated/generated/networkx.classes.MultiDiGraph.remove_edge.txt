@@ -1,0 +1,6 @@
+networkx.classes.MultiDiGraph.remove_edge
+=========================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: MultiDiGraph.remove_edge

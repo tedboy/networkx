@@ -1,0 +1,6 @@
+networkx.algorithms.is_strongly_regular
+=======================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: is_strongly_regular

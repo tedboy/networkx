@@ -1,0 +1,6 @@
+networkx.OrderedDiGraph.number_of_nodes
+=======================================
+
+.. currentmodule:: networkx
+
+.. automethod:: OrderedDiGraph.number_of_nodes

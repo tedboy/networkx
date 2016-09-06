@@ -1,0 +1,6 @@
+networkx.utils.BinaryHeap.get
+=============================
+
+.. currentmodule:: networkx.utils
+
+.. automethod:: BinaryHeap.get

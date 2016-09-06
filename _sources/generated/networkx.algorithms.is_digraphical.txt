@@ -1,0 +1,6 @@
+networkx.algorithms.is_digraphical
+==================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: is_digraphical

@@ -1,0 +1,6 @@
+networkx.configuration_model
+============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: configuration_model

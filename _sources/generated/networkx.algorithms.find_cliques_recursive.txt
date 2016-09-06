@@ -1,0 +1,6 @@
+networkx.algorithms.find_cliques_recursive
+==========================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: find_cliques_recursive

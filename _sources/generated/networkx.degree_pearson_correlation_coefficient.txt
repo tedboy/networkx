@@ -1,0 +1,6 @@
+networkx.degree_pearson_correlation_coefficient
+===============================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: degree_pearson_correlation_coefficient

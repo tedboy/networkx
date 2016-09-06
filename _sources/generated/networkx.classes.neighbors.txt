@@ -1,0 +1,6 @@
+networkx.classes.neighbors
+==========================
+
+.. currentmodule:: networkx.classes
+
+.. autofunction:: neighbors

@@ -1,0 +1,6 @@
+networkx.algorithms.dfs_postorder_nodes
+=======================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: dfs_postorder_nodes

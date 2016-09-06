@@ -1,0 +1,6 @@
+networkx.algorithms.maximal_independent_set
+===========================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: maximal_independent_set

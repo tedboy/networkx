@@ -1,0 +1,6 @@
+networkx.classes.DiGraph.is_directed
+====================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: DiGraph.is_directed

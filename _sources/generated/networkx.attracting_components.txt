@@ -1,0 +1,6 @@
+networkx.attracting_components
+==============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: attracting_components

@@ -1,0 +1,6 @@
+networkx.classes.MultiDiGraph.nodes
+===================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: MultiDiGraph.nodes

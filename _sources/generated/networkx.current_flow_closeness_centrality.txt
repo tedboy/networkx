@@ -1,0 +1,6 @@
+networkx.current_flow_closeness_centrality
+==========================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: current_flow_closeness_centrality

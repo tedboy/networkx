@@ -1,0 +1,6 @@
+networkx.minimum_spanning_tree
+==============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: minimum_spanning_tree

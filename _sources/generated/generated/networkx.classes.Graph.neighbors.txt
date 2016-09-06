@@ -1,0 +1,6 @@
+networkx.classes.Graph.neighbors
+================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: Graph.neighbors

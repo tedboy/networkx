@@ -1,0 +1,6 @@
+networkx.duplication_divergence_graph
+=====================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: duplication_divergence_graph

@@ -1,0 +1,6 @@
+networkx.GraphMLWriter.indent
+=============================
+
+.. currentmodule:: networkx
+
+.. automethod:: GraphMLWriter.indent

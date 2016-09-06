@@ -1,0 +1,6 @@
+networkx.classes.OrderedDiGraph.size
+====================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: OrderedDiGraph.size

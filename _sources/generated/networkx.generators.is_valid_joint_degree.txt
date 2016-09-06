@@ -1,0 +1,6 @@
+networkx.generators.is_valid_joint_degree
+=========================================
+
+.. currentmodule:: networkx.generators
+
+.. autofunction:: is_valid_joint_degree

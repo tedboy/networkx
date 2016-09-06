@@ -1,0 +1,6 @@
+networkx.adjacency_graph
+========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: adjacency_graph

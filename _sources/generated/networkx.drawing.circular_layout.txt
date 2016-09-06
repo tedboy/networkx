@@ -1,0 +1,6 @@
+networkx.drawing.circular_layout
+================================
+
+.. currentmodule:: networkx.drawing
+
+.. autofunction:: circular_layout

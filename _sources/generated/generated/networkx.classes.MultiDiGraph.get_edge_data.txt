@@ -1,0 +1,6 @@
+networkx.classes.MultiDiGraph.get_edge_data
+===========================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: MultiDiGraph.get_edge_data

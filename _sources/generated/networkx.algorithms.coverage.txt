@@ -1,0 +1,6 @@
+networkx.algorithms.coverage
+============================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: coverage

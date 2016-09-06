@@ -1,0 +1,6 @@
+networkx.algorithms.cycle_basis
+===============================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: cycle_basis

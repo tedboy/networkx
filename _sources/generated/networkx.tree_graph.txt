@@ -1,0 +1,6 @@
+networkx.tree_graph
+===================
+
+.. currentmodule:: networkx
+
+.. autofunction:: tree_graph

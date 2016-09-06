@@ -1,0 +1,6 @@
+networkx.utils.defaultdict.fromkeys
+===================================
+
+.. currentmodule:: networkx.utils
+
+.. automethod:: defaultdict.fromkeys

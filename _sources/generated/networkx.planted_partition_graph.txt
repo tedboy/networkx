@@ -1,0 +1,6 @@
+networkx.planted_partition_graph
+================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: planted_partition_graph

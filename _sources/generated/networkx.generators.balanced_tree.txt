@@ -1,0 +1,6 @@
+networkx.generators.balanced_tree
+=================================
+
+.. currentmodule:: networkx.generators
+
+.. autofunction:: balanced_tree

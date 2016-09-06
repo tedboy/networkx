@@ -1,0 +1,6 @@
+networkx.GraphMLWriter.add_nodes
+================================
+
+.. currentmodule:: networkx
+
+.. automethod:: GraphMLWriter.add_nodes

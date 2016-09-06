@@ -1,0 +1,6 @@
+networkx.classes.DiGraph.add_node
+=================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: DiGraph.add_node

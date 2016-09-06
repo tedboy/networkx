@@ -1,0 +1,6 @@
+networkx.dag_longest_path_length
+================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: dag_longest_path_length

@@ -1,0 +1,6 @@
+networkx.random_lobster
+=======================
+
+.. currentmodule:: networkx
+
+.. autofunction:: random_lobster

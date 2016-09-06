@@ -1,0 +1,6 @@
+networkx.readwrite.write_sparse6
+================================
+
+.. currentmodule:: networkx.readwrite
+
+.. autofunction:: write_sparse6

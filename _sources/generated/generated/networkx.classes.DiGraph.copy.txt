@@ -1,0 +1,6 @@
+networkx.classes.DiGraph.copy
+=============================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: DiGraph.copy

@@ -1,0 +1,6 @@
+networkx.utils.tee
+==================
+
+.. currentmodule:: networkx.utils
+
+.. autofunction:: tee

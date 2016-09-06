@@ -1,0 +1,6 @@
+networkx.algorithms.cost_of_flow
+================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: cost_of_flow

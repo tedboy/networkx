@@ -1,0 +1,6 @@
+networkx.generators.davis_southern_women_graph
+==============================================
+
+.. currentmodule:: networkx.generators
+
+.. autofunction:: davis_southern_women_graph

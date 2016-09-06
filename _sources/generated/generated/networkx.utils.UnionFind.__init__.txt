@@ -1,0 +1,6 @@
+networkx.utils.UnionFind.__init__
+=================================
+
+.. currentmodule:: networkx.utils
+
+.. automethod:: UnionFind.__init__

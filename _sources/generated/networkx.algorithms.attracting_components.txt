@@ -1,0 +1,6 @@
+networkx.algorithms.attracting_components
+=========================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: attracting_components

@@ -1,0 +1,6 @@
+networkx.readwrite.GraphMLReader.NS_Y
+=====================================
+
+.. currentmodule:: networkx.readwrite
+
+.. autoattribute:: GraphMLReader.NS_Y

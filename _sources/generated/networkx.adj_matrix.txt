@@ -1,0 +1,6 @@
+networkx.adj_matrix
+===================
+
+.. currentmodule:: networkx
+
+.. autofunction:: adj_matrix

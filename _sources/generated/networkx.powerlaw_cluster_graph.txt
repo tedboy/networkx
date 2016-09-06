@@ -1,0 +1,6 @@
+networkx.powerlaw_cluster_graph
+===============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: powerlaw_cluster_graph

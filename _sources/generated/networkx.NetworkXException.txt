@@ -1,0 +1,6 @@
+networkx.NetworkXException
+==========================
+
+.. currentmodule:: networkx
+
+.. autoexception:: NetworkXException

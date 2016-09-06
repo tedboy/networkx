@@ -1,0 +1,6 @@
+networkx.algorithms.bellman_ford_path
+=====================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: bellman_ford_path

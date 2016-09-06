@@ -1,0 +1,6 @@
+networkx.random_powerlaw_tree_sequence
+======================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: random_powerlaw_tree_sequence

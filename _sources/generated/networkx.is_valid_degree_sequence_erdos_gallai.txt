@@ -1,0 +1,6 @@
+networkx.is_valid_degree_sequence_erdos_gallai
+==============================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: is_valid_degree_sequence_erdos_gallai

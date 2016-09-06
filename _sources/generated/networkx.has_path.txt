@@ -1,0 +1,6 @@
+networkx.has_path
+=================
+
+.. currentmodule:: networkx
+
+.. autofunction:: has_path

@@ -1,0 +1,6 @@
+networkx.attribute_assortativity_coefficient
+============================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: attribute_assortativity_coefficient

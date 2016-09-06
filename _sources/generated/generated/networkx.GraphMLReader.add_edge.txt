@@ -1,0 +1,6 @@
+networkx.GraphMLReader.add_edge
+===============================
+
+.. currentmodule:: networkx
+
+.. automethod:: GraphMLReader.add_edge

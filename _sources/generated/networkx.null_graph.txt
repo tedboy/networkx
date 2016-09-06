@@ -1,0 +1,6 @@
+networkx.null_graph
+===================
+
+.. currentmodule:: networkx
+
+.. autofunction:: null_graph

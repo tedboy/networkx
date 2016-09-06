@@ -1,0 +1,6 @@
+networkx.utils.defaultdict.pop
+==============================
+
+.. currentmodule:: networkx.utils
+
+.. automethod:: defaultdict.pop

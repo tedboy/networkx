@@ -1,0 +1,6 @@
+networkx.google_matrix
+======================
+
+.. currentmodule:: networkx
+
+.. autofunction:: google_matrix

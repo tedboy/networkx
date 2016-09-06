@@ -1,0 +1,6 @@
+networkx.utils.uniform_sequence
+===============================
+
+.. currentmodule:: networkx.utils
+
+.. autofunction:: uniform_sequence

@@ -1,0 +1,6 @@
+networkx.algorithms.subgraph_centrality
+=======================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: subgraph_centrality

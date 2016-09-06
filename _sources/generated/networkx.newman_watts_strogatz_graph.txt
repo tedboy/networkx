@@ -1,0 +1,6 @@
+networkx.newman_watts_strogatz_graph
+====================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: newman_watts_strogatz_graph

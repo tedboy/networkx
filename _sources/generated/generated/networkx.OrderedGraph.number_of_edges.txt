@@ -1,0 +1,6 @@
+networkx.OrderedGraph.number_of_edges
+=====================================
+
+.. currentmodule:: networkx
+
+.. automethod:: OrderedGraph.number_of_edges

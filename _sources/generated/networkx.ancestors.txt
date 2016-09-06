@@ -1,0 +1,6 @@
+networkx.ancestors
+==================
+
+.. currentmodule:: networkx
+
+.. autofunction:: ancestors

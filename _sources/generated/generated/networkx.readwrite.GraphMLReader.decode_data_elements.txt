@@ -1,0 +1,6 @@
+networkx.readwrite.GraphMLReader.decode_data_elements
+=====================================================
+
+.. currentmodule:: networkx.readwrite
+
+.. automethod:: GraphMLReader.decode_data_elements

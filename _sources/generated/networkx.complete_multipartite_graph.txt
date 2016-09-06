@@ -1,0 +1,6 @@
+networkx.complete_multipartite_graph
+====================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: complete_multipartite_graph

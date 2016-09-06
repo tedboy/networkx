@@ -1,0 +1,6 @@
+networkx.center
+===============
+
+.. currentmodule:: networkx
+
+.. autofunction:: center

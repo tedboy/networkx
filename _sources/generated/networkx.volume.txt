@@ -1,0 +1,6 @@
+networkx.volume
+===============
+
+.. currentmodule:: networkx
+
+.. autofunction:: volume

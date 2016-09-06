@@ -1,0 +1,6 @@
+networkx.is_tree
+================
+
+.. currentmodule:: networkx
+
+.. autofunction:: is_tree

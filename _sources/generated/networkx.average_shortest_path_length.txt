@@ -1,0 +1,6 @@
+networkx.average_shortest_path_length
+=====================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: average_shortest_path_length

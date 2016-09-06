@@ -1,0 +1,6 @@
+networkx.is_connected
+=====================
+
+.. currentmodule:: networkx
+
+.. autofunction:: is_connected

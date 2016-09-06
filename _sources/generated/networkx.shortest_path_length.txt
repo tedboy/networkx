@@ -1,0 +1,6 @@
+networkx.shortest_path_length
+=============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: shortest_path_length

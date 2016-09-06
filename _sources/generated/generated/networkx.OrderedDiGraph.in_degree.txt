@@ -1,0 +1,6 @@
+networkx.OrderedDiGraph.in_degree
+=================================
+
+.. currentmodule:: networkx
+
+.. automethod:: OrderedDiGraph.in_degree

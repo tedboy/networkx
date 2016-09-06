@@ -1,0 +1,6 @@
+networkx.algorithms.project
+===========================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: project

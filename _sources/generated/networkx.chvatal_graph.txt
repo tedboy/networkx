@@ -1,0 +1,6 @@
+networkx.chvatal_graph
+======================
+
+.. currentmodule:: networkx
+
+.. autofunction:: chvatal_graph

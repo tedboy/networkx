@@ -1,0 +1,6 @@
+networkx.algorithms.performance
+===============================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: performance

@@ -1,0 +1,6 @@
+networkx.info
+=============
+
+.. currentmodule:: networkx
+
+.. autofunction:: info

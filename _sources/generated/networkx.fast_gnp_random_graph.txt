@@ -1,0 +1,6 @@
+networkx.fast_gnp_random_graph
+==============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: fast_gnp_random_graph

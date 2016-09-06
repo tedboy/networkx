@@ -1,0 +1,6 @@
+networkx.spring_layout
+======================
+
+.. currentmodule:: networkx
+
+.. autofunction:: spring_layout

@@ -1,0 +1,6 @@
+networkx.degree_mixing_matrix
+=============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: degree_mixing_matrix

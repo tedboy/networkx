@@ -1,0 +1,6 @@
+networkx.utils.PairingHeap.pop
+==============================
+
+.. currentmodule:: networkx.utils
+
+.. automethod:: PairingHeap.pop

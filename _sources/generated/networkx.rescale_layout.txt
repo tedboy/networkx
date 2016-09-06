@@ -1,0 +1,6 @@
+networkx.rescale_layout
+=======================
+
+.. currentmodule:: networkx
+
+.. autofunction:: rescale_layout

@@ -1,0 +1,6 @@
+networkx.truncated_cube_graph
+=============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: truncated_cube_graph

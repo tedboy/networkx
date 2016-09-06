@@ -1,0 +1,6 @@
+networkx.spectral_layout
+========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: spectral_layout

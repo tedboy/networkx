@@ -1,0 +1,6 @@
+networkx.classes.MultiGraph.clear
+=================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: MultiGraph.clear

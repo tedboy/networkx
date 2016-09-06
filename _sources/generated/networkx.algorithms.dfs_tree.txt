@@ -1,0 +1,6 @@
+networkx.algorithms.dfs_tree
+============================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: dfs_tree

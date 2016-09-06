@@ -1,0 +1,6 @@
+networkx.generators.florentine_families_graph
+=============================================
+
+.. currentmodule:: networkx.generators
+
+.. autofunction:: florentine_families_graph

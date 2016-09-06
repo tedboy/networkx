@@ -1,0 +1,62 @@
+networkx.OrderedMultiGraph
+==========================
+
+.. currentmodule:: networkx
+.. autoclass:: OrderedMultiGraph
+   :members: __init__
+   :undoc-members:
+
+
+Methods
+-------
+.. autosummary::
+   :toctree:
+
+
+   ~OrderedMultiGraph.__init__
+   ~OrderedMultiGraph.add_edge
+   ~OrderedMultiGraph.add_edges_from
+   ~OrderedMultiGraph.add_node
+   ~OrderedMultiGraph.add_nodes_from
+   ~OrderedMultiGraph.add_weighted_edges_from
+   ~OrderedMultiGraph.adjacency
+   ~OrderedMultiGraph.clear
+   ~OrderedMultiGraph.copy
+   ~OrderedMultiGraph.degree
+   ~OrderedMultiGraph.edge_subgraph
+   ~OrderedMultiGraph.edges
+   ~OrderedMultiGraph.get_edge_data
+   ~OrderedMultiGraph.has_edge
+   ~OrderedMultiGraph.has_node
+   ~OrderedMultiGraph.is_directed
+   ~OrderedMultiGraph.is_multigraph
+   ~OrderedMultiGraph.nbunch_iter
+   ~OrderedMultiGraph.neighbors
+   ~OrderedMultiGraph.nodes
+   ~OrderedMultiGraph.nodes_with_selfloops
+   ~OrderedMultiGraph.number_of_edges
+   ~OrderedMultiGraph.number_of_nodes
+   ~OrderedMultiGraph.number_of_selfloops
+   ~OrderedMultiGraph.order
+   ~OrderedMultiGraph.remove_edge
+   ~OrderedMultiGraph.remove_edges_from
+   ~OrderedMultiGraph.remove_node
+   ~OrderedMultiGraph.remove_nodes_from
+   ~OrderedMultiGraph.selfloop_edges
+   ~OrderedMultiGraph.size
+   ~OrderedMultiGraph.subgraph
+   ~OrderedMultiGraph.to_directed
+   ~OrderedMultiGraph.to_undirected
+
+
+
+
+
+Attributes
+----------
+.. autosummary::
+  :toctree:
+
+
+   ~OrderedMultiGraph.name
+

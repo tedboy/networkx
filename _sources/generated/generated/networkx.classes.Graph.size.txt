@@ -1,0 +1,6 @@
+networkx.classes.Graph.size
+===========================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: Graph.size

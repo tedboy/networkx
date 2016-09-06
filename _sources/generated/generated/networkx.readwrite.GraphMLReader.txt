@@ -1,0 +1,41 @@
+networkx.readwrite.GraphMLReader
+================================
+
+.. currentmodule:: networkx.readwrite
+.. autoclass:: GraphMLReader
+   :members: __init__
+   :undoc-members:
+
+
+Methods
+-------
+.. autosummary::
+   :toctree:
+
+
+   ~GraphMLReader.__init__
+   ~GraphMLReader.add_edge
+   ~GraphMLReader.add_node
+   ~GraphMLReader.decode_data_elements
+   ~GraphMLReader.find_graphml_keys
+   ~GraphMLReader.make_graph
+
+
+
+
+
+Attributes
+----------
+.. autosummary::
+  :toctree:
+
+
+   ~GraphMLReader.NS_GRAPHML
+   ~GraphMLReader.NS_XSI
+   ~GraphMLReader.NS_Y
+   ~GraphMLReader.SCHEMALOCATION
+   ~GraphMLReader.convert_bool
+   ~GraphMLReader.python_type
+   ~GraphMLReader.types
+   ~GraphMLReader.xml_type
+

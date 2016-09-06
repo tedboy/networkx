@@ -1,0 +1,6 @@
+networkx.algorithms.find_cores
+==============================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: find_cores

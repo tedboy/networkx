@@ -1,0 +1,6 @@
+networkx.utils.deque.extend
+===========================
+
+.. currentmodule:: networkx.utils
+
+.. automethod:: deque.extend

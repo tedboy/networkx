@@ -1,0 +1,6 @@
+networkx.classes.edges
+======================
+
+.. currentmodule:: networkx.classes
+
+.. autofunction:: edges

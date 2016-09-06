@@ -1,0 +1,6 @@
+networkx.ra_index_soundarajan_hopcroft
+======================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: ra_index_soundarajan_hopcroft

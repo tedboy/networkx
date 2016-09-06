@@ -1,0 +1,6 @@
+networkx.generators.house_graph
+===============================
+
+.. currentmodule:: networkx.generators
+
+.. autofunction:: house_graph

@@ -1,0 +1,6 @@
+networkx.algorithms.hits
+========================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: hits

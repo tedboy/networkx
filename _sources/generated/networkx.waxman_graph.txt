@@ -1,0 +1,6 @@
+networkx.waxman_graph
+=====================
+
+.. currentmodule:: networkx
+
+.. autofunction:: waxman_graph

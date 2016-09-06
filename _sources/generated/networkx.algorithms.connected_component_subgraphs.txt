@@ -1,0 +1,6 @@
+networkx.algorithms.connected_component_subgraphs
+=================================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: connected_component_subgraphs

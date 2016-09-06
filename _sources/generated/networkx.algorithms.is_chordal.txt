@@ -1,0 +1,6 @@
+networkx.algorithms.is_chordal
+==============================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: is_chordal

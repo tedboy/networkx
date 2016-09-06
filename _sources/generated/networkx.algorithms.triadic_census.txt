@@ -1,0 +1,6 @@
+networkx.algorithms.triadic_census
+==================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: triadic_census

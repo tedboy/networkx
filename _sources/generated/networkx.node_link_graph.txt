@@ -1,0 +1,6 @@
+networkx.node_link_graph
+========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: node_link_graph

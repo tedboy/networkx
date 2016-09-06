@@ -1,0 +1,6 @@
+networkx.classes.DiGraph.reverse
+================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: DiGraph.reverse

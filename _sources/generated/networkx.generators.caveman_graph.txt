@@ -1,0 +1,6 @@
+networkx.generators.caveman_graph
+=================================
+
+.. currentmodule:: networkx.generators
+
+.. autofunction:: caveman_graph

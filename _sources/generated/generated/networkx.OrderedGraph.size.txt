@@ -1,0 +1,6 @@
+networkx.OrderedGraph.size
+==========================
+
+.. currentmodule:: networkx
+
+.. automethod:: OrderedGraph.size

@@ -1,0 +1,6 @@
+networkx.all_pairs_node_connectivity
+====================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: all_pairs_node_connectivity

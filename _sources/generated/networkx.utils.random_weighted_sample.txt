@@ -1,0 +1,6 @@
+networkx.utils.random_weighted_sample
+=====================================
+
+.. currentmodule:: networkx.utils
+
+.. autofunction:: random_weighted_sample

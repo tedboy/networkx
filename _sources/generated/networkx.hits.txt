@@ -1,0 +1,6 @@
+networkx.hits
+=============
+
+.. currentmodule:: networkx
+
+.. autofunction:: hits

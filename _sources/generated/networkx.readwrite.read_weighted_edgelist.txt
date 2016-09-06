@@ -1,0 +1,6 @@
+networkx.readwrite.read_weighted_edgelist
+=========================================
+
+.. currentmodule:: networkx.readwrite
+
+.. autofunction:: read_weighted_edgelist

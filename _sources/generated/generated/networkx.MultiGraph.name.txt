@@ -1,0 +1,6 @@
+networkx.MultiGraph.name
+========================
+
+.. currentmodule:: networkx
+
+.. autoattribute:: MultiGraph.name

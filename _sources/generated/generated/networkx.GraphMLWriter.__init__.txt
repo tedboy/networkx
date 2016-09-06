@@ -1,0 +1,6 @@
+networkx.GraphMLWriter.__init__
+===============================
+
+.. currentmodule:: networkx
+
+.. automethod:: GraphMLWriter.__init__

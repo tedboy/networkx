@@ -1,0 +1,6 @@
+networkx.readwrite.GraphMLReader.add_node
+=========================================
+
+.. currentmodule:: networkx.readwrite
+
+.. automethod:: GraphMLReader.add_node

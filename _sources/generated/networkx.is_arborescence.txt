@@ -1,0 +1,6 @@
+networkx.is_arborescence
+========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: is_arborescence

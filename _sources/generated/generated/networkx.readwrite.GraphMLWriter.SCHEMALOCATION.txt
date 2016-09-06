@@ -1,0 +1,6 @@
+networkx.readwrite.GraphMLWriter.SCHEMALOCATION
+===============================================
+
+.. currentmodule:: networkx.readwrite
+
+.. autoattribute:: GraphMLWriter.SCHEMALOCATION

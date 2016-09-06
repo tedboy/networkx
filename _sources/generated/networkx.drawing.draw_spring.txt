@@ -1,0 +1,6 @@
+networkx.drawing.draw_spring
+============================
+
+.. currentmodule:: networkx.drawing
+
+.. autofunction:: draw_spring

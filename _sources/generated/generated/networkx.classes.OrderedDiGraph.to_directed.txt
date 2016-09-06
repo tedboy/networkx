@@ -1,0 +1,6 @@
+networkx.classes.OrderedDiGraph.to_directed
+===========================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: OrderedDiGraph.to_directed

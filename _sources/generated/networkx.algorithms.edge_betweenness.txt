@@ -1,0 +1,6 @@
+networkx.algorithms.edge_betweenness
+====================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: edge_betweenness

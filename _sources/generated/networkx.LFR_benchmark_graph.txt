@@ -1,0 +1,6 @@
+networkx.LFR_benchmark_graph
+============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: LFR_benchmark_graph

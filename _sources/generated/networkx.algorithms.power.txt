@@ -1,0 +1,6 @@
+networkx.algorithms.power
+=========================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: power

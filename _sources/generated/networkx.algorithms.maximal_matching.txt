@@ -1,0 +1,6 @@
+networkx.algorithms.maximal_matching
+====================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: maximal_matching

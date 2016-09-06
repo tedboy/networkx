@@ -1,0 +1,6 @@
+networkx.within_inter_cluster
+=============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: within_inter_cluster

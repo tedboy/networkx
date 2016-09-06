@@ -1,0 +1,6 @@
+networkx.DiGraph.is_multigraph
+==============================
+
+.. currentmodule:: networkx
+
+.. automethod:: DiGraph.is_multigraph

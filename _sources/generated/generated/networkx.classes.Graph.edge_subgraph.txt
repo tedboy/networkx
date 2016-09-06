@@ -1,0 +1,6 @@
+networkx.classes.Graph.edge_subgraph
+====================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: Graph.edge_subgraph

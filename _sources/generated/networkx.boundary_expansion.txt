@@ -1,0 +1,6 @@
+networkx.boundary_expansion
+===========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: boundary_expansion

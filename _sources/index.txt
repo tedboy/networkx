@@ -29,3 +29,34 @@ Networkx API built using ``sphinx_rtd_theme``, with the page structured to my ow
    reference/readwrite
    reference/exceptions
 
+.. toctree::
+    :maxdepth: 1
+    :caption: Auto-generated API
+
+    generated/networkx
+    generated/networkx.algorithms
+    generated/networkx.classes
+    generated/networkx.drawing
+    generated/networkx.external
+    generated/networkx.generators
+    generated/networkx.linalg
+    generated/networkx.readwrite
+    generated/networkx.testing
+    generated/networkx.tests
+    generated/networkx.utils
+
+.. autosummary::
+   :toctree:generated/
+   :template:module_custom.rst
+
+    networkx
+    networkx.algorithms
+    networkx.classes
+    networkx.drawing
+    networkx.external
+    networkx.generators
+    networkx.linalg
+    networkx.readwrite
+    networkx.testing
+    networkx.tests
+    networkx.utils

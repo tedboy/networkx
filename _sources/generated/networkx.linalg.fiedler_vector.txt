@@ -1,0 +1,6 @@
+networkx.linalg.fiedler_vector
+==============================
+
+.. currentmodule:: networkx.linalg
+
+.. autofunction:: fiedler_vector

@@ -1,0 +1,6 @@
+networkx.classes.MultiGraph.selfloop_edges
+==========================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: MultiGraph.selfloop_edges

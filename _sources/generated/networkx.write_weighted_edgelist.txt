@@ -1,0 +1,6 @@
+networkx.write_weighted_edgelist
+================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: write_weighted_edgelist

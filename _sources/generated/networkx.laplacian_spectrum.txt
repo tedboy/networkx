@@ -1,0 +1,6 @@
+networkx.laplacian_spectrum
+===========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: laplacian_spectrum

@@ -1,0 +1,6 @@
+networkx.OrderedMultiGraph.number_of_edges
+==========================================
+
+.. currentmodule:: networkx
+
+.. automethod:: OrderedMultiGraph.number_of_edges

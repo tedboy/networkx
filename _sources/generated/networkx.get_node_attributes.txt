@@ -1,0 +1,6 @@
+networkx.get_node_attributes
+============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: get_node_attributes

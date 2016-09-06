@@ -1,0 +1,6 @@
+networkx.maximum_spanning_edges
+===============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: maximum_spanning_edges

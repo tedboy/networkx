@@ -1,0 +1,6 @@
+networkx.generators.degree_sequence_tree
+========================================
+
+.. currentmodule:: networkx.generators
+
+.. autofunction:: degree_sequence_tree

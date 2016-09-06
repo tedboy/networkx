@@ -1,0 +1,6 @@
+networkx.floyd_warshall_numpy
+=============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: floyd_warshall_numpy

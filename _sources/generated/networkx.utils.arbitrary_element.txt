@@ -1,0 +1,6 @@
+networkx.utils.arbitrary_element
+================================
+
+.. currentmodule:: networkx.utils
+
+.. autofunction:: arbitrary_element

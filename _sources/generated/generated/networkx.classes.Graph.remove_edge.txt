@@ -1,0 +1,6 @@
+networkx.classes.Graph.remove_edge
+==================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: Graph.remove_edge

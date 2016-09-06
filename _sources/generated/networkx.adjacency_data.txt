@@ -1,0 +1,6 @@
+networkx.adjacency_data
+=======================
+
+.. currentmodule:: networkx
+
+.. autofunction:: adjacency_data

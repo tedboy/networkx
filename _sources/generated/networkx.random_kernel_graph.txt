@@ -1,0 +1,6 @@
+networkx.random_kernel_graph
+============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: random_kernel_graph

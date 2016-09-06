@@ -1,0 +1,6 @@
+networkx.all_pairs_bellman_ford_path
+====================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: all_pairs_bellman_ford_path

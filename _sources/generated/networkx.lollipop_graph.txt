@@ -1,0 +1,6 @@
+networkx.lollipop_graph
+=======================
+
+.. currentmodule:: networkx
+
+.. autofunction:: lollipop_graph

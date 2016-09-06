@@ -1,0 +1,6 @@
+networkx.utils.nodes_or_number
+==============================
+
+.. currentmodule:: networkx.utils
+
+.. autofunction:: nodes_or_number

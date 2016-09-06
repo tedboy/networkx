@@ -1,0 +1,6 @@
+networkx.classes.Graph.add_node
+===============================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: Graph.add_node

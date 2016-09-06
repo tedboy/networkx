@@ -1,0 +1,6 @@
+networkx.algorithms.kosaraju_strongly_connected_components
+==========================================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: kosaraju_strongly_connected_components

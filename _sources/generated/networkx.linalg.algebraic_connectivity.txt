@@ -1,0 +1,6 @@
+networkx.linalg.algebraic_connectivity
+======================================
+
+.. currentmodule:: networkx.linalg
+
+.. autofunction:: algebraic_connectivity

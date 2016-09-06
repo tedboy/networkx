@@ -1,0 +1,6 @@
+networkx.utils.PairingHeap.insert
+=================================
+
+.. currentmodule:: networkx.utils
+
+.. automethod:: PairingHeap.insert

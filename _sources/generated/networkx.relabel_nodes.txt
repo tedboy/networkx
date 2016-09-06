@@ -1,0 +1,6 @@
+networkx.relabel_nodes
+======================
+
+.. currentmodule:: networkx
+
+.. autofunction:: relabel_nodes

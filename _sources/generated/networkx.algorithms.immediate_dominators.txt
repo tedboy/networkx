@@ -1,0 +1,6 @@
+networkx.algorithms.immediate_dominators
+========================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: immediate_dominators

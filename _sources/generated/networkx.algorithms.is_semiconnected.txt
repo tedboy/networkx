@@ -1,0 +1,6 @@
+networkx.algorithms.is_semiconnected
+====================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: is_semiconnected

@@ -1,0 +1,6 @@
+networkx.could_be_isomorphic
+============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: could_be_isomorphic

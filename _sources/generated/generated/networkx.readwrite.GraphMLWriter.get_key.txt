@@ -1,0 +1,6 @@
+networkx.readwrite.GraphMLWriter.get_key
+========================================
+
+.. currentmodule:: networkx.readwrite
+
+.. automethod:: GraphMLWriter.get_key

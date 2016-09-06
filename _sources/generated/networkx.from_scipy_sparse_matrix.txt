@@ -1,0 +1,6 @@
+networkx.from_scipy_sparse_matrix
+=================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: from_scipy_sparse_matrix

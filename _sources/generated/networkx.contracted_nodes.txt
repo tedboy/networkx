@@ -1,0 +1,6 @@
+networkx.contracted_nodes
+=========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: contracted_nodes

@@ -1,0 +1,6 @@
+networkx.parse_sparse6
+======================
+
+.. currentmodule:: networkx
+
+.. autofunction:: parse_sparse6

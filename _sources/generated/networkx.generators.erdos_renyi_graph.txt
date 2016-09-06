@@ -1,0 +1,6 @@
+networkx.generators.erdos_renyi_graph
+=====================================
+
+.. currentmodule:: networkx.generators
+
+.. autofunction:: erdos_renyi_graph

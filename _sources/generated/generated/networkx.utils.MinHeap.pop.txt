@@ -1,0 +1,6 @@
+networkx.utils.MinHeap.pop
+==========================
+
+.. currentmodule:: networkx.utils
+
+.. automethod:: MinHeap.pop

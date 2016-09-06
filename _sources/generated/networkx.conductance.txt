@@ -1,0 +1,6 @@
+networkx.conductance
+====================
+
+.. currentmodule:: networkx
+
+.. autofunction:: conductance

@@ -1,0 +1,6 @@
+networkx.generators.configuration_model
+=======================================
+
+.. currentmodule:: networkx.generators
+
+.. autofunction:: configuration_model

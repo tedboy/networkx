@@ -1,0 +1,6 @@
+networkx.algorithms.minimum_node_cut
+====================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: minimum_node_cut

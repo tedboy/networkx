@@ -1,0 +1,6 @@
+networkx.jit_data
+=================
+
+.. currentmodule:: networkx
+
+.. autofunction:: jit_data

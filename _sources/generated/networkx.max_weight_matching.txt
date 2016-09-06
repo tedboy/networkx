@@ -1,0 +1,6 @@
+networkx.max_weight_matching
+============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: max_weight_matching

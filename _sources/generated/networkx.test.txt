@@ -1,0 +1,6 @@
+networkx.test
+=============
+
+.. currentmodule:: networkx
+
+.. autofunction:: test

@@ -1,0 +1,6 @@
+networkx.enumerate_all_cliques
+==============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: enumerate_all_cliques

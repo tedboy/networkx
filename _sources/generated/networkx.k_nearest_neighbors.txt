@@ -1,0 +1,6 @@
+networkx.k_nearest_neighbors
+============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: k_nearest_neighbors

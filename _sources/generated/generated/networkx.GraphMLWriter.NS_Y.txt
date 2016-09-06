@@ -1,0 +1,6 @@
+networkx.GraphMLWriter.NS_Y
+===========================
+
+.. currentmodule:: networkx
+
+.. autoattribute:: GraphMLWriter.NS_Y

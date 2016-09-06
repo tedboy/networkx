@@ -1,0 +1,6 @@
+networkx.pappus_graph
+=====================
+
+.. currentmodule:: networkx
+
+.. autofunction:: pappus_graph

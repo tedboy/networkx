@@ -1,0 +1,6 @@
+networkx.modularity_matrix
+==========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: modularity_matrix

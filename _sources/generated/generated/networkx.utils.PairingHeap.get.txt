@@ -1,0 +1,6 @@
+networkx.utils.PairingHeap.get
+==============================
+
+.. currentmodule:: networkx.utils
+
+.. automethod:: PairingHeap.get

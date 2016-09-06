@@ -1,0 +1,6 @@
+networkx.classes.set_node_attributes
+====================================
+
+.. currentmodule:: networkx.classes
+
+.. autofunction:: set_node_attributes

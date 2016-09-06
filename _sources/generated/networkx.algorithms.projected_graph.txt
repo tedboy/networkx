@@ -1,0 +1,6 @@
+networkx.algorithms.projected_graph
+===================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: projected_graph

@@ -1,0 +1,6 @@
+networkx.readwrite.node_link_graph
+==================================
+
+.. currentmodule:: networkx.readwrite
+
+.. autofunction:: node_link_graph

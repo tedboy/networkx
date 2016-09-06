@@ -1,0 +1,6 @@
+networkx.algorithms.recursive_simple_cycles
+===========================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: recursive_simple_cycles

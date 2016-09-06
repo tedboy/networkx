@@ -1,0 +1,6 @@
+networkx.algorithms.dijkstra_predecessor_and_distance
+=====================================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: dijkstra_predecessor_and_distance

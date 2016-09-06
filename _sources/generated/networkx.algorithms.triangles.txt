@@ -1,0 +1,6 @@
+networkx.algorithms.triangles
+=============================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: triangles

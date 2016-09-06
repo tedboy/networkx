@@ -1,0 +1,6 @@
+networkx.OrderedMultiDiGraph.__init__
+=====================================
+
+.. currentmodule:: networkx
+
+.. automethod:: OrderedMultiDiGraph.__init__

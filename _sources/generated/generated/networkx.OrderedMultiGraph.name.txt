@@ -1,0 +1,6 @@
+networkx.OrderedMultiGraph.name
+===============================
+
+.. currentmodule:: networkx
+
+.. autoattribute:: OrderedMultiGraph.name

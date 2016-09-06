@@ -1,0 +1,6 @@
+networkx.classes.DiGraph.neighbors
+==================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: DiGraph.neighbors

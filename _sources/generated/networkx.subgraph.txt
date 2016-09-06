@@ -1,0 +1,6 @@
+networkx.subgraph
+=================
+
+.. currentmodule:: networkx
+
+.. autofunction:: subgraph

@@ -1,0 +1,6 @@
+networkx.single_source_shortest_path
+====================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: single_source_shortest_path

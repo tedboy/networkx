@@ -1,0 +1,6 @@
+networkx.algorithms.lexicographical_topological_sort
+====================================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: lexicographical_topological_sort

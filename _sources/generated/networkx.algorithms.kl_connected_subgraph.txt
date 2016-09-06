@@ -1,0 +1,6 @@
+networkx.algorithms.kl_connected_subgraph
+=========================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: kl_connected_subgraph

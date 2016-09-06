@@ -1,0 +1,6 @@
+networkx.algorithms.all_shortest_paths
+======================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: all_shortest_paths

@@ -1,0 +1,6 @@
+networkx.linalg.adj_matrix
+==========================
+
+.. currentmodule:: networkx.linalg
+
+.. autofunction:: adj_matrix

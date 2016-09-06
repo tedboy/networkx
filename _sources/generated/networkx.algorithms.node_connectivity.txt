@@ -1,0 +1,6 @@
+networkx.algorithms.node_connectivity
+=====================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: node_connectivity

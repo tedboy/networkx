@@ -1,0 +1,6 @@
+networkx.GraphMLWriter.dump
+===========================
+
+.. currentmodule:: networkx
+
+.. automethod:: GraphMLWriter.dump

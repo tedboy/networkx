@@ -1,0 +1,6 @@
+networkx.algorithms.condensation
+================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: condensation

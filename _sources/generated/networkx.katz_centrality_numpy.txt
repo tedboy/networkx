@@ -1,0 +1,6 @@
+networkx.katz_centrality_numpy
+==============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: katz_centrality_numpy

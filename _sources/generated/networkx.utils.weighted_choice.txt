@@ -1,0 +1,6 @@
+networkx.utils.weighted_choice
+==============================
+
+.. currentmodule:: networkx.utils
+
+.. autofunction:: weighted_choice

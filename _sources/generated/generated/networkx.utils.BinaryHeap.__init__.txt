@@ -1,0 +1,6 @@
+networkx.utils.BinaryHeap.__init__
+==================================
+
+.. currentmodule:: networkx.utils
+
+.. automethod:: BinaryHeap.__init__

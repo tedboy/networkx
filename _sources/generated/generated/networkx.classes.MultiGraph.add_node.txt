@@ -1,0 +1,6 @@
+networkx.classes.MultiGraph.add_node
+====================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: MultiGraph.add_node

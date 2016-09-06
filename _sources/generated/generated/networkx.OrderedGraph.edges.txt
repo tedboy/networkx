@@ -1,0 +1,6 @@
+networkx.OrderedGraph.edges
+===========================
+
+.. currentmodule:: networkx
+
+.. automethod:: OrderedGraph.edges

@@ -1,0 +1,6 @@
+networkx.algorithms.harmonic_centrality
+=======================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: harmonic_centrality

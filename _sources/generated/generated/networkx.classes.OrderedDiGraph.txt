@@ -1,0 +1,71 @@
+networkx.classes.OrderedDiGraph
+===============================
+
+.. currentmodule:: networkx.classes
+.. autoclass:: OrderedDiGraph
+   :members: __init__
+   :undoc-members:
+
+
+Methods
+-------
+.. autosummary::
+   :toctree:
+
+
+   ~OrderedDiGraph.__init__
+   ~OrderedDiGraph.add_edge
+   ~OrderedDiGraph.add_edges_from
+   ~OrderedDiGraph.add_node
+   ~OrderedDiGraph.add_nodes_from
+   ~OrderedDiGraph.add_weighted_edges_from
+   ~OrderedDiGraph.adjacency
+   ~OrderedDiGraph.clear
+   ~OrderedDiGraph.copy
+   ~OrderedDiGraph.degree
+   ~OrderedDiGraph.edge_subgraph
+   ~OrderedDiGraph.edges
+   ~OrderedDiGraph.get_edge_data
+   ~OrderedDiGraph.has_edge
+   ~OrderedDiGraph.has_node
+   ~OrderedDiGraph.has_predecessor
+   ~OrderedDiGraph.has_successor
+   ~OrderedDiGraph.in_degree
+   ~OrderedDiGraph.in_edges
+   ~OrderedDiGraph.is_directed
+   ~OrderedDiGraph.is_multigraph
+   ~OrderedDiGraph.nbunch_iter
+   ~OrderedDiGraph.neighbors
+   ~OrderedDiGraph.nodes
+   ~OrderedDiGraph.nodes_with_selfloops
+   ~OrderedDiGraph.number_of_edges
+   ~OrderedDiGraph.number_of_nodes
+   ~OrderedDiGraph.number_of_selfloops
+   ~OrderedDiGraph.order
+   ~OrderedDiGraph.out_degree
+   ~OrderedDiGraph.out_edges
+   ~OrderedDiGraph.predecessors
+   ~OrderedDiGraph.remove_edge
+   ~OrderedDiGraph.remove_edges_from
+   ~OrderedDiGraph.remove_node
+   ~OrderedDiGraph.remove_nodes_from
+   ~OrderedDiGraph.reverse
+   ~OrderedDiGraph.selfloop_edges
+   ~OrderedDiGraph.size
+   ~OrderedDiGraph.subgraph
+   ~OrderedDiGraph.successors
+   ~OrderedDiGraph.to_directed
+   ~OrderedDiGraph.to_undirected
+
+
+
+
+
+Attributes
+----------
+.. autosummary::
+  :toctree:
+
+
+   ~OrderedDiGraph.name
+

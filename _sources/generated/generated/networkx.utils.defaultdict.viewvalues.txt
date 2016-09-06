@@ -1,0 +1,6 @@
+networkx.utils.defaultdict.viewvalues
+=====================================
+
+.. currentmodule:: networkx.utils
+
+.. automethod:: defaultdict.viewvalues

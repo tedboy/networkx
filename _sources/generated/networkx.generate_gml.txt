@@ -1,0 +1,6 @@
+networkx.generate_gml
+=====================
+
+.. currentmodule:: networkx
+
+.. autofunction:: generate_gml

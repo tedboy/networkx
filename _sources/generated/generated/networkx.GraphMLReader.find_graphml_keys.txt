@@ -1,0 +1,6 @@
+networkx.GraphMLReader.find_graphml_keys
+========================================
+
+.. currentmodule:: networkx
+
+.. automethod:: GraphMLReader.find_graphml_keys

@@ -1,0 +1,6 @@
+networkx.classes.set_edge_attributes
+====================================
+
+.. currentmodule:: networkx.classes
+
+.. autofunction:: set_edge_attributes

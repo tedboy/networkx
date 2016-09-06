@@ -1,0 +1,6 @@
+networkx.algorithms.periphery
+=============================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: periphery

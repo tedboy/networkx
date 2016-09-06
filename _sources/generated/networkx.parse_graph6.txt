@@ -1,0 +1,6 @@
+networkx.parse_graph6
+=====================
+
+.. currentmodule:: networkx
+
+.. autofunction:: parse_graph6

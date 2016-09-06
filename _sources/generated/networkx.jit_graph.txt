@@ -1,0 +1,6 @@
+networkx.jit_graph
+==================
+
+.. currentmodule:: networkx
+
+.. autofunction:: jit_graph

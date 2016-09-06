@@ -1,0 +1,6 @@
+networkx.GraphMLReader.decode_data_elements
+===========================================
+
+.. currentmodule:: networkx
+
+.. automethod:: GraphMLReader.decode_data_elements

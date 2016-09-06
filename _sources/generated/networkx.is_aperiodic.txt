@@ -1,0 +1,6 @@
+networkx.is_aperiodic
+=====================
+
+.. currentmodule:: networkx
+
+.. autofunction:: is_aperiodic

@@ -1,0 +1,6 @@
+networkx.ego_graph
+==================
+
+.. currentmodule:: networkx
+
+.. autofunction:: ego_graph

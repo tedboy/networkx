@@ -1,0 +1,6 @@
+networkx.tetrahedral_graph
+==========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: tetrahedral_graph

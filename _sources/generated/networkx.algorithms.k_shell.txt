@@ -1,0 +1,6 @@
+networkx.algorithms.k_shell
+===========================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: k_shell

@@ -1,0 +1,6 @@
+networkx.OrderedMultiGraph.nodes_with_selfloops
+===============================================
+
+.. currentmodule:: networkx
+
+.. automethod:: OrderedMultiGraph.nodes_with_selfloops

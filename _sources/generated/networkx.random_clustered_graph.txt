@@ -1,0 +1,6 @@
+networkx.random_clustered_graph
+===============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: random_clustered_graph

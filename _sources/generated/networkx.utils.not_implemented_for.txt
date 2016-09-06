@@ -1,0 +1,6 @@
+networkx.utils.not_implemented_for
+==================================
+
+.. currentmodule:: networkx.utils
+
+.. autofunction:: not_implemented_for

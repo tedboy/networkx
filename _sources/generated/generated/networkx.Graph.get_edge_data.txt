@@ -1,0 +1,6 @@
+networkx.Graph.get_edge_data
+============================
+
+.. currentmodule:: networkx
+
+.. automethod:: Graph.get_edge_data

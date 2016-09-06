@@ -1,0 +1,6 @@
+networkx.algorithms.complete_bipartite_graph
+============================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: complete_bipartite_graph

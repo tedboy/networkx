@@ -1,0 +1,6 @@
+networkx.full_rary_tree
+=======================
+
+.. currentmodule:: networkx
+
+.. autofunction:: full_rary_tree

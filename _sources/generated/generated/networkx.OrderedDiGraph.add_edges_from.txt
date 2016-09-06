@@ -1,0 +1,6 @@
+networkx.OrderedDiGraph.add_edges_from
+======================================
+
+.. currentmodule:: networkx
+
+.. automethod:: OrderedDiGraph.add_edges_from

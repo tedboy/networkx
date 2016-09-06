@@ -1,0 +1,6 @@
+networkx.degree_histogram
+=========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: degree_histogram

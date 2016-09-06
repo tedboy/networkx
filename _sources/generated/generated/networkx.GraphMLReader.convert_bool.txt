@@ -1,0 +1,6 @@
+networkx.GraphMLReader.convert_bool
+===================================
+
+.. currentmodule:: networkx
+
+.. autoattribute:: GraphMLReader.convert_bool

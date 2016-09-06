@@ -1,0 +1,6 @@
+networkx.edge_expansion
+=======================
+
+.. currentmodule:: networkx
+
+.. autofunction:: edge_expansion

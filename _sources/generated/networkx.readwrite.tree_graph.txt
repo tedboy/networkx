@@ -1,0 +1,6 @@
+networkx.readwrite.tree_graph
+=============================
+
+.. currentmodule:: networkx.readwrite
+
+.. autofunction:: tree_graph

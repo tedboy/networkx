@@ -1,0 +1,6 @@
+networkx.OrderedDiGraph.size
+============================
+
+.. currentmodule:: networkx
+
+.. automethod:: OrderedDiGraph.size

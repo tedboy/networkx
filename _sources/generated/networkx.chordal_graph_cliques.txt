@@ -1,0 +1,6 @@
+networkx.chordal_graph_cliques
+==============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: chordal_graph_cliques

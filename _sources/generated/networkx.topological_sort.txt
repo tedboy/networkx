@@ -1,0 +1,6 @@
+networkx.topological_sort
+=========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: topological_sort

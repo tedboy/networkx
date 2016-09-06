@@ -1,0 +1,6 @@
+networkx.modularity_spectrum
+============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: modularity_spectrum

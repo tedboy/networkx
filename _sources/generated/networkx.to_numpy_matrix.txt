@@ -1,0 +1,6 @@
+networkx.to_numpy_matrix
+========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: to_numpy_matrix

@@ -1,0 +1,6 @@
+networkx.utils.is_iterator
+==========================
+
+.. currentmodule:: networkx.utils
+
+.. autofunction:: is_iterator

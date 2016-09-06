@@ -1,0 +1,6 @@
+networkx.OrderedMultiGraph.add_edge
+===================================
+
+.. currentmodule:: networkx
+
+.. automethod:: OrderedMultiGraph.add_edge

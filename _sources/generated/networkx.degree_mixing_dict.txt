@@ -1,0 +1,6 @@
+networkx.degree_mixing_dict
+===========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: degree_mixing_dict

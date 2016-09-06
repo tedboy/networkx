@@ -1,0 +1,6 @@
+networkx.algorithms.number_of_isolates
+======================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: number_of_isolates

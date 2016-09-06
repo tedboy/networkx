@@ -1,0 +1,6 @@
+networkx.scale_free_graph
+=========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: scale_free_graph

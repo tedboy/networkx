@@ -1,0 +1,6 @@
+networkx.OrderedDiGraph.get_edge_data
+=====================================
+
+.. currentmodule:: networkx
+
+.. automethod:: OrderedDiGraph.get_edge_data

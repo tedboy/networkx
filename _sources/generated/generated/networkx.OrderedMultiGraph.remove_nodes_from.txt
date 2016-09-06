@@ -1,0 +1,6 @@
+networkx.OrderedMultiGraph.remove_nodes_from
+============================================
+
+.. currentmodule:: networkx
+
+.. automethod:: OrderedMultiGraph.remove_nodes_from

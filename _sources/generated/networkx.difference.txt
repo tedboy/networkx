@@ -1,0 +1,6 @@
+networkx.difference
+===================
+
+.. currentmodule:: networkx
+
+.. autofunction:: difference

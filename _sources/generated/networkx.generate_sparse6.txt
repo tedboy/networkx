@@ -1,0 +1,6 @@
+networkx.generate_sparse6
+=========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: generate_sparse6

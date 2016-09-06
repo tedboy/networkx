@@ -1,0 +1,6 @@
+networkx.read_graphml
+=====================
+
+.. currentmodule:: networkx
+
+.. autofunction:: read_graphml

@@ -1,0 +1,6 @@
+networkx.node_attribute_xy
+==========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: node_attribute_xy

@@ -1,0 +1,6 @@
+networkx.frucht_graph
+=====================
+
+.. currentmodule:: networkx
+
+.. autofunction:: frucht_graph

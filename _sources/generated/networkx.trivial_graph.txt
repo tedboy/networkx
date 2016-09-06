@@ -1,0 +1,6 @@
+networkx.trivial_graph
+======================
+
+.. currentmodule:: networkx
+
+.. autofunction:: trivial_graph

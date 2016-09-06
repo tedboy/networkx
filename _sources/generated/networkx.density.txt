@@ -1,0 +1,6 @@
+networkx.density
+================
+
+.. currentmodule:: networkx
+
+.. autofunction:: density

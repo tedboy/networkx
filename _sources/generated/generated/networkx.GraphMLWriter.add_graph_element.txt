@@ -1,0 +1,6 @@
+networkx.GraphMLWriter.add_graph_element
+========================================
+
+.. currentmodule:: networkx
+
+.. automethod:: GraphMLWriter.add_graph_element

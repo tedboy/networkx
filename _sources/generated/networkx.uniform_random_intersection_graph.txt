@@ -1,0 +1,6 @@
+networkx.uniform_random_intersection_graph
+==========================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: uniform_random_intersection_graph

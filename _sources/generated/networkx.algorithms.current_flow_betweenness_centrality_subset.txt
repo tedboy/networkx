@@ -1,0 +1,6 @@
+networkx.algorithms.current_flow_betweenness_centrality_subset
+==============================================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: current_flow_betweenness_centrality_subset

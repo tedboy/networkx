@@ -1,0 +1,6 @@
+networkx.LCF_graph
+==================
+
+.. currentmodule:: networkx
+
+.. autofunction:: LCF_graph

@@ -1,0 +1,6 @@
+networkx.classes.Graph.name
+===========================
+
+.. currentmodule:: networkx.classes
+
+.. autoattribute:: Graph.name

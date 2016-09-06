@@ -1,0 +1,6 @@
+networkx.generate_adjlist
+=========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: generate_adjlist

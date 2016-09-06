@@ -1,0 +1,6 @@
+networkx.OrderedMultiDiGraph.to_directed
+========================================
+
+.. currentmodule:: networkx
+
+.. automethod:: OrderedMultiDiGraph.to_directed

@@ -1,0 +1,6 @@
+networkx.symmetric_difference
+=============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: symmetric_difference

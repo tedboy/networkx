@@ -1,0 +1,6 @@
+networkx.utils.powerlaw_sequence
+================================
+
+.. currentmodule:: networkx.utils
+
+.. autofunction:: powerlaw_sequence

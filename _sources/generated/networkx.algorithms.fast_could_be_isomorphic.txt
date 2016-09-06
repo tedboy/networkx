@@ -1,0 +1,6 @@
+networkx.algorithms.fast_could_be_isomorphic
+============================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: fast_could_be_isomorphic

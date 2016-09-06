@@ -1,0 +1,6 @@
+networkx.classes.non_edges
+==========================
+
+.. currentmodule:: networkx.classes
+
+.. autofunction:: non_edges

@@ -1,0 +1,6 @@
+networkx.utils.defaultdict.setdefault
+=====================================
+
+.. currentmodule:: networkx.utils
+
+.. automethod:: defaultdict.setdefault

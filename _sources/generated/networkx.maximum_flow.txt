@@ -1,0 +1,6 @@
+networkx.maximum_flow
+=====================
+
+.. currentmodule:: networkx
+
+.. autofunction:: maximum_flow

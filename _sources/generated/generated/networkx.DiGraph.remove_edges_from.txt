@@ -1,0 +1,6 @@
+networkx.DiGraph.remove_edges_from
+==================================
+
+.. currentmodule:: networkx
+
+.. automethod:: DiGraph.remove_edges_from

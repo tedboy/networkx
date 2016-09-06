@@ -1,0 +1,6 @@
+networkx.generators.barabasi_albert_graph
+=========================================
+
+.. currentmodule:: networkx.generators
+
+.. autofunction:: barabasi_albert_graph

@@ -1,0 +1,6 @@
+networkx.parse_multiline_adjlist
+================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: parse_multiline_adjlist

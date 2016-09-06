@@ -1,0 +1,6 @@
+networkx.classes.MultiGraph.neighbors
+=====================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: MultiGraph.neighbors

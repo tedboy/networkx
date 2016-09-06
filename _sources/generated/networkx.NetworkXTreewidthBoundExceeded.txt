@@ -1,0 +1,6 @@
+networkx.NetworkXTreewidthBoundExceeded
+=======================================
+
+.. currentmodule:: networkx
+
+.. autoexception:: NetworkXTreewidthBoundExceeded

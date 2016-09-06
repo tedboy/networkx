@@ -1,0 +1,6 @@
+networkx.node_link_data
+=======================
+
+.. currentmodule:: networkx
+
+.. autofunction:: node_link_data

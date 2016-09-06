@@ -1,0 +1,6 @@
+networkx.generators.connected_watts_strogatz_graph
+==================================================
+
+.. currentmodule:: networkx.generators
+
+.. autofunction:: connected_watts_strogatz_graph

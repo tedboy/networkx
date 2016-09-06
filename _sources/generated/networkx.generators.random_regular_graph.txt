@@ -1,0 +1,6 @@
+networkx.generators.random_regular_graph
+========================================
+
+.. currentmodule:: networkx.generators
+
+.. autofunction:: random_regular_graph

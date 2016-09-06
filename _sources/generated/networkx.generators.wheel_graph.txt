@@ -1,0 +1,6 @@
+networkx.generators.wheel_graph
+===============================
+
+.. currentmodule:: networkx.generators
+
+.. autofunction:: wheel_graph

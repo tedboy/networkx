@@ -1,0 +1,6 @@
+networkx.goldberg_radzik
+========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: goldberg_radzik

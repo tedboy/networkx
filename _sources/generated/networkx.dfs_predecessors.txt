@@ -1,0 +1,6 @@
+networkx.dfs_predecessors
+=========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: dfs_predecessors

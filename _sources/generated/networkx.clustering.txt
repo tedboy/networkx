@@ -1,0 +1,6 @@
+networkx.clustering
+===================
+
+.. currentmodule:: networkx
+
+.. autofunction:: clustering

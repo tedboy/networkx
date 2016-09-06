@@ -1,0 +1,6 @@
+networkx.OrderedMultiGraph.adjacency
+====================================
+
+.. currentmodule:: networkx
+
+.. automethod:: OrderedMultiGraph.adjacency

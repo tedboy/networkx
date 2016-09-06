@@ -1,0 +1,6 @@
+networkx.OrderedGraph.add_node
+==============================
+
+.. currentmodule:: networkx
+
+.. automethod:: OrderedGraph.add_node

@@ -1,0 +1,6 @@
+networkx.drawing.draw_shell
+===========================
+
+.. currentmodule:: networkx.drawing
+
+.. autofunction:: draw_shell

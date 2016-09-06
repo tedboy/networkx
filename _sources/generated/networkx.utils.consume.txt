@@ -1,0 +1,6 @@
+networkx.utils.consume
+======================
+
+.. currentmodule:: networkx.utils
+
+.. autofunction:: consume

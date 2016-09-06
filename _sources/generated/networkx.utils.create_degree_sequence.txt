@@ -1,0 +1,6 @@
+networkx.utils.create_degree_sequence
+=====================================
+
+.. currentmodule:: networkx.utils
+
+.. autofunction:: create_degree_sequence

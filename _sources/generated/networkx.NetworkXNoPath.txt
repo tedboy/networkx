@@ -1,0 +1,6 @@
+networkx.NetworkXNoPath
+=======================
+
+.. currentmodule:: networkx
+
+.. autoexception:: NetworkXNoPath

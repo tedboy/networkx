@@ -1,0 +1,6 @@
+networkx.k_crust
+================
+
+.. currentmodule:: networkx
+
+.. autofunction:: k_crust

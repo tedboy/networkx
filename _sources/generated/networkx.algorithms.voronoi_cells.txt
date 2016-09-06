@@ -1,0 +1,6 @@
+networkx.algorithms.voronoi_cells
+=================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: voronoi_cells

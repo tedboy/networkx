@@ -1,0 +1,6 @@
+networkx.generators.moebius_kantor_graph
+========================================
+
+.. currentmodule:: networkx.generators
+
+.. autofunction:: moebius_kantor_graph

@@ -1,0 +1,6 @@
+networkx.utils.open_file
+========================
+
+.. currentmodule:: networkx.utils
+
+.. autofunction:: open_file

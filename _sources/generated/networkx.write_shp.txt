@@ -1,0 +1,6 @@
+networkx.write_shp
+==================
+
+.. currentmodule:: networkx
+
+.. autofunction:: write_shp

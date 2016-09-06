@@ -1,0 +1,6 @@
+networkx.algorithms.authority_matrix
+====================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: authority_matrix

@@ -1,0 +1,6 @@
+networkx.classes.OrderedGraph.to_directed
+=========================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: OrderedGraph.to_directed

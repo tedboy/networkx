@@ -1,0 +1,6 @@
+networkx.algorithms.quotient_graph
+==================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: quotient_graph

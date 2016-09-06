@@ -1,0 +1,6 @@
+networkx.readwrite.parse_graphml
+================================
+
+.. currentmodule:: networkx.readwrite
+
+.. autofunction:: parse_graphml

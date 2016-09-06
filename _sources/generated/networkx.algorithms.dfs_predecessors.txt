@@ -1,0 +1,6 @@
+networkx.algorithms.dfs_predecessors
+====================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: dfs_predecessors

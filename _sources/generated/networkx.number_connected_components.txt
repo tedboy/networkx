@@ -1,0 +1,6 @@
+networkx.number_connected_components
+====================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: number_connected_components

@@ -1,0 +1,6 @@
+networkx.complement
+===================
+
+.. currentmodule:: networkx
+
+.. autofunction:: complement

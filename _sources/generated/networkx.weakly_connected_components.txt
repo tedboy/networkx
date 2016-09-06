@@ -1,0 +1,6 @@
+networkx.weakly_connected_components
+====================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: weakly_connected_components

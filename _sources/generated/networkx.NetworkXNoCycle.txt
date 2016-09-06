@@ -1,0 +1,6 @@
+networkx.NetworkXNoCycle
+========================
+
+.. currentmodule:: networkx
+
+.. autoexception:: NetworkXNoCycle

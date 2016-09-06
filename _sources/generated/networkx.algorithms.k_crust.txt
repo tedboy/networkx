@@ -1,0 +1,6 @@
+networkx.algorithms.k_crust
+===========================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: k_crust

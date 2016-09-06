@@ -1,0 +1,6 @@
+networkx.parse_gml
+==================
+
+.. currentmodule:: networkx
+
+.. autofunction:: parse_gml

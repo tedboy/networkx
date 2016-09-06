@@ -1,0 +1,6 @@
+networkx.utils.BinaryHeap.pop
+=============================
+
+.. currentmodule:: networkx.utils
+
+.. automethod:: BinaryHeap.pop

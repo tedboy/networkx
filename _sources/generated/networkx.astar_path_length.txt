@@ -1,0 +1,6 @@
+networkx.astar_path_length
+==========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: astar_path_length

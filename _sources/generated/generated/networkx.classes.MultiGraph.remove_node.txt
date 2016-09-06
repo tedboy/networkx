@@ -1,0 +1,6 @@
+networkx.classes.MultiGraph.remove_node
+=======================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: MultiGraph.remove_node

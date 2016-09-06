@@ -1,0 +1,6 @@
+networkx.generators.expected_degree_graph
+=========================================
+
+.. currentmodule:: networkx.generators
+
+.. autofunction:: expected_degree_graph

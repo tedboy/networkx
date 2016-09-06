@@ -1,0 +1,6 @@
+networkx.drawing.spring_layout
+==============================
+
+.. currentmodule:: networkx.drawing
+
+.. autofunction:: spring_layout

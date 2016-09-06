@@ -1,0 +1,6 @@
+networkx.to_dict_of_lists
+=========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: to_dict_of_lists

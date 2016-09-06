@@ -1,0 +1,6 @@
+networkx.linalg.modularity_matrix
+=================================
+
+.. currentmodule:: networkx.linalg
+
+.. autofunction:: modularity_matrix

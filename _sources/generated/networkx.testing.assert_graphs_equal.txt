@@ -1,0 +1,6 @@
+networkx.testing.assert_graphs_equal
+====================================
+
+.. currentmodule:: networkx.testing
+
+.. autofunction:: assert_graphs_equal

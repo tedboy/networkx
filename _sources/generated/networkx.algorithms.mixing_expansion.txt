@@ -1,0 +1,6 @@
+networkx.algorithms.mixing_expansion
+====================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: mixing_expansion

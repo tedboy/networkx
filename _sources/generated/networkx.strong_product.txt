@@ -1,0 +1,6 @@
+networkx.strong_product
+=======================
+
+.. currentmodule:: networkx
+
+.. autofunction:: strong_product

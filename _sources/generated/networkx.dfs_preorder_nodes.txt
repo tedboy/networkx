@@ -1,0 +1,6 @@
+networkx.dfs_preorder_nodes
+===========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: dfs_preorder_nodes

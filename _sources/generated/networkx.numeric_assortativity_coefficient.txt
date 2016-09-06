@@ -1,0 +1,6 @@
+networkx.numeric_assortativity_coefficient
+==========================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: numeric_assortativity_coefficient

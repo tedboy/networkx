@@ -1,0 +1,6 @@
+networkx.bfs_edges
+==================
+
+.. currentmodule:: networkx
+
+.. autofunction:: bfs_edges

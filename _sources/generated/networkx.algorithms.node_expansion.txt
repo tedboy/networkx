@@ -1,0 +1,6 @@
+networkx.algorithms.node_expansion
+==================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: node_expansion

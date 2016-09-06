@@ -1,0 +1,6 @@
+networkx.generators.empty_graph
+===============================
+
+.. currentmodule:: networkx.generators
+
+.. autofunction:: empty_graph

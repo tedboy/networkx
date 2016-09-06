@@ -1,0 +1,6 @@
+networkx.OrderedMultiGraph.number_of_nodes
+==========================================
+
+.. currentmodule:: networkx
+
+.. automethod:: OrderedMultiGraph.number_of_nodes

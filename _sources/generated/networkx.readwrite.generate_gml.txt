@@ -1,0 +1,6 @@
+networkx.readwrite.generate_gml
+===============================
+
+.. currentmodule:: networkx.readwrite
+
+.. autofunction:: generate_gml

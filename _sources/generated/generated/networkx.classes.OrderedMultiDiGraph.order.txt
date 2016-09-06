@@ -1,0 +1,6 @@
+networkx.classes.OrderedMultiDiGraph.order
+==========================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: OrderedMultiDiGraph.order

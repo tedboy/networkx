@@ -1,0 +1,6 @@
+networkx.algorithms.hub_matrix
+==============================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: hub_matrix

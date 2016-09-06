@@ -1,0 +1,6 @@
+networkx.classes.DiGraph.adjacency
+==================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: DiGraph.adjacency

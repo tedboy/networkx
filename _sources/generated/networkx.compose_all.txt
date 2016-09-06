@@ -1,0 +1,6 @@
+networkx.compose_all
+====================
+
+.. currentmodule:: networkx
+
+.. autofunction:: compose_all

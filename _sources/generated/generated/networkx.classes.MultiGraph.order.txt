@@ -1,0 +1,6 @@
+networkx.classes.MultiGraph.order
+=================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: MultiGraph.order

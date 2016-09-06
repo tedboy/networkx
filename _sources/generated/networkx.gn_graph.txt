@@ -1,0 +1,6 @@
+networkx.gn_graph
+=================
+
+.. currentmodule:: networkx
+
+.. autofunction:: gn_graph

@@ -1,0 +1,6 @@
+networkx.from_edgelist
+======================
+
+.. currentmodule:: networkx
+
+.. autofunction:: from_edgelist

@@ -1,0 +1,6 @@
+networkx.is_forest
+==================
+
+.. currentmodule:: networkx
+
+.. autofunction:: is_forest

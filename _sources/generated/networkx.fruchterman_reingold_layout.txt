@@ -1,0 +1,6 @@
+networkx.fruchterman_reingold_layout
+====================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: fruchterman_reingold_layout

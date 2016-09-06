@@ -1,0 +1,6 @@
+networkx.classes.OrderedMultiDiGraph.add_edge
+=============================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: OrderedMultiDiGraph.add_edge

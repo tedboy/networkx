@@ -1,0 +1,6 @@
+networkx.generators.partial_duplication_graph
+=============================================
+
+.. currentmodule:: networkx.generators
+
+.. autofunction:: partial_duplication_graph

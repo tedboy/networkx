@@ -1,0 +1,6 @@
+networkx.classes.Graph.edges
+============================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: Graph.edges

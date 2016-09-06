@@ -1,0 +1,6 @@
+networkx.triad_graph
+====================
+
+.. currentmodule:: networkx
+
+.. autofunction:: triad_graph

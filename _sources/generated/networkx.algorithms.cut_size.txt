@@ -1,0 +1,6 @@
+networkx.algorithms.cut_size
+============================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: cut_size

@@ -1,0 +1,6 @@
+networkx.generators.random_partition_graph
+==========================================
+
+.. currentmodule:: networkx.generators
+
+.. autofunction:: random_partition_graph

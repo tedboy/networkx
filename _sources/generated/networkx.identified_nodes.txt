@@ -1,0 +1,6 @@
+networkx.identified_nodes
+=========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: identified_nodes

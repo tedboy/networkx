@@ -1,0 +1,6 @@
+networkx.algorithms.wiener_index
+================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: wiener_index

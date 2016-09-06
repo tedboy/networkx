@@ -1,0 +1,6 @@
+networkx.NetworkXNotImplemented
+===============================
+
+.. currentmodule:: networkx
+
+.. autoexception:: NetworkXNotImplemented

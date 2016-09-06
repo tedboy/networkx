@@ -1,0 +1,6 @@
+networkx.algorithms.antichains
+==============================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: antichains

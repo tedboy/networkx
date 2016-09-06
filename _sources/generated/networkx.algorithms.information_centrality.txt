@@ -1,0 +1,6 @@
+networkx.algorithms.information_centrality
+==========================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: information_centrality

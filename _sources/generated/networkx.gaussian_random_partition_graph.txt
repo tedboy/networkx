@@ -1,0 +1,6 @@
+networkx.gaussian_random_partition_graph
+========================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: gaussian_random_partition_graph

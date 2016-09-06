@@ -1,0 +1,6 @@
+networkx.generators.navigable_small_world_graph
+===============================================
+
+.. currentmodule:: networkx.generators
+
+.. autofunction:: navigable_small_world_graph

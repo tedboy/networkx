@@ -1,0 +1,6 @@
+networkx.algorithms.edge_betweenness_centrality_subset
+======================================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: edge_betweenness_centrality_subset

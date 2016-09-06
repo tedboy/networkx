@@ -1,0 +1,6 @@
+networkx.dfs_labeled_edges
+==========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: dfs_labeled_edges

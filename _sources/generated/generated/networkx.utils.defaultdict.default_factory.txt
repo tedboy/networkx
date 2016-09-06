@@ -1,0 +1,6 @@
+networkx.utils.defaultdict.default_factory
+==========================================
+
+.. currentmodule:: networkx.utils
+
+.. autoattribute:: defaultdict.default_factory

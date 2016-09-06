@@ -1,0 +1,6 @@
+networkx.generators.complete_graph
+==================================
+
+.. currentmodule:: networkx.generators
+
+.. autofunction:: complete_graph

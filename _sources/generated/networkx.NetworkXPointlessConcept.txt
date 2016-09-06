@@ -1,0 +1,6 @@
+networkx.NetworkXPointlessConcept
+=================================
+
+.. currentmodule:: networkx
+
+.. autoexception:: NetworkXPointlessConcept

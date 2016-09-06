@@ -1,0 +1,6 @@
+networkx.readwrite.GraphMLReader.python_type
+============================================
+
+.. currentmodule:: networkx.readwrite
+
+.. autoattribute:: GraphMLReader.python_type

@@ -1,0 +1,6 @@
+networkx.classes.is_weighted
+============================
+
+.. currentmodule:: networkx.classes
+
+.. autofunction:: is_weighted

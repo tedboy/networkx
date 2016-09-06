@@ -1,0 +1,6 @@
+networkx.dispersion
+===================
+
+.. currentmodule:: networkx
+
+.. autofunction:: dispersion

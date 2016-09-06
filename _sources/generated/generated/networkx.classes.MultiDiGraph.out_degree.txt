@@ -1,0 +1,6 @@
+networkx.classes.MultiDiGraph.out_degree
+========================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: MultiDiGraph.out_degree

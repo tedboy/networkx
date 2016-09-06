@@ -1,0 +1,6 @@
+networkx.classes.OrderedMultiDiGraph.number_of_selfloops
+========================================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: OrderedMultiDiGraph.number_of_selfloops

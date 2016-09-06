@@ -1,0 +1,6 @@
+networkx.algorithms.is_matching
+===============================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: is_matching

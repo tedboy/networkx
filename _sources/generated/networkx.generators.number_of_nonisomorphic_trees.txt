@@ -1,0 +1,6 @@
+networkx.generators.number_of_nonisomorphic_trees
+=================================================
+
+.. currentmodule:: networkx.generators
+
+.. autofunction:: number_of_nonisomorphic_trees

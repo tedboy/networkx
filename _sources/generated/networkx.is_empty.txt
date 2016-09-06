@@ -1,0 +1,6 @@
+networkx.is_empty
+=================
+
+.. currentmodule:: networkx
+
+.. autofunction:: is_empty

@@ -1,0 +1,6 @@
+networkx.readwrite.jit_data
+===========================
+
+.. currentmodule:: networkx.readwrite
+
+.. autofunction:: jit_data

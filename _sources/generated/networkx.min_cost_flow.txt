@@ -1,0 +1,6 @@
+networkx.min_cost_flow
+======================
+
+.. currentmodule:: networkx
+
+.. autofunction:: min_cost_flow

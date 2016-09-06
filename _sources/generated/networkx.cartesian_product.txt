@@ -1,0 +1,6 @@
+networkx.cartesian_product
+==========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: cartesian_product

@@ -1,0 +1,6 @@
+networkx.average_node_connectivity
+==================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: average_node_connectivity

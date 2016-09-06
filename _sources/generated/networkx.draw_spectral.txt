@@ -1,0 +1,6 @@
+networkx.draw_spectral
+======================
+
+.. currentmodule:: networkx
+
+.. autofunction:: draw_spectral

@@ -1,0 +1,6 @@
+networkx.classes.Graph.copy
+===========================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: Graph.copy

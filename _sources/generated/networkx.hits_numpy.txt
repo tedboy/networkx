@@ -1,0 +1,6 @@
+networkx.hits_numpy
+===================
+
+.. currentmodule:: networkx
+
+.. autofunction:: hits_numpy

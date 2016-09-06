@@ -1,0 +1,6 @@
+networkx.resource_allocation_index
+==================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: resource_allocation_index

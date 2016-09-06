@@ -1,0 +1,6 @@
+networkx.classes.OrderedDiGraph.successors
+==========================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: OrderedDiGraph.successors

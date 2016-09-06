@@ -1,0 +1,6 @@
+networkx.is_valid_joint_degree
+==============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: is_valid_joint_degree

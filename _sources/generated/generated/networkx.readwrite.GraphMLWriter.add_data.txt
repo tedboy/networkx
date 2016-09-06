@@ -1,0 +1,6 @@
+networkx.readwrite.GraphMLWriter.add_data
+=========================================
+
+.. currentmodule:: networkx.readwrite
+
+.. automethod:: GraphMLWriter.add_data

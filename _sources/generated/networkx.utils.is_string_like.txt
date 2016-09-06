@@ -1,0 +1,6 @@
+networkx.utils.is_string_like
+=============================
+
+.. currentmodule:: networkx.utils
+
+.. autofunction:: is_string_like

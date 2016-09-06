@@ -1,0 +1,6 @@
+networkx.freeze
+===============
+
+.. currentmodule:: networkx
+
+.. autofunction:: freeze

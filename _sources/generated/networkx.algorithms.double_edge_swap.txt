@@ -1,0 +1,6 @@
+networkx.algorithms.double_edge_swap
+====================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: double_edge_swap

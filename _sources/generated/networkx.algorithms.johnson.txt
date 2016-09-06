@@ -1,0 +1,6 @@
+networkx.algorithms.johnson
+===========================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: johnson

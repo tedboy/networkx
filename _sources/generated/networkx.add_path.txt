@@ -1,0 +1,6 @@
+networkx.add_path
+=================
+
+.. currentmodule:: networkx
+
+.. autofunction:: add_path

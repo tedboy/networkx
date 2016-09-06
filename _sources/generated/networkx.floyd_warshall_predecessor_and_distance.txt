@@ -1,0 +1,6 @@
+networkx.floyd_warshall_predecessor_and_distance
+================================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: floyd_warshall_predecessor_and_distance

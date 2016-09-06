@@ -1,0 +1,6 @@
+networkx.algorithms.adamic_adar_index
+=====================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: adamic_adar_index

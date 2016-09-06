@@ -1,0 +1,6 @@
+networkx.algorithms.weakly_connected_component_subgraphs
+========================================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: weakly_connected_component_subgraphs

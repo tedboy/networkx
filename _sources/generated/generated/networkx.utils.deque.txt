@@ -1,0 +1,39 @@
+networkx.utils.deque
+====================
+
+.. currentmodule:: networkx.utils
+.. autoclass:: deque
+   :members: __init__
+   :undoc-members:
+
+
+Methods
+-------
+.. autosummary::
+   :toctree:
+
+
+   ~deque.append
+   ~deque.appendleft
+   ~deque.clear
+   ~deque.count
+   ~deque.extend
+   ~deque.extendleft
+   ~deque.pop
+   ~deque.popleft
+   ~deque.remove
+   ~deque.reverse
+   ~deque.rotate
+
+
+
+
+
+Attributes
+----------
+.. autosummary::
+  :toctree:
+
+
+   ~deque.maxlen
+

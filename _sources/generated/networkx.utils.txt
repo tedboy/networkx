@@ -1,0 +1,88 @@
+networkx.utils
+==============
+
+.. automodule:: networkx.utils
+
+   
+   
+   Functions
+   ---------
+   .. autosummary::
+      :toctree:
+
+   
+      accumulate
+      arbitrary_element
+      consume
+      create_degree_sequence
+      cumulative_distribution
+      cuthill_mckee_ordering
+      default_opener
+      dict_to_numpy_array
+      dict_to_numpy_array1
+      dict_to_numpy_array2
+      discrete_sequence
+      flatten
+      generate_unique_node
+      groups
+      is_iterator
+      is_list_of_ints
+      is_string_like
+      iterable
+      make_str
+      nodes_or_number
+      not_implemented_for
+      open_file
+      pairwise
+      pareto_sequence
+      powerlaw_sequence
+      random_weighted_sample
+      reverse_cuthill_mckee_ordering
+      reversed
+      tee
+      to_tuple
+      uniform_sequence
+      weighted_choice
+      zipf_rv
+      zipf_sequence
+   
+   
+
+   
+   
+   Classes
+   -------
+   .. autosummary::
+      :toctree:generated/
+      :template:class_custom.rst
+
+   
+      BinaryHeap
+      MinHeap
+      PairingHeap
+      UnionFind
+      chain
+      defaultdict
+      deque
+      groupby
+
+   .. toctree::
+       :maxdepth: 1
+       :hidden:
+
+   
+       generated/networkx.utils.BinaryHeap
+       generated/networkx.utils.MinHeap
+       generated/networkx.utils.PairingHeap
+       generated/networkx.utils.UnionFind
+       generated/networkx.utils.chain
+       generated/networkx.utils.defaultdict
+       generated/networkx.utils.deque
+       generated/networkx.utils.groupby
+
+   
+   
+
+   
+   
+   

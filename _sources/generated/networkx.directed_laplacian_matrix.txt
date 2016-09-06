@@ -1,0 +1,6 @@
+networkx.directed_laplacian_matrix
+==================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: directed_laplacian_matrix

@@ -1,0 +1,6 @@
+networkx.strongly_connected_components
+======================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: strongly_connected_components

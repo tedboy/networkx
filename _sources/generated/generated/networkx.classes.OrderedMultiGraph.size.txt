@@ -1,0 +1,6 @@
+networkx.classes.OrderedMultiGraph.size
+=======================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: OrderedMultiGraph.size

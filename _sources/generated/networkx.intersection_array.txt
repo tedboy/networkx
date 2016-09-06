@@ -1,0 +1,6 @@
+networkx.intersection_array
+===========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: intersection_array

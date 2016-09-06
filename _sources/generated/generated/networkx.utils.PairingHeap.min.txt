@@ -1,0 +1,6 @@
+networkx.utils.PairingHeap.min
+==============================
+
+.. currentmodule:: networkx.utils
+
+.. automethod:: PairingHeap.min

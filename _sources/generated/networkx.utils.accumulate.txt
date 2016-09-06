@@ -1,0 +1,6 @@
+networkx.utils.accumulate
+=========================
+
+.. currentmodule:: networkx.utils
+
+.. autofunction:: accumulate

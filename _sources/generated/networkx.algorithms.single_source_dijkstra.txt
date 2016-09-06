@@ -1,0 +1,6 @@
+networkx.algorithms.single_source_dijkstra
+==========================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: single_source_dijkstra

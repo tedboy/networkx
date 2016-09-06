@@ -1,0 +1,6 @@
+networkx.path_graph
+===================
+
+.. currentmodule:: networkx
+
+.. autofunction:: path_graph

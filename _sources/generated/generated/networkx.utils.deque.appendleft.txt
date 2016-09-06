@@ -1,0 +1,6 @@
+networkx.utils.deque.appendleft
+===============================
+
+.. currentmodule:: networkx.utils
+
+.. automethod:: deque.appendleft

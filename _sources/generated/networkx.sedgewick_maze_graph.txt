@@ -1,0 +1,6 @@
+networkx.sedgewick_maze_graph
+=============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: sedgewick_maze_graph

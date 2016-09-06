@@ -1,0 +1,6 @@
+networkx.algorithms.predecessor
+===============================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: predecessor

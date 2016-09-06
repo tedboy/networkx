@@ -1,0 +1,6 @@
+networkx.to_pandas_dataframe
+============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: to_pandas_dataframe

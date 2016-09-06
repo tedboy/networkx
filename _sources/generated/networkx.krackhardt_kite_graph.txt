@@ -1,0 +1,6 @@
+networkx.krackhardt_kite_graph
+==============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: krackhardt_kite_graph

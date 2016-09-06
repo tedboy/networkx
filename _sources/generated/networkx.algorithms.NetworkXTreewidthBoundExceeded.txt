@@ -1,0 +1,6 @@
+networkx.algorithms.NetworkXTreewidthBoundExceeded
+==================================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autoexception:: NetworkXTreewidthBoundExceeded

@@ -1,0 +1,6 @@
+networkx.algorithms.union
+=========================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: union

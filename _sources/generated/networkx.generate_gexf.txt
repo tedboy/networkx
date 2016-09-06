@@ -1,0 +1,6 @@
+networkx.generate_gexf
+======================
+
+.. currentmodule:: networkx
+
+.. autofunction:: generate_gexf

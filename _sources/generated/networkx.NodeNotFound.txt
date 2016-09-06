@@ -1,0 +1,6 @@
+networkx.NodeNotFound
+=====================
+
+.. currentmodule:: networkx
+
+.. autoexception:: NodeNotFound

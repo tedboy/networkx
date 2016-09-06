@@ -1,0 +1,6 @@
+networkx.connected_caveman_graph
+================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: connected_caveman_graph

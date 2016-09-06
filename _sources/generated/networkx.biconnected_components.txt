@@ -1,0 +1,6 @@
+networkx.biconnected_components
+===============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: biconnected_components

@@ -1,0 +1,6 @@
+networkx.classes.Graph.subgraph
+===============================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: Graph.subgraph

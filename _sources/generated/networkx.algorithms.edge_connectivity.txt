@@ -1,0 +1,6 @@
+networkx.algorithms.edge_connectivity
+=====================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: edge_connectivity

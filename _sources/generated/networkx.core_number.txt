@@ -1,0 +1,6 @@
+networkx.core_number
+====================
+
+.. currentmodule:: networkx
+
+.. autofunction:: core_number

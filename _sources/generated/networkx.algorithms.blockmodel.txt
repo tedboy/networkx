@@ -1,0 +1,6 @@
+networkx.algorithms.blockmodel
+==============================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: blockmodel

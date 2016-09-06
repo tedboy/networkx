@@ -1,0 +1,6 @@
+networkx.generators.tutte_graph
+===============================
+
+.. currentmodule:: networkx.generators
+
+.. autofunction:: tutte_graph

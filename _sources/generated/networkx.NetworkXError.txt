@@ -1,0 +1,6 @@
+networkx.NetworkXError
+======================
+
+.. currentmodule:: networkx
+
+.. autoexception:: NetworkXError

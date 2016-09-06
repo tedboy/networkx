@@ -1,0 +1,6 @@
+networkx.edge_dfs
+=================
+
+.. currentmodule:: networkx
+
+.. autofunction:: edge_dfs

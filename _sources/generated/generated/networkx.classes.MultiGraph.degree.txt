@@ -1,0 +1,6 @@
+networkx.classes.MultiGraph.degree
+==================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: MultiGraph.degree

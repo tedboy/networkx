@@ -1,0 +1,6 @@
+networkx.diameter
+=================
+
+.. currentmodule:: networkx
+
+.. autofunction:: diameter

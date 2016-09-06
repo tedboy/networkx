@@ -1,0 +1,6 @@
+networkx.classes.DiGraph.number_of_edges
+========================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: DiGraph.number_of_edges

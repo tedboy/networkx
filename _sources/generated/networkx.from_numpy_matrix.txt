@@ -1,0 +1,6 @@
+networkx.from_numpy_matrix
+==========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: from_numpy_matrix

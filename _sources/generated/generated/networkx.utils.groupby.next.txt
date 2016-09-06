@@ -1,0 +1,6 @@
+networkx.utils.groupby.next
+===========================
+
+.. currentmodule:: networkx.utils
+
+.. autoattribute:: groupby.next

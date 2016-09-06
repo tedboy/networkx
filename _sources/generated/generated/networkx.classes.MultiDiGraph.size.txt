@@ -1,0 +1,6 @@
+networkx.classes.MultiDiGraph.size
+==================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: MultiDiGraph.size

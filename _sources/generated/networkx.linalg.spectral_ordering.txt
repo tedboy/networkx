@@ -1,0 +1,6 @@
+networkx.linalg.spectral_ordering
+=================================
+
+.. currentmodule:: networkx.linalg
+
+.. autofunction:: spectral_ordering

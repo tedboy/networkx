@@ -1,0 +1,6 @@
+networkx.heawood_graph
+======================
+
+.. currentmodule:: networkx
+
+.. autofunction:: heawood_graph

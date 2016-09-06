@@ -1,0 +1,6 @@
+networkx.classes.OrderedMultiDiGraph.copy
+=========================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: OrderedMultiDiGraph.copy

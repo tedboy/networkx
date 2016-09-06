@@ -1,0 +1,6 @@
+networkx.classes.density
+========================
+
+.. currentmodule:: networkx.classes
+
+.. autofunction:: density

@@ -1,0 +1,6 @@
+networkx.classes.DiGraph.number_of_nodes
+========================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: DiGraph.number_of_nodes

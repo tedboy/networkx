@@ -1,0 +1,6 @@
+networkx.OrderedDiGraph.has_edge
+================================
+
+.. currentmodule:: networkx
+
+.. automethod:: OrderedDiGraph.has_edge

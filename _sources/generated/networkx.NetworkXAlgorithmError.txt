@@ -1,0 +1,6 @@
+networkx.NetworkXAlgorithmError
+===============================
+
+.. currentmodule:: networkx
+
+.. autoexception:: NetworkXAlgorithmError

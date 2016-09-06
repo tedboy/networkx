@@ -1,0 +1,6 @@
+networkx.algorithms.kernighan_lin_bisection
+===========================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: kernighan_lin_bisection

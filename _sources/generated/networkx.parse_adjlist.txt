@@ -1,0 +1,6 @@
+networkx.parse_adjlist
+======================
+
+.. currentmodule:: networkx
+
+.. autofunction:: parse_adjlist

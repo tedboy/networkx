@@ -1,0 +1,6 @@
+networkx.algorithms.reverse
+===========================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: reverse

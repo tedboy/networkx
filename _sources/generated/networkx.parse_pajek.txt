@@ -1,0 +1,6 @@
+networkx.parse_pajek
+====================
+
+.. currentmodule:: networkx
+
+.. autofunction:: parse_pajek

@@ -1,0 +1,6 @@
+networkx.classes.Graph.nodes
+============================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: Graph.nodes

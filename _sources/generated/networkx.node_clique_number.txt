@@ -1,0 +1,6 @@
+networkx.node_clique_number
+===========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: node_clique_number

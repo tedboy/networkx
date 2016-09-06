@@ -1,0 +1,6 @@
+networkx.average_degree_connectivity
+====================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: average_degree_connectivity

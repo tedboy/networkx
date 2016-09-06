@@ -1,0 +1,6 @@
+networkx.random_degree_sequence_graph
+=====================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: random_degree_sequence_graph

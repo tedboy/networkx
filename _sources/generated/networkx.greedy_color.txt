@@ -1,0 +1,6 @@
+networkx.greedy_color
+=====================
+
+.. currentmodule:: networkx
+
+.. autofunction:: greedy_color

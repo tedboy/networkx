@@ -1,0 +1,23 @@
+networkx.utils.UnionFind
+========================
+
+.. currentmodule:: networkx.utils
+.. autoclass:: UnionFind
+   :members: __init__
+   :undoc-members:
+
+
+Methods
+-------
+.. autosummary::
+   :toctree:
+
+
+   ~UnionFind.__init__
+   ~UnionFind.to_sets
+   ~UnionFind.union
+
+
+
+
+

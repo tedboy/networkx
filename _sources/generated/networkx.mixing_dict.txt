@@ -1,0 +1,6 @@
+networkx.mixing_dict
+====================
+
+.. currentmodule:: networkx
+
+.. autofunction:: mixing_dict

@@ -1,0 +1,6 @@
+networkx.generators.directed_configuration_model
+================================================
+
+.. currentmodule:: networkx.generators
+
+.. autofunction:: directed_configuration_model

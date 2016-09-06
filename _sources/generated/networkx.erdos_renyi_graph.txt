@@ -1,0 +1,6 @@
+networkx.erdos_renyi_graph
+==========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: erdos_renyi_graph

@@ -1,0 +1,6 @@
+networkx.generators.star_graph
+==============================
+
+.. currentmodule:: networkx.generators
+
+.. autofunction:: star_graph

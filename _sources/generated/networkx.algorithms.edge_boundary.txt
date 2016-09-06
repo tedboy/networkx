@@ -1,0 +1,6 @@
+networkx.algorithms.edge_boundary
+=================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: edge_boundary

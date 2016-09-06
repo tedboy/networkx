@@ -1,0 +1,6 @@
+networkx.classes.DiGraph.has_edge
+=================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: DiGraph.has_edge

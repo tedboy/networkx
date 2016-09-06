@@ -1,0 +1,6 @@
+networkx.classes.DiGraph.subgraph
+=================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: DiGraph.subgraph

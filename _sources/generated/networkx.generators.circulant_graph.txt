@@ -1,0 +1,6 @@
+networkx.generators.circulant_graph
+===================================
+
+.. currentmodule:: networkx.generators
+
+.. autofunction:: circulant_graph

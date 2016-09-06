@@ -1,0 +1,6 @@
+networkx.algorithms.k_corona
+============================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: k_corona

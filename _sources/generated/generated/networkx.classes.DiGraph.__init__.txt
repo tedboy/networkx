@@ -1,0 +1,6 @@
+networkx.classes.DiGraph.__init__
+=================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: DiGraph.__init__

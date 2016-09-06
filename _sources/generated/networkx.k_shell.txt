@@ -1,0 +1,6 @@
+networkx.k_shell
+================
+
+.. currentmodule:: networkx
+
+.. autofunction:: k_shell

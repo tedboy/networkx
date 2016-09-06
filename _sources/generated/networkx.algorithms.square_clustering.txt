@@ -1,0 +1,6 @@
+networkx.algorithms.square_clustering
+=====================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: square_clustering

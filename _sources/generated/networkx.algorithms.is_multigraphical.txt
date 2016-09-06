@@ -1,0 +1,6 @@
+networkx.algorithms.is_multigraphical
+=====================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: is_multigraphical

@@ -1,0 +1,6 @@
+networkx.algorithms.cliques_containing_node
+===========================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: cliques_containing_node

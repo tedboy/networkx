@@ -1,0 +1,6 @@
+networkx.barbell_graph
+======================
+
+.. currentmodule:: networkx
+
+.. autofunction:: barbell_graph

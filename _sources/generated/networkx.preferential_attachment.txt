@@ -1,0 +1,6 @@
+networkx.preferential_attachment
+================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: preferential_attachment

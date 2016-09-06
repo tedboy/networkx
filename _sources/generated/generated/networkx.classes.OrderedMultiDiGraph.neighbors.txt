@@ -1,0 +1,6 @@
+networkx.classes.OrderedMultiDiGraph.neighbors
+==============================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: OrderedMultiDiGraph.neighbors

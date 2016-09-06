@@ -1,0 +1,6 @@
+networkx.utils.deque.popleft
+============================
+
+.. currentmodule:: networkx.utils
+
+.. automethod:: deque.popleft

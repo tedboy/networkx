@@ -1,0 +1,25 @@
+networkx.utils.PairingHeap
+==========================
+
+.. currentmodule:: networkx.utils
+.. autoclass:: PairingHeap
+   :members: __init__
+   :undoc-members:
+
+
+Methods
+-------
+.. autosummary::
+   :toctree:
+
+
+   ~PairingHeap.__init__
+   ~PairingHeap.get
+   ~PairingHeap.insert
+   ~PairingHeap.min
+   ~PairingHeap.pop
+
+
+
+
+

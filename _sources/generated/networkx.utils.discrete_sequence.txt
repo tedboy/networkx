@@ -1,0 +1,6 @@
+networkx.utils.discrete_sequence
+================================
+
+.. currentmodule:: networkx.utils
+
+.. autofunction:: discrete_sequence

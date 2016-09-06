@@ -1,0 +1,6 @@
+networkx.algorithms.within_inter_cluster
+========================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: within_inter_cluster

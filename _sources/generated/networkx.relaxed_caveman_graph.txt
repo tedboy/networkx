@@ -1,0 +1,6 @@
+networkx.relaxed_caveman_graph
+==============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: relaxed_caveman_graph

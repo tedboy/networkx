@@ -1,0 +1,6 @@
+networkx.algorithms.overall_reciprocity
+=======================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: overall_reciprocity

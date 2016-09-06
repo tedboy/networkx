@@ -1,0 +1,6 @@
+networkx.adjacency_matrix
+=========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: adjacency_matrix

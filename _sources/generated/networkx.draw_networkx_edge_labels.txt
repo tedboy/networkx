@@ -1,0 +1,6 @@
+networkx.draw_networkx_edge_labels
+==================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: draw_networkx_edge_labels

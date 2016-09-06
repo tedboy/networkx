@@ -1,0 +1,6 @@
+networkx.algorithms.dijkstra_path
+=================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: dijkstra_path

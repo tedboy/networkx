@@ -1,0 +1,6 @@
+networkx.classes.DiGraph.has_node
+=================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: DiGraph.has_node

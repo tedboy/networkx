@@ -1,0 +1,6 @@
+networkx.MultiGraph.is_multigraph
+=================================
+
+.. currentmodule:: networkx
+
+.. automethod:: MultiGraph.is_multigraph

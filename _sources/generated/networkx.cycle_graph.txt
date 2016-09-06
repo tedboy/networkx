@@ -1,0 +1,6 @@
+networkx.cycle_graph
+====================
+
+.. currentmodule:: networkx
+
+.. autofunction:: cycle_graph

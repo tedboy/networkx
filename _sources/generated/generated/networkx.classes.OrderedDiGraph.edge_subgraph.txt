@@ -1,0 +1,6 @@
+networkx.classes.OrderedDiGraph.edge_subgraph
+=============================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: OrderedDiGraph.edge_subgraph

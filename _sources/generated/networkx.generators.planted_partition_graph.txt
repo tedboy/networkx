@@ -1,0 +1,6 @@
+networkx.generators.planted_partition_graph
+===========================================
+
+.. currentmodule:: networkx.generators
+
+.. autofunction:: planted_partition_graph

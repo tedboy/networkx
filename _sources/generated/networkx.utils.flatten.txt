@@ -1,0 +1,6 @@
+networkx.utils.flatten
+======================
+
+.. currentmodule:: networkx.utils
+
+.. autofunction:: flatten

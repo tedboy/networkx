@@ -1,0 +1,6 @@
+networkx.condensation
+=====================
+
+.. currentmodule:: networkx
+
+.. autofunction:: condensation

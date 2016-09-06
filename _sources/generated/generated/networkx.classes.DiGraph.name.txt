@@ -1,0 +1,6 @@
+networkx.classes.DiGraph.name
+=============================
+
+.. currentmodule:: networkx.classes
+
+.. autoattribute:: DiGraph.name

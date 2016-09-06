@@ -1,0 +1,6 @@
+networkx.MultiDiGraph.has_successor
+===================================
+
+.. currentmodule:: networkx
+
+.. automethod:: MultiDiGraph.has_successor

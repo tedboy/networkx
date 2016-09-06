@@ -1,0 +1,6 @@
+networkx.algorithms.transitivity
+================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: transitivity

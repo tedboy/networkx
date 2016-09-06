@@ -1,0 +1,6 @@
+networkx.generators.truncated_cube_graph
+========================================
+
+.. currentmodule:: networkx.generators
+
+.. autofunction:: truncated_cube_graph

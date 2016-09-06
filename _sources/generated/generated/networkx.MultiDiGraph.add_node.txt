@@ -1,0 +1,6 @@
+networkx.MultiDiGraph.add_node
+==============================
+
+.. currentmodule:: networkx
+
+.. automethod:: MultiDiGraph.add_node

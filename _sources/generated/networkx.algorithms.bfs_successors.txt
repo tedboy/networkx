@@ -1,0 +1,6 @@
+networkx.algorithms.bfs_successors
+==================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: bfs_successors

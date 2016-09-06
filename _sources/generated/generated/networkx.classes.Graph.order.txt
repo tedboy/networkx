@@ -1,0 +1,6 @@
+networkx.classes.Graph.order
+============================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: Graph.order

@@ -1,0 +1,6 @@
+networkx.dense_gnm_random_graph
+===============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: dense_gnm_random_graph

@@ -1,0 +1,6 @@
+networkx.rich_club_coefficient
+==============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: rich_club_coefficient

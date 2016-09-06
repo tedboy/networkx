@@ -1,0 +1,6 @@
+networkx.algorithms.lexicographic_product
+=========================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: lexicographic_product

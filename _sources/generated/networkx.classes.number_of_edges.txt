@@ -1,0 +1,6 @@
+networkx.classes.number_of_edges
+================================
+
+.. currentmodule:: networkx.classes
+
+.. autofunction:: number_of_edges

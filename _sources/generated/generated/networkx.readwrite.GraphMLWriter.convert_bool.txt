@@ -1,0 +1,6 @@
+networkx.readwrite.GraphMLWriter.convert_bool
+=============================================
+
+.. currentmodule:: networkx.readwrite
+
+.. autoattribute:: GraphMLWriter.convert_bool

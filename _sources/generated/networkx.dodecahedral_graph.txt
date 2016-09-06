@@ -1,0 +1,6 @@
+networkx.dodecahedral_graph
+===========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: dodecahedral_graph

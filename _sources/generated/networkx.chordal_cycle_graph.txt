@@ -1,0 +1,6 @@
+networkx.chordal_cycle_graph
+============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: chordal_cycle_graph

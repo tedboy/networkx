@@ -1,0 +1,6 @@
+networkx.utils.pairwise
+=======================
+
+.. currentmodule:: networkx.utils
+
+.. autofunction:: pairwise

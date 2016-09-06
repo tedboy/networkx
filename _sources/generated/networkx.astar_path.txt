@@ -1,0 +1,6 @@
+networkx.astar_path
+===================
+
+.. currentmodule:: networkx
+
+.. autofunction:: astar_path

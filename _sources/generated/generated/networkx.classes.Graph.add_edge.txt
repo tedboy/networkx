@@ -1,0 +1,6 @@
+networkx.classes.Graph.add_edge
+===============================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: Graph.add_edge

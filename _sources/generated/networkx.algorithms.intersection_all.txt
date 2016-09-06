@@ -1,0 +1,6 @@
+networkx.algorithms.intersection_all
+====================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: intersection_all

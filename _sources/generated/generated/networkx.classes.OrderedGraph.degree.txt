@@ -1,0 +1,6 @@
+networkx.classes.OrderedGraph.degree
+====================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: OrderedGraph.degree

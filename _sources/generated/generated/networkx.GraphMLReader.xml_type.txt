@@ -1,0 +1,6 @@
+networkx.GraphMLReader.xml_type
+===============================
+
+.. currentmodule:: networkx
+
+.. autoattribute:: GraphMLReader.xml_type

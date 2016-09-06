@@ -1,0 +1,6 @@
+networkx.classes.MultiDiGraph.has_node
+======================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: MultiDiGraph.has_node

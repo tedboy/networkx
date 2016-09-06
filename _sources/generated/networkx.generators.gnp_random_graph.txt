@@ -1,0 +1,6 @@
+networkx.generators.gnp_random_graph
+====================================
+
+.. currentmodule:: networkx.generators
+
+.. autofunction:: gnp_random_graph

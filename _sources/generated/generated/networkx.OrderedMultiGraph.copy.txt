@@ -1,0 +1,6 @@
+networkx.OrderedMultiGraph.copy
+===============================
+
+.. currentmodule:: networkx
+
+.. automethod:: OrderedMultiGraph.copy

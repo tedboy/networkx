@@ -1,0 +1,6 @@
+networkx.utils.defaultdict.iteritems
+====================================
+
+.. currentmodule:: networkx.utils
+
+.. automethod:: defaultdict.iteritems

@@ -1,0 +1,6 @@
+networkx.classes.OrderedGraph.__init__
+======================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: OrderedGraph.__init__

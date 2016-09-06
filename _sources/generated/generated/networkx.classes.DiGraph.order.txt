@@ -1,0 +1,6 @@
+networkx.classes.DiGraph.order
+==============================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: DiGraph.order

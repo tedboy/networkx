@@ -1,0 +1,6 @@
+networkx.algorithms.multi_source_dijkstra_path
+==============================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: multi_source_dijkstra_path

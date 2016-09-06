@@ -1,0 +1,6 @@
+networkx.eigenvector_centrality
+===============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: eigenvector_centrality

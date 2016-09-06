@@ -1,0 +1,6 @@
+networkx.algorithms.katz_centrality
+===================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: katz_centrality

@@ -1,0 +1,6 @@
+networkx.node_degree_xy
+=======================
+
+.. currentmodule:: networkx
+
+.. autofunction:: node_degree_xy

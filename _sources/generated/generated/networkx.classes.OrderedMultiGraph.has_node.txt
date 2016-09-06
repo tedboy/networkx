@@ -1,0 +1,6 @@
+networkx.classes.OrderedMultiGraph.has_node
+===========================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: OrderedMultiGraph.has_node

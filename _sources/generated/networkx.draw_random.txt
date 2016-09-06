@@ -1,0 +1,6 @@
+networkx.draw_random
+====================
+
+.. currentmodule:: networkx
+
+.. autofunction:: draw_random

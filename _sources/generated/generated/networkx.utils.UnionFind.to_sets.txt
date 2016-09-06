@@ -1,0 +1,6 @@
+networkx.utils.UnionFind.to_sets
+================================
+
+.. currentmodule:: networkx.utils
+
+.. automethod:: UnionFind.to_sets

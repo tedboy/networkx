@@ -1,0 +1,6 @@
+networkx.utils.deque.clear
+==========================
+
+.. currentmodule:: networkx.utils
+
+.. automethod:: deque.clear

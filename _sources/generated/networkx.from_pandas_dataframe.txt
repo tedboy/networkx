@@ -1,0 +1,6 @@
+networkx.from_pandas_dataframe
+==============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: from_pandas_dataframe

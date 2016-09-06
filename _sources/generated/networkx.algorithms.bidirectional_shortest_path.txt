@@ -1,0 +1,6 @@
+networkx.algorithms.bidirectional_shortest_path
+===============================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: bidirectional_shortest_path

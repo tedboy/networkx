@@ -1,0 +1,6 @@
+networkx.desargues_graph
+========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: desargues_graph

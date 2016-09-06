@@ -1,0 +1,6 @@
+networkx.GraphMLReader.NS_Y
+===========================
+
+.. currentmodule:: networkx
+
+.. autoattribute:: GraphMLReader.NS_Y

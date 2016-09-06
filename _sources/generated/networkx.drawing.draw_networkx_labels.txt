@@ -1,0 +1,6 @@
+networkx.drawing.draw_networkx_labels
+=====================================
+
+.. currentmodule:: networkx.drawing
+
+.. autofunction:: draw_networkx_labels

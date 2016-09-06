@@ -1,0 +1,6 @@
+networkx.classes.OrderedMultiDiGraph.remove_edge
+================================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: OrderedMultiDiGraph.remove_edge

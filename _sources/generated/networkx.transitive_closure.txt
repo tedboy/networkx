@@ -1,0 +1,6 @@
+networkx.transitive_closure
+===========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: transitive_closure

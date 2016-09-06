@@ -1,0 +1,6 @@
+networkx.number_of_nodes
+========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: number_of_nodes

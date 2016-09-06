@@ -1,0 +1,6 @@
+networkx.read_edgelist
+======================
+
+.. currentmodule:: networkx
+
+.. autofunction:: read_edgelist

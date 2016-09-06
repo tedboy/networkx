@@ -1,0 +1,6 @@
+networkx.MultiDiGraph.in_edges
+==============================
+
+.. currentmodule:: networkx
+
+.. automethod:: MultiDiGraph.in_edges

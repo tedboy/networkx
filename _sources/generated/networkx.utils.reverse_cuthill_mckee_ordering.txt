@@ -1,0 +1,6 @@
+networkx.utils.reverse_cuthill_mckee_ordering
+=============================================
+
+.. currentmodule:: networkx.utils
+
+.. autofunction:: reverse_cuthill_mckee_ordering

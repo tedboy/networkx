@@ -1,0 +1,6 @@
+networkx.isolates
+=================
+
+.. currentmodule:: networkx
+
+.. autofunction:: isolates

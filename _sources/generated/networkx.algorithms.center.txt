@@ -1,0 +1,6 @@
+networkx.algorithms.center
+==========================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: center

@@ -1,0 +1,6 @@
+networkx.bull_graph
+===================
+
+.. currentmodule:: networkx
+
+.. autofunction:: bull_graph

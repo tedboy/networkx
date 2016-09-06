@@ -1,0 +1,6 @@
+networkx.algorithms.stoer_wagner
+================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: stoer_wagner

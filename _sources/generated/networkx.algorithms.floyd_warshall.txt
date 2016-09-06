@@ -1,0 +1,6 @@
+networkx.algorithms.floyd_warshall
+==================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: floyd_warshall

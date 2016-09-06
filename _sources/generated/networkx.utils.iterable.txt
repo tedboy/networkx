@@ -1,0 +1,6 @@
+networkx.utils.iterable
+=======================
+
+.. currentmodule:: networkx.utils
+
+.. autofunction:: iterable

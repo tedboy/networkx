@@ -1,0 +1,6 @@
+networkx.octahedral_graph
+=========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: octahedral_graph

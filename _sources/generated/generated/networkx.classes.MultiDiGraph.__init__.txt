@@ -1,0 +1,6 @@
+networkx.classes.MultiDiGraph.__init__
+======================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: MultiDiGraph.__init__

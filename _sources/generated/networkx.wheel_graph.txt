@@ -1,0 +1,6 @@
+networkx.wheel_graph
+====================
+
+.. currentmodule:: networkx
+
+.. autofunction:: wheel_graph

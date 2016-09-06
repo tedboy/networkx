@@ -1,0 +1,96 @@
+networkx.readwrite
+==================
+
+.. automodule:: networkx.readwrite
+
+   
+   
+   Functions
+   ---------
+   .. autosummary::
+      :toctree:
+
+   
+      adjacency_data
+      adjacency_graph
+      generate_adjlist
+      generate_edgelist
+      generate_gexf
+      generate_gml
+      generate_graph6
+      generate_graphml
+      generate_multiline_adjlist
+      generate_pajek
+      generate_sparse6
+      jit_data
+      jit_graph
+      node_link_data
+      node_link_graph
+      parse_adjlist
+      parse_edgelist
+      parse_gml
+      parse_graph6
+      parse_graphml
+      parse_leda
+      parse_multiline_adjlist
+      parse_pajek
+      parse_sparse6
+      read_adjlist
+      read_edgelist
+      read_gexf
+      read_gml
+      read_gpickle
+      read_graph6
+      read_graphml
+      read_leda
+      read_multiline_adjlist
+      read_pajek
+      read_shp
+      read_sparse6
+      read_weighted_edgelist
+      read_yaml
+      relabel_gexf_graph
+      tree_data
+      tree_graph
+      write_adjlist
+      write_edgelist
+      write_gexf
+      write_gml
+      write_gpickle
+      write_graph6
+      write_graphml
+      write_multiline_adjlist
+      write_pajek
+      write_shp
+      write_sparse6
+      write_weighted_edgelist
+      write_yaml
+   
+   
+
+   
+   
+   Classes
+   -------
+   .. autosummary::
+      :toctree:generated/
+      :template:class_custom.rst
+
+   
+      GraphMLReader
+      GraphMLWriter
+
+   .. toctree::
+       :maxdepth: 1
+       :hidden:
+
+   
+       generated/networkx.readwrite.GraphMLReader
+       generated/networkx.readwrite.GraphMLWriter
+
+   
+   
+
+   
+   
+   

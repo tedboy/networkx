@@ -1,0 +1,6 @@
+networkx.tensor_product
+=======================
+
+.. currentmodule:: networkx
+
+.. autofunction:: tensor_product

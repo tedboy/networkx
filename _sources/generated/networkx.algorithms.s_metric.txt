@@ -1,0 +1,6 @@
+networkx.algorithms.s_metric
+============================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: s_metric

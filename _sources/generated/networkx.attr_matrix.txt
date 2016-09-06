@@ -1,0 +1,6 @@
+networkx.attr_matrix
+====================
+
+.. currentmodule:: networkx
+
+.. autofunction:: attr_matrix

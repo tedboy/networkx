@@ -1,0 +1,6 @@
+networkx.periphery
+==================
+
+.. currentmodule:: networkx
+
+.. autofunction:: periphery

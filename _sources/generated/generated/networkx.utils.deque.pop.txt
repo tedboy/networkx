@@ -1,0 +1,6 @@
+networkx.utils.deque.pop
+========================
+
+.. currentmodule:: networkx.utils
+
+.. automethod:: deque.pop

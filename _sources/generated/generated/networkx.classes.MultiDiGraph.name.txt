@@ -1,0 +1,6 @@
+networkx.classes.MultiDiGraph.name
+==================================
+
+.. currentmodule:: networkx.classes
+
+.. autoattribute:: MultiDiGraph.name

@@ -1,0 +1,6 @@
+networkx.classes.OrderedMultiDiGraph.predecessors
+=================================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: OrderedMultiDiGraph.predecessors

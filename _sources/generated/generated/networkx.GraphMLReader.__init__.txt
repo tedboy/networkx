@@ -1,0 +1,6 @@
+networkx.GraphMLReader.__init__
+===============================
+
+.. currentmodule:: networkx
+
+.. automethod:: GraphMLReader.__init__

@@ -1,0 +1,6 @@
+networkx.GraphMLWriter.NS_GRAPHML
+=================================
+
+.. currentmodule:: networkx
+
+.. autoattribute:: GraphMLWriter.NS_GRAPHML

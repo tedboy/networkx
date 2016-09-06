@@ -1,0 +1,6 @@
+networkx.add_star
+=================
+
+.. currentmodule:: networkx
+
+.. autofunction:: add_star

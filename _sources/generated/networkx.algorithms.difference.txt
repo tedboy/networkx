@@ -1,0 +1,6 @@
+networkx.algorithms.difference
+==============================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: difference

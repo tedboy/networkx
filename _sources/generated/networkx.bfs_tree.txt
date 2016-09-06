@@ -1,0 +1,6 @@
+networkx.bfs_tree
+=================
+
+.. currentmodule:: networkx
+
+.. autofunction:: bfs_tree

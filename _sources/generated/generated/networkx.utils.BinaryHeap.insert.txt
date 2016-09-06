@@ -1,0 +1,6 @@
+networkx.utils.BinaryHeap.insert
+================================
+
+.. currentmodule:: networkx.utils
+
+.. automethod:: BinaryHeap.insert

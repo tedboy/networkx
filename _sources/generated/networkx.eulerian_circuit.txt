@@ -1,0 +1,6 @@
+networkx.eulerian_circuit
+=========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: eulerian_circuit

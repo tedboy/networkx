@@ -1,0 +1,6 @@
+networkx.utils.default_opener
+=============================
+
+.. currentmodule:: networkx.utils
+
+.. autofunction:: default_opener

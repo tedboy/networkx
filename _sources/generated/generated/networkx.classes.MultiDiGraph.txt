@@ -1,0 +1,71 @@
+networkx.classes.MultiDiGraph
+=============================
+
+.. currentmodule:: networkx.classes
+.. autoclass:: MultiDiGraph
+   :members: __init__
+   :undoc-members:
+
+
+Methods
+-------
+.. autosummary::
+   :toctree:
+
+
+   ~MultiDiGraph.__init__
+   ~MultiDiGraph.add_edge
+   ~MultiDiGraph.add_edges_from
+   ~MultiDiGraph.add_node
+   ~MultiDiGraph.add_nodes_from
+   ~MultiDiGraph.add_weighted_edges_from
+   ~MultiDiGraph.adjacency
+   ~MultiDiGraph.clear
+   ~MultiDiGraph.copy
+   ~MultiDiGraph.degree
+   ~MultiDiGraph.edge_subgraph
+   ~MultiDiGraph.edges
+   ~MultiDiGraph.get_edge_data
+   ~MultiDiGraph.has_edge
+   ~MultiDiGraph.has_node
+   ~MultiDiGraph.has_predecessor
+   ~MultiDiGraph.has_successor
+   ~MultiDiGraph.in_degree
+   ~MultiDiGraph.in_edges
+   ~MultiDiGraph.is_directed
+   ~MultiDiGraph.is_multigraph
+   ~MultiDiGraph.nbunch_iter
+   ~MultiDiGraph.neighbors
+   ~MultiDiGraph.nodes
+   ~MultiDiGraph.nodes_with_selfloops
+   ~MultiDiGraph.number_of_edges
+   ~MultiDiGraph.number_of_nodes
+   ~MultiDiGraph.number_of_selfloops
+   ~MultiDiGraph.order
+   ~MultiDiGraph.out_degree
+   ~MultiDiGraph.out_edges
+   ~MultiDiGraph.predecessors
+   ~MultiDiGraph.remove_edge
+   ~MultiDiGraph.remove_edges_from
+   ~MultiDiGraph.remove_node
+   ~MultiDiGraph.remove_nodes_from
+   ~MultiDiGraph.reverse
+   ~MultiDiGraph.selfloop_edges
+   ~MultiDiGraph.size
+   ~MultiDiGraph.subgraph
+   ~MultiDiGraph.successors
+   ~MultiDiGraph.to_directed
+   ~MultiDiGraph.to_undirected
+
+
+
+
+
+Attributes
+----------
+.. autosummary::
+  :toctree:
+
+
+   ~MultiDiGraph.name
+

@@ -1,0 +1,6 @@
+networkx.classes.OrderedDiGraph.name
+====================================
+
+.. currentmodule:: networkx.classes
+
+.. autoattribute:: OrderedDiGraph.name

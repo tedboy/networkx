@@ -1,0 +1,6 @@
+networkx.read_yaml
+==================
+
+.. currentmodule:: networkx
+
+.. autofunction:: read_yaml

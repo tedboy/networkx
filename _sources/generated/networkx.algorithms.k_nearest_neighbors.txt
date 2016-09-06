@@ -1,0 +1,6 @@
+networkx.algorithms.k_nearest_neighbors
+=======================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: k_nearest_neighbors

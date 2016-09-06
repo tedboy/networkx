@@ -1,0 +1,6 @@
+networkx.utils.chain.from_iterable
+==================================
+
+.. currentmodule:: networkx.utils
+
+.. automethod:: chain.from_iterable

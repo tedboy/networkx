@@ -1,0 +1,6 @@
+networkx.classes.MultiGraph.add_edge
+====================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: MultiGraph.add_edge

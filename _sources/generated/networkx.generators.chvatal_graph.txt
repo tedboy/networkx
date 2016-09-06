@@ -1,0 +1,6 @@
+networkx.generators.chvatal_graph
+=================================
+
+.. currentmodule:: networkx.generators
+
+.. autofunction:: chvatal_graph

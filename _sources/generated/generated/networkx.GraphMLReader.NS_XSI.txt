@@ -1,0 +1,6 @@
+networkx.GraphMLReader.NS_XSI
+=============================
+
+.. currentmodule:: networkx
+
+.. autoattribute:: GraphMLReader.NS_XSI

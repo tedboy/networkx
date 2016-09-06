@@ -1,0 +1,6 @@
+networkx.geographical_threshold_graph
+=====================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: geographical_threshold_graph

@@ -1,0 +1,6 @@
+networkx.readwrite.GraphMLWriter.xml_type
+=========================================
+
+.. currentmodule:: networkx.readwrite
+
+.. autoattribute:: GraphMLWriter.xml_type

@@ -1,0 +1,6 @@
+networkx.classes.OrderedDiGraph.add_weighted_edges_from
+=======================================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: OrderedDiGraph.add_weighted_edges_from

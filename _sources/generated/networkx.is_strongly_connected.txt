@@ -1,0 +1,6 @@
+networkx.is_strongly_connected
+==============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: is_strongly_connected

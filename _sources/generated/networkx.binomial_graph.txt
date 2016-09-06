@@ -1,0 +1,6 @@
+networkx.binomial_graph
+=======================
+
+.. currentmodule:: networkx
+
+.. autofunction:: binomial_graph

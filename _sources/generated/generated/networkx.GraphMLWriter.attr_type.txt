@@ -1,0 +1,6 @@
+networkx.GraphMLWriter.attr_type
+================================
+
+.. currentmodule:: networkx
+
+.. automethod:: GraphMLWriter.attr_type

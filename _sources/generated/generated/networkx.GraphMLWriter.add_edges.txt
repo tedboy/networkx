@@ -1,0 +1,6 @@
+networkx.GraphMLWriter.add_edges
+================================
+
+.. currentmodule:: networkx
+
+.. automethod:: GraphMLWriter.add_edges

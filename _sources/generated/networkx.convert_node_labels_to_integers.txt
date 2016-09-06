@@ -1,0 +1,6 @@
+networkx.convert_node_labels_to_integers
+========================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: convert_node_labels_to_integers

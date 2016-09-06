@@ -1,0 +1,6 @@
+networkx.generators.random_geometric_graph
+==========================================
+
+.. currentmodule:: networkx.generators
+
+.. autofunction:: random_geometric_graph

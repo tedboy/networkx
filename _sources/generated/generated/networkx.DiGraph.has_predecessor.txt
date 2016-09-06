@@ -1,0 +1,6 @@
+networkx.DiGraph.has_predecessor
+================================
+
+.. currentmodule:: networkx
+
+.. automethod:: DiGraph.has_predecessor

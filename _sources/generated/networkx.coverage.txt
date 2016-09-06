@@ -1,0 +1,6 @@
+networkx.coverage
+=================
+
+.. currentmodule:: networkx
+
+.. autofunction:: coverage

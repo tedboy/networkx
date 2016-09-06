@@ -1,0 +1,6 @@
+networkx.utils.groups
+=====================
+
+.. currentmodule:: networkx.utils
+
+.. autofunction:: groups

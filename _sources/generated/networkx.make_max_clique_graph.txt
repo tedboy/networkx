@@ -1,0 +1,6 @@
+networkx.make_max_clique_graph
+==============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: make_max_clique_graph

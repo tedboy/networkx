@@ -1,0 +1,6 @@
+networkx.write_gml
+==================
+
+.. currentmodule:: networkx
+
+.. autofunction:: write_gml

@@ -1,0 +1,6 @@
+networkx.is_maximal_matching
+============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: is_maximal_matching

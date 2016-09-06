@@ -1,0 +1,6 @@
+networkx.classes.Graph.degree
+=============================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: Graph.degree

@@ -1,0 +1,6 @@
+networkx.disjoint_union
+=======================
+
+.. currentmodule:: networkx
+
+.. autofunction:: disjoint_union

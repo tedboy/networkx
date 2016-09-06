@@ -1,0 +1,6 @@
+networkx.algorithms.bidirectional_dijkstra
+==========================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: bidirectional_dijkstra

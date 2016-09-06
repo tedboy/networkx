@@ -1,0 +1,6 @@
+networkx.OrderedMultiDiGraph.add_node
+=====================================
+
+.. currentmodule:: networkx
+
+.. automethod:: OrderedMultiDiGraph.add_node

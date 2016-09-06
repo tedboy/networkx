@@ -1,0 +1,6 @@
+networkx.triangles
+==================
+
+.. currentmodule:: networkx
+
+.. autofunction:: triangles

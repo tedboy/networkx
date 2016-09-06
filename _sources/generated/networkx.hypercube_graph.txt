@@ -1,0 +1,6 @@
+networkx.hypercube_graph
+========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: hypercube_graph

@@ -1,0 +1,6 @@
+networkx.read_gexf
+==================
+
+.. currentmodule:: networkx
+
+.. autofunction:: read_gexf

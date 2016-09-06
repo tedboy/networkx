@@ -1,0 +1,21 @@
+networkx.utils.groupby
+======================
+
+.. currentmodule:: networkx.utils
+.. autoclass:: groupby
+   :members: __init__
+   :undoc-members:
+
+
+
+
+
+
+Attributes
+----------
+.. autosummary::
+  :toctree:
+
+
+   ~groupby.next
+

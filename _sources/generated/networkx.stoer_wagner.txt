@@ -1,0 +1,6 @@
+networkx.stoer_wagner
+=====================
+
+.. currentmodule:: networkx
+
+.. autofunction:: stoer_wagner

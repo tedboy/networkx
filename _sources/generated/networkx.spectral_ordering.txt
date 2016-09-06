@@ -1,0 +1,6 @@
+networkx.spectral_ordering
+==========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: spectral_ordering

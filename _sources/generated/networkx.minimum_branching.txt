@@ -1,0 +1,6 @@
+networkx.minimum_branching
+==========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: minimum_branching

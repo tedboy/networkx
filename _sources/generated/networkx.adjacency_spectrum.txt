@@ -1,0 +1,6 @@
+networkx.adjacency_spectrum
+===========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: adjacency_spectrum

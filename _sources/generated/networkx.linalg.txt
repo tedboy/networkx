@@ -1,0 +1,39 @@
+networkx.linalg
+===============
+
+.. automodule:: networkx.linalg
+
+   
+   
+   Functions
+   ---------
+   .. autosummary::
+      :toctree:
+
+   
+      adj_matrix
+      adjacency_matrix
+      adjacency_spectrum
+      algebraic_connectivity
+      attr_matrix
+      attr_sparse_matrix
+      directed_laplacian_matrix
+      directed_modularity_matrix
+      fiedler_vector
+      incidence_matrix
+      laplacian_matrix
+      laplacian_spectrum
+      modularity_matrix
+      modularity_spectrum
+      normalized_laplacian_matrix
+      spectral_ordering
+   
+   
+
+   
+   
+   
+
+   
+   
+   

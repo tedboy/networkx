@@ -1,0 +1,6 @@
+networkx.classes.MultiDiGraph.to_directed
+=========================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: MultiDiGraph.to_directed

@@ -1,0 +1,46 @@
+networkx.readwrite.GraphMLWriter
+================================
+
+.. currentmodule:: networkx.readwrite
+.. autoclass:: GraphMLWriter
+   :members: __init__
+   :undoc-members:
+
+
+Methods
+-------
+.. autosummary::
+   :toctree:
+
+
+   ~GraphMLWriter.__init__
+   ~GraphMLWriter.add_attributes
+   ~GraphMLWriter.add_data
+   ~GraphMLWriter.add_edges
+   ~GraphMLWriter.add_graph_element
+   ~GraphMLWriter.add_graphs
+   ~GraphMLWriter.add_nodes
+   ~GraphMLWriter.attr_type
+   ~GraphMLWriter.dump
+   ~GraphMLWriter.get_key
+   ~GraphMLWriter.indent
+
+
+
+
+
+Attributes
+----------
+.. autosummary::
+  :toctree:
+
+
+   ~GraphMLWriter.NS_GRAPHML
+   ~GraphMLWriter.NS_XSI
+   ~GraphMLWriter.NS_Y
+   ~GraphMLWriter.SCHEMALOCATION
+   ~GraphMLWriter.convert_bool
+   ~GraphMLWriter.python_type
+   ~GraphMLWriter.types
+   ~GraphMLWriter.xml_type
+

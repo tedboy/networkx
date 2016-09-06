@@ -1,0 +1,6 @@
+networkx.classes.degree
+=======================
+
+.. currentmodule:: networkx.classes
+
+.. autofunction:: degree

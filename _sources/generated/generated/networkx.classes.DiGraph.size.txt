@@ -1,0 +1,6 @@
+networkx.classes.DiGraph.size
+=============================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: DiGraph.size

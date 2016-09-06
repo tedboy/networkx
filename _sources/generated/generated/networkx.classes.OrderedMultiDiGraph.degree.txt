@@ -1,0 +1,6 @@
+networkx.classes.OrderedMultiDiGraph.degree
+===========================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: OrderedMultiDiGraph.degree

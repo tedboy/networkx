@@ -1,0 +1,6 @@
+networkx.classes.OrderedDiGraph.nodes_with_selfloops
+====================================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: OrderedDiGraph.nodes_with_selfloops

@@ -1,0 +1,6 @@
+networkx.algorithms.network_simplex
+===================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: network_simplex

@@ -1,0 +1,6 @@
+networkx.estrada_index
+======================
+
+.. currentmodule:: networkx
+
+.. autofunction:: estrada_index

@@ -1,0 +1,6 @@
+networkx.algorithms.communicability_exp
+=======================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: communicability_exp

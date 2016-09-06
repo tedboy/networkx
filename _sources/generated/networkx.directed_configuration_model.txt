@@ -1,0 +1,6 @@
+networkx.directed_configuration_model
+=====================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: directed_configuration_model

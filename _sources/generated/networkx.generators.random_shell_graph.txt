@@ -1,0 +1,6 @@
+networkx.generators.random_shell_graph
+======================================
+
+.. currentmodule:: networkx.generators
+
+.. autofunction:: random_shell_graph

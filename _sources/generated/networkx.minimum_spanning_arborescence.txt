@@ -1,0 +1,6 @@
+networkx.minimum_spanning_arborescence
+======================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: minimum_spanning_arborescence

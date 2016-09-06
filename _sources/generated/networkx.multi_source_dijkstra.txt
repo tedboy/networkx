@@ -1,0 +1,6 @@
+networkx.multi_source_dijkstra
+==============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: multi_source_dijkstra

@@ -1,0 +1,6 @@
+networkx.utils.MinHeap.min
+==========================
+
+.. currentmodule:: networkx.utils
+
+.. automethod:: MinHeap.min

@@ -1,0 +1,6 @@
+networkx.algorithms.bellman_ford_predecessor_and_distance
+=========================================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: bellman_ford_predecessor_and_distance

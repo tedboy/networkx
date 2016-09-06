@@ -1,0 +1,6 @@
+networkx.cubical_graph
+======================
+
+.. currentmodule:: networkx
+
+.. autofunction:: cubical_graph

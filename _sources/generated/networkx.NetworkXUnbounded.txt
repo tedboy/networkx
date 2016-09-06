@@ -1,0 +1,6 @@
+networkx.NetworkXUnbounded
+==========================
+
+.. currentmodule:: networkx
+
+.. autoexception:: NetworkXUnbounded

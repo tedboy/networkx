@@ -1,0 +1,6 @@
+networkx.average_neighbor_degree
+================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: average_neighbor_degree

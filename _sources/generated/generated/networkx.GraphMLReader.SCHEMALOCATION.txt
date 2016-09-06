@@ -1,0 +1,6 @@
+networkx.GraphMLReader.SCHEMALOCATION
+=====================================
+
+.. currentmodule:: networkx
+
+.. autoattribute:: GraphMLReader.SCHEMALOCATION

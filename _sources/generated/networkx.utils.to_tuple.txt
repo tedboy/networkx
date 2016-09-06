@@ -1,0 +1,6 @@
+networkx.utils.to_tuple
+=======================
+
+.. currentmodule:: networkx.utils
+
+.. autofunction:: to_tuple

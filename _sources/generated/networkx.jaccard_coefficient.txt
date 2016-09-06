@@ -1,0 +1,6 @@
+networkx.jaccard_coefficient
+============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: jaccard_coefficient

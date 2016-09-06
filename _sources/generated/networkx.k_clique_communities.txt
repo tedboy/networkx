@@ -1,0 +1,6 @@
+networkx.k_clique_communities
+=============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: k_clique_communities

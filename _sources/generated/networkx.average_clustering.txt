@@ -1,0 +1,6 @@
+networkx.average_clustering
+===========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: average_clustering

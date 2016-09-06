@@ -1,0 +1,6 @@
+networkx.readwrite.parse_gml
+============================
+
+.. currentmodule:: networkx.readwrite
+
+.. autofunction:: parse_gml

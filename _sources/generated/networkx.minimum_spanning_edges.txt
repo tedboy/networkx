@@ -1,0 +1,6 @@
+networkx.minimum_spanning_edges
+===============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: minimum_spanning_edges

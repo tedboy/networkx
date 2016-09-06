@@ -1,0 +1,6 @@
+networkx.GraphMLWriter.add_attributes
+=====================================
+
+.. currentmodule:: networkx
+
+.. automethod:: GraphMLWriter.add_attributes

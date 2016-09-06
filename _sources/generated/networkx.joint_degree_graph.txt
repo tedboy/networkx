@@ -1,0 +1,6 @@
+networkx.joint_degree_graph
+===========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: joint_degree_graph

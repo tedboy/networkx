@@ -1,0 +1,6 @@
+networkx.classes.MultiDiGraph.has_predecessor
+=============================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: MultiDiGraph.has_predecessor

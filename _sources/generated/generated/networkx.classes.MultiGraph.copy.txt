@@ -1,0 +1,6 @@
+networkx.classes.MultiGraph.copy
+================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: MultiGraph.copy

@@ -1,0 +1,6 @@
+networkx.hits_scipy
+===================
+
+.. currentmodule:: networkx
+
+.. autofunction:: hits_scipy

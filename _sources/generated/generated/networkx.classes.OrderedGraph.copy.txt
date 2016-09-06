@@ -1,0 +1,6 @@
+networkx.classes.OrderedGraph.copy
+==================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: OrderedGraph.copy

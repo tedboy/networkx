@@ -1,0 +1,6 @@
+networkx.algorithms.find_cliques
+================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: find_cliques

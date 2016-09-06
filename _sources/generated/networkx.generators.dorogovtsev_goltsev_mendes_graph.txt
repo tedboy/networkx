@@ -1,0 +1,6 @@
+networkx.generators.dorogovtsev_goltsev_mendes_graph
+====================================================
+
+.. currentmodule:: networkx.generators
+
+.. autofunction:: dorogovtsev_goltsev_mendes_graph

@@ -1,0 +1,6 @@
+networkx.is_kl_connected
+========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: is_kl_connected

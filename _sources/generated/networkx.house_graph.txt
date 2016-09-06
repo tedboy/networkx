@@ -1,0 +1,6 @@
+networkx.house_graph
+====================
+
+.. currentmodule:: networkx
+
+.. autofunction:: house_graph

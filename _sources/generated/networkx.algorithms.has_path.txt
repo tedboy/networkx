@@ -1,0 +1,6 @@
+networkx.algorithms.has_path
+============================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: has_path

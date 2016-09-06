@@ -1,0 +1,6 @@
+networkx.to_numpy_recarray
+==========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: to_numpy_recarray

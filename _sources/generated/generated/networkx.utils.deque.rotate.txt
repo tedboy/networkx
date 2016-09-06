@@ -1,0 +1,6 @@
+networkx.utils.deque.rotate
+===========================
+
+.. currentmodule:: networkx.utils
+
+.. automethod:: deque.rotate

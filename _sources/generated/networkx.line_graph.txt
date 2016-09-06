@@ -1,0 +1,6 @@
+networkx.line_graph
+===================
+
+.. currentmodule:: networkx
+
+.. autofunction:: line_graph

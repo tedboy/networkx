@@ -1,0 +1,6 @@
+networkx.information_centrality
+===============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: information_centrality

@@ -1,0 +1,6 @@
+networkx.algorithms.is_distance_regular
+=======================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: is_distance_regular

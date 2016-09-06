@@ -1,0 +1,6 @@
+networkx.write_graphml
+======================
+
+.. currentmodule:: networkx
+
+.. autofunction:: write_graphml

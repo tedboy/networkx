@@ -1,0 +1,6 @@
+networkx.OrderedGraph.get_edge_data
+===================================
+
+.. currentmodule:: networkx
+
+.. automethod:: OrderedGraph.get_edge_data

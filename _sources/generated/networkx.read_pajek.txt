@@ -1,0 +1,6 @@
+networkx.read_pajek
+===================
+
+.. currentmodule:: networkx
+
+.. autofunction:: read_pajek

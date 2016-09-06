@@ -1,0 +1,6 @@
+networkx.utils.deque.reverse
+============================
+
+.. currentmodule:: networkx.utils
+
+.. automethod:: deque.reverse

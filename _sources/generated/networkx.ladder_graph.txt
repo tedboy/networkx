@@ -1,0 +1,6 @@
+networkx.ladder_graph
+=====================
+
+.. currentmodule:: networkx
+
+.. autofunction:: ladder_graph

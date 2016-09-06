@@ -1,0 +1,6 @@
+networkx.classes.MultiDiGraph.reverse
+=====================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: MultiDiGraph.reverse

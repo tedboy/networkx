@@ -1,0 +1,6 @@
+networkx.margulis_gabber_galil_graph
+====================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: margulis_gabber_galil_graph

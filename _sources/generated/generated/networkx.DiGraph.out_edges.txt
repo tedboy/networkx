@@ -1,0 +1,6 @@
+networkx.DiGraph.out_edges
+==========================
+
+.. currentmodule:: networkx
+
+.. automethod:: DiGraph.out_edges

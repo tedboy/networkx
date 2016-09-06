@@ -1,0 +1,6 @@
+networkx.algorithms.global_efficiency
+=====================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: global_efficiency

@@ -1,0 +1,6 @@
+networkx.maximum_branching
+==========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: maximum_branching

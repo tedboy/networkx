@@ -1,0 +1,6 @@
+networkx.havel_hakimi_graph
+===========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: havel_hakimi_graph

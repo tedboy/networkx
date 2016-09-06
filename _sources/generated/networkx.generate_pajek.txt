@@ -1,0 +1,6 @@
+networkx.generate_pajek
+=======================
+
+.. currentmodule:: networkx
+
+.. autofunction:: generate_pajek

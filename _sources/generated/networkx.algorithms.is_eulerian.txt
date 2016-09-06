@@ -1,0 +1,6 @@
+networkx.algorithms.is_eulerian
+===============================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: is_eulerian

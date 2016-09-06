@@ -1,0 +1,6 @@
+networkx.random_k_out_graph
+===========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: random_k_out_graph

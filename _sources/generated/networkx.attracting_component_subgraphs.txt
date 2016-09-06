@@ -1,0 +1,6 @@
+networkx.attracting_component_subgraphs
+=======================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: attracting_component_subgraphs

@@ -1,0 +1,6 @@
+networkx.biconnected_component_edges
+====================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: biconnected_component_edges

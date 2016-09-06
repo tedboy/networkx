@@ -1,0 +1,6 @@
+networkx.read_gpickle
+=====================
+
+.. currentmodule:: networkx
+
+.. autofunction:: read_gpickle

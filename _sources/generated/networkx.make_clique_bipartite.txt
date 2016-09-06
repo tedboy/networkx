@@ -1,0 +1,6 @@
+networkx.make_clique_bipartite
+==============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: make_clique_bipartite

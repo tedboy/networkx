@@ -1,0 +1,6 @@
+networkx.single_source_dijkstra_path_length
+===========================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: single_source_dijkstra_path_length

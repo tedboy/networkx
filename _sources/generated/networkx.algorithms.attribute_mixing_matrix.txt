@@ -1,0 +1,6 @@
+networkx.algorithms.attribute_mixing_matrix
+===========================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: attribute_mixing_matrix

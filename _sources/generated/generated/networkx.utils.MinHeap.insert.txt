@@ -1,0 +1,6 @@
+networkx.utils.MinHeap.insert
+=============================
+
+.. currentmodule:: networkx.utils
+
+.. automethod:: MinHeap.insert

@@ -1,0 +1,6 @@
+networkx.classes.OrderedDiGraph.out_edges
+=========================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: OrderedDiGraph.out_edges

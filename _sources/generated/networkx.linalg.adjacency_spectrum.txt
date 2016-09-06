@@ -1,0 +1,6 @@
+networkx.linalg.adjacency_spectrum
+==================================
+
+.. currentmodule:: networkx.linalg
+
+.. autofunction:: adjacency_spectrum

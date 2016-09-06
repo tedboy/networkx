@@ -1,0 +1,6 @@
+networkx.OrderedGraph.is_multigraph
+===================================
+
+.. currentmodule:: networkx
+
+.. automethod:: OrderedGraph.is_multigraph

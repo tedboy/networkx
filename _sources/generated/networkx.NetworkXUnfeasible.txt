@@ -1,0 +1,6 @@
+networkx.NetworkXUnfeasible
+===========================
+
+.. currentmodule:: networkx
+
+.. autoexception:: NetworkXUnfeasible

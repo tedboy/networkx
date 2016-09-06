@@ -1,0 +1,6 @@
+networkx.generators.line_graph
+==============================
+
+.. currentmodule:: networkx.generators
+
+.. autofunction:: line_graph

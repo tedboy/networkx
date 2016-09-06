@@ -1,0 +1,6 @@
+networkx.complete_bipartite_graph
+=================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: complete_bipartite_graph

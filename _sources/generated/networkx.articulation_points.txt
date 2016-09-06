@@ -1,0 +1,6 @@
+networkx.articulation_points
+============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: articulation_points

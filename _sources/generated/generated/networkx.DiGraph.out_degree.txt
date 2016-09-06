@@ -1,0 +1,6 @@
+networkx.DiGraph.out_degree
+===========================
+
+.. currentmodule:: networkx
+
+.. automethod:: DiGraph.out_degree

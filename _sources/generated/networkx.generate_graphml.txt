@@ -1,0 +1,6 @@
+networkx.generate_graphml
+=========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: generate_graphml

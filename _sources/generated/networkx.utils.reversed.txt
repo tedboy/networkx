@@ -1,0 +1,6 @@
+networkx.utils.reversed
+=======================
+
+.. currentmodule:: networkx.utils
+
+.. autofunction:: reversed

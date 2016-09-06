@@ -1,0 +1,6 @@
+networkx.algorithms.maximum_spanning_arborescence
+=================================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: maximum_spanning_arborescence

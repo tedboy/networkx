@@ -1,0 +1,6 @@
+networkx.classes.OrderedGraph.has_node
+======================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: OrderedGraph.has_node

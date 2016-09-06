@@ -1,0 +1,6 @@
+networkx.utils.deque.maxlen
+===========================
+
+.. currentmodule:: networkx.utils
+
+.. autoattribute:: deque.maxlen

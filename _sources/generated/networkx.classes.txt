@@ -1,0 +1,82 @@
+networkx.classes
+================
+
+.. automodule:: networkx.classes
+
+   
+   
+   Functions
+   ---------
+   .. autosummary::
+      :toctree:
+
+   
+      add_cycle
+      add_path
+      add_star
+      all_neighbors
+      common_neighbors
+      create_empty_copy
+      degree
+      degree_histogram
+      density
+      edges
+      freeze
+      get_edge_attributes
+      get_node_attributes
+      info
+      is_directed
+      is_empty
+      is_frozen
+      is_negatively_weighted
+      is_weighted
+      neighbors
+      nodes
+      non_edges
+      non_neighbors
+      number_of_edges
+      number_of_nodes
+      set_edge_attributes
+      set_node_attributes
+      subgraph
+   
+   
+
+   
+   
+   Classes
+   -------
+   .. autosummary::
+      :toctree:generated/
+      :template:class_custom.rst
+
+   
+      DiGraph
+      Graph
+      MultiDiGraph
+      MultiGraph
+      OrderedDiGraph
+      OrderedGraph
+      OrderedMultiDiGraph
+      OrderedMultiGraph
+
+   .. toctree::
+       :maxdepth: 1
+       :hidden:
+
+   
+       generated/networkx.classes.DiGraph
+       generated/networkx.classes.Graph
+       generated/networkx.classes.MultiDiGraph
+       generated/networkx.classes.MultiGraph
+       generated/networkx.classes.OrderedDiGraph
+       generated/networkx.classes.OrderedGraph
+       generated/networkx.classes.OrderedMultiDiGraph
+       generated/networkx.classes.OrderedMultiGraph
+
+   
+   
+
+   
+   
+   

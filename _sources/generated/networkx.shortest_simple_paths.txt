@@ -1,0 +1,6 @@
+networkx.shortest_simple_paths
+==============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: shortest_simple_paths

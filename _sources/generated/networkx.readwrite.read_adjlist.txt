@@ -1,0 +1,6 @@
+networkx.readwrite.read_adjlist
+===============================
+
+.. currentmodule:: networkx.readwrite
+
+.. autofunction:: read_adjlist

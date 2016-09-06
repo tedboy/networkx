@@ -1,0 +1,6 @@
+networkx.generators.ring_of_cliques
+===================================
+
+.. currentmodule:: networkx.generators
+
+.. autofunction:: ring_of_cliques

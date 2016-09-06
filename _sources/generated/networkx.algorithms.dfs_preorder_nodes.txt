@@ -1,0 +1,6 @@
+networkx.algorithms.dfs_preorder_nodes
+======================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: dfs_preorder_nodes

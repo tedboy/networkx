@@ -1,0 +1,6 @@
+networkx.classes.OrderedGraph.subgraph
+======================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: OrderedGraph.subgraph

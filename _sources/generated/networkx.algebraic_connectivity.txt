@@ -1,0 +1,6 @@
+networkx.algebraic_connectivity
+===============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: algebraic_connectivity

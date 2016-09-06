@@ -1,0 +1,6 @@
+networkx.algorithms.cn_soundarajan_hopcroft
+===========================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: cn_soundarajan_hopcroft

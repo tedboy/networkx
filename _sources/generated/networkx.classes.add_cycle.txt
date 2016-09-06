@@ -1,0 +1,6 @@
+networkx.classes.add_cycle
+==========================
+
+.. currentmodule:: networkx.classes
+
+.. autofunction:: add_cycle

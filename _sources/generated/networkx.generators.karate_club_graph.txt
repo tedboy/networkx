@@ -1,0 +1,6 @@
+networkx.generators.karate_club_graph
+=====================================
+
+.. currentmodule:: networkx.generators
+
+.. autofunction:: karate_club_graph

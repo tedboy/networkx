@@ -1,0 +1,6 @@
+networkx.utils.chain.next
+=========================
+
+.. currentmodule:: networkx.utils
+
+.. autoattribute:: chain.next

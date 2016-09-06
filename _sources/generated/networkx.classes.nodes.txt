@@ -1,0 +1,6 @@
+networkx.classes.nodes
+======================
+
+.. currentmodule:: networkx.classes
+
+.. autofunction:: nodes

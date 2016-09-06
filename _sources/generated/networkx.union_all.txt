@@ -1,0 +1,6 @@
+networkx.union_all
+==================
+
+.. currentmodule:: networkx
+
+.. autofunction:: union_all

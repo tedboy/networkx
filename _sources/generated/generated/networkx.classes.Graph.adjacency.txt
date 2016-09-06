@@ -1,0 +1,6 @@
+networkx.classes.Graph.adjacency
+================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: Graph.adjacency

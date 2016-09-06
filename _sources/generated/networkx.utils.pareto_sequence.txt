@@ -1,0 +1,6 @@
+networkx.utils.pareto_sequence
+==============================
+
+.. currentmodule:: networkx.utils
+
+.. autofunction:: pareto_sequence

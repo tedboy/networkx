@@ -1,0 +1,6 @@
+networkx.algorithms.chordal_graph_treewidth
+===========================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: chordal_graph_treewidth

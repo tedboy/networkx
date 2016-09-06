@@ -1,0 +1,6 @@
+networkx.readwrite.GraphMLReader.NS_XSI
+=======================================
+
+.. currentmodule:: networkx.readwrite
+
+.. autoattribute:: GraphMLReader.NS_XSI

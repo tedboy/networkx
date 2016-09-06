@@ -1,0 +1,6 @@
+networkx.Graph.is_directed
+==========================
+
+.. currentmodule:: networkx
+
+.. automethod:: Graph.is_directed

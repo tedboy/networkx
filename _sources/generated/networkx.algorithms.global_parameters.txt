@@ -1,0 +1,6 @@
+networkx.algorithms.global_parameters
+=====================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: global_parameters

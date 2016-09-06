@@ -1,0 +1,6 @@
+networkx.classes.OrderedMultiDiGraph.clear
+==========================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: OrderedMultiDiGraph.clear

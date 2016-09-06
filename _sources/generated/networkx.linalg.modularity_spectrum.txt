@@ -1,0 +1,6 @@
+networkx.linalg.modularity_spectrum
+===================================
+
+.. currentmodule:: networkx.linalg
+
+.. autofunction:: modularity_spectrum

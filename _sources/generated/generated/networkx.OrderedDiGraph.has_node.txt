@@ -1,0 +1,6 @@
+networkx.OrderedDiGraph.has_node
+================================
+
+.. currentmodule:: networkx
+
+.. automethod:: OrderedDiGraph.has_node

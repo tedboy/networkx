@@ -1,0 +1,6 @@
+networkx.GraphMLWriter.types
+============================
+
+.. currentmodule:: networkx
+
+.. autoattribute:: GraphMLWriter.types

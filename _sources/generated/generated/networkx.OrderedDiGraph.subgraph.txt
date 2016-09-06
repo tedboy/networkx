@@ -1,0 +1,6 @@
+networkx.OrderedDiGraph.subgraph
+================================
+
+.. currentmodule:: networkx
+
+.. automethod:: OrderedDiGraph.subgraph

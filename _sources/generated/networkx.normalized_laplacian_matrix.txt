@@ -1,0 +1,6 @@
+networkx.normalized_laplacian_matrix
+====================================
+
+.. currentmodule:: networkx
+
+.. autofunction:: normalized_laplacian_matrix

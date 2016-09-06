@@ -1,0 +1,6 @@
+networkx.readwrite.adjacency_graph
+==================================
+
+.. currentmodule:: networkx.readwrite
+
+.. autofunction:: adjacency_graph

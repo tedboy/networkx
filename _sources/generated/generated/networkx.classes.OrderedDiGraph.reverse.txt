@@ -1,0 +1,6 @@
+networkx.classes.OrderedDiGraph.reverse
+=======================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: OrderedDiGraph.reverse

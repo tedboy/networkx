@@ -1,0 +1,6 @@
+networkx.algorithms.eccentricity
+================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: eccentricity

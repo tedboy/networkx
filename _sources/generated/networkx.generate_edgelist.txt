@@ -1,0 +1,6 @@
+networkx.generate_edgelist
+==========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: generate_edgelist

@@ -1,0 +1,6 @@
+networkx.petersen_graph
+=======================
+
+.. currentmodule:: networkx
+
+.. autofunction:: petersen_graph

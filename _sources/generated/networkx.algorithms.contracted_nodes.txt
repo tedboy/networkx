@@ -1,0 +1,6 @@
+networkx.algorithms.contracted_nodes
+====================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: contracted_nodes

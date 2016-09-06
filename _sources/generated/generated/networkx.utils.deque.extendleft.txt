@@ -1,0 +1,6 @@
+networkx.utils.deque.extendleft
+===============================
+
+.. currentmodule:: networkx.utils
+
+.. automethod:: deque.extendleft

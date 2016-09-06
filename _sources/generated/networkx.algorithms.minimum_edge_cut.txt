@@ -1,0 +1,6 @@
+networkx.algorithms.minimum_edge_cut
+====================================
+
+.. currentmodule:: networkx.algorithms
+
+.. autofunction:: minimum_edge_cut

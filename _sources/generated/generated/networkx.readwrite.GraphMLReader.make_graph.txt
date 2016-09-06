@@ -1,0 +1,6 @@
+networkx.readwrite.GraphMLReader.make_graph
+===========================================
+
+.. currentmodule:: networkx.readwrite
+
+.. automethod:: GraphMLReader.make_graph

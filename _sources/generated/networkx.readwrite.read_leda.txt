@@ -1,0 +1,6 @@
+networkx.readwrite.read_leda
+============================
+
+.. currentmodule:: networkx.readwrite
+
+.. autofunction:: read_leda

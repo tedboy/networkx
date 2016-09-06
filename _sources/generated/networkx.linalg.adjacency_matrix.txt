@@ -1,0 +1,6 @@
+networkx.linalg.adjacency_matrix
+================================
+
+.. currentmodule:: networkx.linalg
+
+.. autofunction:: adjacency_matrix

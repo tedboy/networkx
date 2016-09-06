@@ -1,0 +1,6 @@
+networkx.classes.Graph.number_of_selfloops
+==========================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: Graph.number_of_selfloops

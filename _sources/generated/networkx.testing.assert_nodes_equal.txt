@@ -1,0 +1,6 @@
+networkx.testing.assert_nodes_equal
+===================================
+
+.. currentmodule:: networkx.testing
+
+.. autofunction:: assert_nodes_equal

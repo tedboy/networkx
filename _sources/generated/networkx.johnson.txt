@@ -1,0 +1,6 @@
+networkx.johnson
+================
+
+.. currentmodule:: networkx
+
+.. autofunction:: johnson

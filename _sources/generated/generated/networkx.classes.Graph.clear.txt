@@ -1,0 +1,6 @@
+networkx.classes.Graph.clear
+============================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: Graph.clear

@@ -1,0 +1,6 @@
+networkx.watts_strogatz_graph
+=============================
+
+.. currentmodule:: networkx
+
+.. autofunction:: watts_strogatz_graph

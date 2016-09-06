@@ -1,0 +1,6 @@
+networkx.icosahedral_graph
+==========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: icosahedral_graph

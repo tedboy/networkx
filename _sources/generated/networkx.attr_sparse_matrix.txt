@@ -1,0 +1,6 @@
+networkx.attr_sparse_matrix
+===========================
+
+.. currentmodule:: networkx
+
+.. autofunction:: attr_sparse_matrix

@@ -1,0 +1,6 @@
+networkx.read_shp
+=================
+
+.. currentmodule:: networkx
+
+.. autofunction:: read_shp

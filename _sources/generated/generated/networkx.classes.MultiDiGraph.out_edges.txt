@@ -1,0 +1,6 @@
+networkx.classes.MultiDiGraph.out_edges
+=======================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: MultiDiGraph.out_edges

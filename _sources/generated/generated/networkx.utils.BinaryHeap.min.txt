@@ -1,0 +1,6 @@
+networkx.utils.BinaryHeap.min
+=============================
+
+.. currentmodule:: networkx.utils
+
+.. automethod:: BinaryHeap.min

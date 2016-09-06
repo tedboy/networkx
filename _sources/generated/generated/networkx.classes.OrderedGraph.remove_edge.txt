@@ -1,0 +1,6 @@
+networkx.classes.OrderedGraph.remove_edge
+=========================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: OrderedGraph.remove_edge

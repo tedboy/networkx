@@ -1,0 +1,6 @@
+networkx.classes.DiGraph.predecessors
+=====================================
+
+.. currentmodule:: networkx.classes
+
+.. automethod:: DiGraph.predecessors

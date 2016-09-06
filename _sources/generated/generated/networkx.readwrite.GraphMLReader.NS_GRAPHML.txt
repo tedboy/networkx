@@ -1,0 +1,6 @@
+networkx.readwrite.GraphMLReader.NS_GRAPHML
+===========================================
+
+.. currentmodule:: networkx.readwrite
+
+.. autoattribute:: GraphMLReader.NS_GRAPHML

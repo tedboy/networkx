@@ -1,0 +1,6 @@
+networkx.complete_graph
+=======================
+
+.. currentmodule:: networkx
+
+.. autofunction:: complete_graph

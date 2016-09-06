@@ -1,0 +1,6 @@
+networkx.pagerank_scipy
+=======================
+
+.. currentmodule:: networkx
+
+.. autofunction:: pagerank_scipy

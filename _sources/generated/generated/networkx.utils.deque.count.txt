@@ -1,0 +1,6 @@
+networkx.utils.deque.count
+==========================
+
+.. currentmodule:: networkx.utils
+
+.. automethod:: deque.count

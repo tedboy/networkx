@@ -1,0 +1,6 @@
+networkx.OrderedMultiDiGraph.nbunch_iter
+========================================
+
+.. currentmodule:: networkx
+
+.. automethod:: OrderedMultiDiGraph.nbunch_iter

@@ -1,0 +1,6 @@
+networkx.minimum_cut
+====================
+
+.. currentmodule:: networkx
+
+.. autofunction:: minimum_cut
